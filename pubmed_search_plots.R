@@ -41,7 +41,7 @@ dev.off()
 
 
 #
-pdf("pubmed_search_contries.pdf")
+pdf("pubmed_search_contries.pdf",  width = 10)
 contries <- c("China", "Australia", "U.K OR united kingdom", "U.S.A or united states", "Spain", "Franch")
 df <- matrix(, nrow=6, ncol=10)
 for(i in 1:2)
@@ -53,5 +53,5 @@ for(i in 1:2)
   }
   plot(df)
   
-}
+}""
 dev.off()
