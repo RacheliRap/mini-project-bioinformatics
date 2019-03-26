@@ -3,21 +3,21 @@ library("pubmed.mineR")
 library(stringdist)
 
 
-diseases_freq<- function(year) 
+diseases_freq<- function(myear) 
 {
   term <- "RNA-seq"
-  year <- year
+  year <- myear
   query <- paste(term, "AND (", year, "[PDAT])")
   r_search <- entrez_search(db="pubmed", term=query, retmax=1000)
   ids <- r_search$ids
   
   #send each id to pubtator_function to get information 
-  d = lapply(ids[1:1000], pubtator_function)
+  d = lapply(ids[1:20], pubtator_function)
   
   #create empty vector
   v <- c()
   
-  for (i in length(a):1)
+  for (i in 1:length(d))
   {
     #if the function return information about the abstract
     if(d[[i]] != " No Data ")
@@ -72,10 +72,10 @@ diseases_freq<- function(year)
   mat = mat[order(mat$nrow),]
   numRow <- nrow(mat)
   #extract 10 most popular diseases
-  topDiseases <- mat[(numRow-10):numRow,]
+  topDiseases <- mat[(numRow-3):numRow,]
   freq <- topDiseases$nrow
   names(freq) = topDiseases$ncol
-  barplot(freq,main=i,ylab="Amount",las=2)
+  barplot(freq,main=year,ylab="Amount",las=2)
 }
 
 
