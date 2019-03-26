@@ -18,7 +18,7 @@ categories,Methods,More abbreviations,,,,,
 ,RNA sequencing,WTSS,whole transcroptome shotgun sequencing,RNA seq,RNA-Seq,,
 ,small RNA sequencing,non coding rna sequencing,,,,,
 ,direct rna sequencing,,,,,,
-,single cell sequencing,SCS,IDBA-UD,cortex,HyDA,single-cell DNA sequencing,Single Cell Gene Expression
+,single cell sequencing,SCS,IDBA-UD,cortex,HyDA,single-cell DNA sequencing,Single cell Gene Expression
 ,exome sequencing,whole exome sequencing,WES,Whole exome,,,
 ,whole genome sequencing,WGS,full genome sequencing,complete genome sequencing,entire genome sequencing,whole genome,WGSBS
 ,dna microarray,DNA chip,biochip,,,,
