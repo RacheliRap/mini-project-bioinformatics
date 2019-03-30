@@ -100,7 +100,7 @@ for (i in 2010:2019)
   v <- getDiseases(ids)
   mdf <- groupDiseases(v)
   mat <- countGroups(mdf)
-  allDiseases <- c(allDiseases, mat[,1])
+  allDiseases <- rbind(allDiseases, mat[,1])
   
   mid <- Sys.time() - start # calculate running time
   print(mid)
@@ -116,7 +116,7 @@ dev.off()
 
 end <- Sys.time() - start # calculate running time
 
-print(paste("genral runing time:" , end))
-
+print(paste("genral running time:" , end))
+allDiseases = data.frame(allDiseases)
 names(allDiseases) <- 2010:2019
-write.csv(allDiseases, file = "allDiseasesTable_perYear.csv")
+write.csv(allDiseases, file = "allDiseasesTable_perYear.csv", col.names = TRUE)
