@@ -1,0 +1,1254 @@
+Genes	Diseases	Mutations	Chemicals	Species	PMID
+Genes	Diseases	Mutations	Chemicals	Species	PMID
+ADSSL1,ADSL,AMPD1	myopathy,muscular disorders,vastus lateralis muscle,glycolysis		purine,purine nucleotide	patients	30853170
+neuronal migration	epilepsy,Epilepsy,unilateral mesial temporal lobe epilepsy,seizure,seizures		doxycycline,metformin,nifedipine,pyrantel tartrate	patients,zebrafish	30847362
+RBPMS2,SIDT2,CDH23,LILRA5,KIR2DS5,HLA-H,RPS23,FHL3,RPL10A,NBPF14,PSTPIP2,FAM117B,CHST7,ABRACL	bipolar,Linear		lithium,Lithium	patients,male,patient,men,women	30828420
+RIG-I,IRF7,IL-6,IL-10	vacuolar degeneration,infection			duck,Tembusu virus,Duck	30827402
+	asthma				30815178
+	breast cancer,breast cancer brain metastasis,BCBM				30810051
+			phenylpropanoid,gibberellic acid,brassinosteroids		30804627
+				Neanderthal,Denisovan	30773169
+			ATP,indoxacarb	cotton bollworm,Helicoverpa armigera,H. armigera	30765056
+TENM4,SCZD2,teneurin transmembrane protein 4	Schizophrenia,psychiatric disorder,schizophrenia,schizophrenic			patients	30745909
+Genes	Diseases	Mutations	Chemicals	Species	PMID
+ADSSL1,ADSL,AMPD1	myopathy,muscular disorders,vastus lateralis muscle,glycolysis		purine,purine nucleotide	patients	30853170
+neuronal migration	epilepsy,Epilepsy,unilateral mesial temporal lobe epilepsy,seizure,seizures		doxycycline,metformin,nifedipine,pyrantel tartrate	patients,zebrafish	30847362
+RBPMS2,SIDT2,CDH23,LILRA5,KIR2DS5,HLA-H,RPS23,FHL3,RPL10A,NBPF14,PSTPIP2,FAM117B,CHST7,ABRACL	bipolar,Linear		lithium,Lithium	patients,male,patient,men,women	30828420
+RIG-I,IRF7,IL-6,IL-10	vacuolar degeneration,infection			duck,Tembusu virus,Duck	30827402
+	asthma				30815178
+	breast cancer,breast cancer brain metastasis,BCBM				30810051
+			phenylpropanoid,gibberellic acid,brassinosteroids		30804627
+				Neanderthal,Denisovan	30773169
+			ATP,indoxacarb	cotton bollworm,Helicoverpa armigera,H. armigera	30765056
+TENM4,SCZD2,teneurin transmembrane protein 4	Schizophrenia,psychiatric disorder,schizophrenia,schizophrenic			patients	30745909
+Genes	Diseases	Mutations	Chemicals	Species	PMID
+ADSSL1,ADSL,AMPD1	myopathy,muscular disorders,vastus lateralis muscle,glycolysis		purine,purine nucleotide	patients	30853170
+neuronal migration	epilepsy,Epilepsy,unilateral mesial temporal lobe epilepsy,seizure,seizures		doxycycline,metformin,nifedipine,pyrantel tartrate	patients,zebrafish	30847362
+RBPMS2,SIDT2,CDH23,LILRA5,KIR2DS5,HLA-H,RPS23,FHL3,RPL10A,NBPF14,PSTPIP2,FAM117B,CHST7,ABRACL	bipolar,Linear		lithium,Lithium	patients,male,patient,men,women	30828420
+RIG-I,IRF7,IL-6,IL-10	vacuolar degeneration,infection			duck,Tembusu virus,Duck	30827402
+	asthma				30815178
+	breast cancer,breast cancer brain metastasis,BCBM				30810051
+			phenylpropanoid,gibberellic acid,brassinosteroids		30804627
+				Neanderthal,Denisovan	30773169
+			ATP,indoxacarb	cotton bollworm,Helicoverpa armigera,H. armigera	30765056
+TENM4,SCZD2,teneurin transmembrane protein 4	Schizophrenia,psychiatric disorder,schizophrenia,schizophrenic			patients	30745909
+			Crassulacean Acid,Crassulacean acid,carbon,CO2	Erycina pusilla	30745906
+			DEG	cattle	30744377
+	Drosophila melanogaster embryos			Drosophila melanogaster	30739944
+CCl4,Nrf2	Toxicity,toxicity,hepatic cholestasis,LPS		alpha-naphthylisothiocyanate,carbon tetrachloride,methylenedianiline,MDA,acetaminophen,APAP,diclofenac,cholesterol,glutathione	Rat,rats,rat	30723492
+			TRIzol,phenol,zol,acid-guanidinium-phenol		30714828
+ISG20,isocitrate dehydrogenase,IDH,interferon-stimulated exonuclease gene 20,PD-L1,CTLA4	tumor,glioma,gliomagenesis,glioblastoma,GBM,tumors			human	30713788
+	hermaphrodite			Hermaphrodites,gilthead seabream,Sparus aurata,male	30713551
+CCND1,CDKN1A,TP53,BAX,TNFRSF10B,TNFRSF10C,TNFRSF10D,DDB2,PLCB1,PRKCQ,HSH2D,ZMAT3,PLK2,RPS27L,HTT,ZFP57,PIWIL2,HIST1H3C,HIST1H2BB,ZFP30	HD,Huntington disease			Human,patients,human	30713489
+	implantation failure			embryo,mink,embryos	30712661
+	heart failure		Hi-C	mammalian	30697540
+Ghrelin,ghrelin	ovarian,ovaries,premature ovarian		acyl,des-acyl	Mouse,GOAT,mice	30697193
+ZMYND15,KLHL10,TDRD1,TSSK2,DNAJB13	male infertility			Male,embryos,male	30697164
+heat shock protein			ethyl methanesulfonate,Csa6G405290	cucumber,Cucumis sativus L	30697118
+			Di-nucleotide		30697114
+			Anthocyanin,anthocyanins,anthocyanin	Carrot,Daucus carota L,carrots,carrot	30693006
+	Middle Cerebral Artery Occlusion,neurological deficits,MCAO,cocaine addiction,glycerophospholipid metabolism,intracerebral hemorrhage		Si,rno04512,rno04080,rno05030,amphetamine,nicotine,rno05033		30692926
+				Gossypium hirsutum,upland cotton,Gossypium hirsutum L	30687363
+	Sigma Factors SigD		phenol,Ala,Lys	Corynebacterium glutamicum ATCC 13032,C. glutamicum	30687273
+BCL6,TNF-alpha,CXCL9,CXCL10	B-Cell Lymphoma 6,Hepatitis B virus (HBV) infection,liver inflammation,acute infection,B cell lymphoma			HBV,mouse,mice	30687256
+	Haliotis discus hannai,NOD		Abalones,abalone,glutathione		30687115
+CD4,CD28,TH1,interferon (IFN)-gamma,IL-5	necrotic tissue injury				30686136
+	squamous cell carcinoma,neck squamous cell carcinoma,cancer,tumor,anatomic neoplasm subdivision,carcinoma,oral carcinoma,laryngeal carcinoma,hypopharyngeal carcinoma		LOC541471	patients	30675311
+				Wheat,f. sp,wheat,Triticum aestivum L	30673391
+rhl,elastase LasB,LecA,LecB	Virulence Factors,aeruginosa infection		Diallyl Disulfide,Garlic Oil,diallyl disulfide,DADS,pyocyanin,PXD011144	Pseudomonas aeruginosa,Pseudomonas aeruginosa PAO1,P. aeruginosa,P. aeruginosa PAO1,bacterial	30666240
+	hypothetical proteins,LPS		Colistin,colistin,OXA-23,imipenem,meropenem,ampicillin,sulbactam,ciprofloxacin,gentamicin,amikacin,trimethoprim,sulfamethoxazole,tigecycline,diacylglycerol,phosphoethanol	Acinetobacter baumannii,COL,parents	30666237
+	Colorectal cancer,CRC,cancer,death,tumors,Primary tumors,inflammation			Patient,Xenografts,mice,xenografts,donor	30662905
+				bacteria,Streptococcus pneumoniae,S. mutans,S. pneumoniae	30662898
+Vimentin,SIRT5,Sirtuin 5,Snail,E-cadherin,vimentin	hepatocellular carcinoma,HCC,tumor		lysine		30662803
+5'-nucleotidase	Cordyceps cicadae,Cicada flammata larvae		purine,adenosine,purine nucleotide		30662735
+Cox,BIRC5,CDC20,PLK1,CENPH,CDK4,KIF18A	hepatocellular carcinoma,HCC			patients	30662724
+BMP2,BMP3,NTF3				Rats,rats	30643803
+CD47,thrombospondin-1,signal-regulatory protein-alpha,interleukin-15	Armstrong lymphocytic choriomeningitis virus (LCMV) infection,viral infection		Cd47	Murine,mice,LCMV	30643501
+IRF7	respiratory syndrome,infects,pulmonary alveolar,infection			Porcine reproductive and respiratory syndrome virus,pig,virus,PRRSV	30642596
+bZIP transcription factor			methionine,H2O2,sulfur,cysteine	Alternaria alternata,conidia	30642471
+TNM	Chromophobe Renal Cell Carcinoma,Chromophobe renal cell carcinoma,chRCC,tumor			Patients,PATIENTS,patients	30639042
+			ergosterol,Ergosterol,tebuconazole,terbinafine,DEGs	Aspergillus oryzae 3.042,fungal,Aspergillus oryzae,Saccharomyces cerevisiae,S. cerevisiae	30637636
+				murine,mice,mouse	30637296
+				Rice,rice,Oryza sativa L	30631334
+KRAS,TP53,PIK3CB	Colon Cancer,colon cancer,tumor,APC,cancers			Patient,patient	30631260
+			carbohydrate	wheat,Wheat,human,bread wheat	30627606
+	Legume-rhizobial symbiosis,rhizobia		copper,nitrogen,Cu,DEGs,cysteine,ethylene,ET	bacteria	30625663
+CXCL8,IL8,MZB1			carboxyfluorescein succinimidyl ester	human,donors	30622539
+	Vein Disease,infection			Viruses,Mirafiori lettuce big-vein virus,lettuce big-vein associated virus,viruses,virus	30622528
+			hydrogen sulfide,H2S,sulfur,NADPH,S-adenosyl methionine,thiamine	Saccharomyces cerevisiae,S. cerevisiae,yeast	30621870
+STAT3	Multiple Sclerosis,Multiple sclerosis,MS,neurological disorder				30619471
+			GmNAC,NAC,NAM,salicylic acid,GmNACs,GmNAC065,GmNAC085,GmNAC177,chlorophyll,H2O2	Soybean,soybean,Glycine max,Arabidopsis thaliana,yeast	30619426
+			2-Cys,thiol,disulfide,Cys,Cys236,hydrogen peroxide,H2O2,oxygen,malondialdehyde,chlorophyll	Synechococcus elongatus PCC 7942,rice,Oryza sativa L,seedlings,Synechococcus elongatus,S. elongatus PCC 7942 strain,S. elongatus PCC 7942	30619416
+HMGN1,Th1,TLR7,CD80,CD83,CD86,IL-1beta,TNF-alpha,IRF3,IRF7,IFN-alpha2,IFN-alpha4,IL12A,IL12B,IFNB1	tumor			human,mouse,mice	30619338
+	teleost skin mucosal,infection,parasite infection,Ich,skin of infected,parasitic infection			rainbow trout,Oncorhynchus mykiss,Ichthyophthirius multifiliis,bacteria	30619329
+	bacterial infections,infections		Thiol,methicillin,silver,ruthenium,oxygen,thiol,Fe2+,Zn2+,bacillithiol,BSH,disulfide	Staphylococcus aureus,MRSA,bacterial,S. aureus,USA300	30619128
+			GGU nucleotide	Asian corn borers,cotton bollworms,red flour beetle	30618790
+TGF-beta1,KLF7,Gja4	chronic kidney failure,damage to kidney glomerular,diabetic nephropathy,kidney disease				30618784
+solute carrier family 32 (GABA vesicular transporter) member 1,Slc32a1,Penk,Erbb4,solute carrier family 1 (glial high affinity glutamate transporter) member 2,Slc1a2,Snrnp70,Smad1,Pax6,Cebpa,Smpx	Migraine-Associated Hyperalgesia,hyperalgesia,allodynia,neurological disorder of trigeminovascular pain,migraine,pain		nitroglycerin,NTG,preproenkephalin,tyrosine	mice,mouse	30618656
+fibroblast growth factor 3,FGF3,FGF10				Human,human	30618604
+NF-kappaB inducing kinase,NIK,alpha-NIK-OE,LTbetaR	Hypoglycemia,Pancreatitis,Growth Retardation,Postnatal Death,diabetes,inflammation,pancreatitis,pancreatic,hypoglycemia,growth retardation,postnatal death			Mice,adenovirus,mice	30613274
+CCR2,PRDX4,CCL2,peroxiredoxin4	ischemic,stroke,ischemic stroke,ischemic lesions,ischemic brain lesions,middle cerebral artery occlusion,MCAO,Brain edema,inflammation infiltration		oxygen,oxygen-glucose	rats	30613272
+Arg1,arginase 1,Gbp2b,Bst1,Sgk1,Pmepa1,Ms4a7	tumor,tumors			mice	30613266
+Acbd4,Cd300lg,Fam171a2,Arhgap27,Nhlrc1	cardiac arrhythmias,cardiac arrhythmia			Rat,rat,male,rats	30608189
+	cancer,tumor,uveal melanoma			PD-1,patients	30607140
+	neurodegenerative disease			mouse	30606613
+			silver		30228881
+G6PD,APLP1,GCNT3,PLPP2	aggressive clear cell renal cell carcinoma,Clear cell renal cell carcinoma,ccRCC,kidney cancer,tumor,Atlas Kidney Renal Clear Cell Carcinoma,tumors,necrosis			patients	30603059
+	colorectal cancer,carcinogenesis,carcinoma,CRC,tumors			Human	30603058
+	tumour inhibition,CD-HIT v4.6		flavones,4-coumaroyl-CoA,flavonoid,phenylpropanoid,taxifolin,coniferyl alcohol,flavolignan	C. japonicum	30602095
+	phenylketonuria,Cardiac malformations,Phenylketonuria,developmental,congenital heart defects,craniofacial anomalies,central nervous system defects,growth anomalies,cardiovascular malformations		phenylalanine,Retinoic Acid,RA,PHE	infant	30600150
+LINC01268	aggression		LOC285758	human	30600091
+asparagine synthetase	Drought stress		carbon,nitrogen,DEGs,sucrose	maize,Zea mays L	30599307
+			sucrose,glucosinolate		30598864
+	cancer,cancers,melanoma			Human	30598115
+			oxygen	rice,seedlings	30598105
+	Crohn's disease,prostate cancer			human	30598101
+Rad21,SMC3,CTCF,RAD2,ELF1,TAF1	HMs		GM12878	human	30598100
+IGF1,ESR1,BMP5,ZBTB16			Androgen,Oestrogen,steroids,androgen,oestrogen,adiol	male,males	30598023
+	head and neck squamous cell carcinoma,NGS,HNSCC,neck squamous cell carcinoma,HPV carcinogenesis,cancer,tumor,cancers			human papillomavirus,human,viruses,patients,human papillomavirus (HPV,HPV	30597724
+small nucleolar RNA host gene 4,Snhg4	proteinuria,glomerular diseases,nephrotic,glomerular injury		puromycin aminonucleoside,poly(A)	rat,rats	30597036
+			digoxigenin	mouse,Mammalian	30596133
+			nocodazole	Human,human	30595546
+CD8,CD4,TCR	Melanoma,cancer,melanoma,dysfunctional T,tumor			Human,human,patients	30595452
+				human	30594648
+SnRK1,ZmSnRK1	hypersensitivity		sucrose,carbon,Sucrose,sugar,glucose	maize,Arabidopsis thaliana,Zea mays L,Arabidopsis	30594634
+ACSL4,Acsl,ACSL3,cyclin E,Prospero	non-syndromic X-linked intellectual disability,developmental defects of the mushroom body,olfactory learning and memory,Drosophila Acsl		acyl-CoA	human	30594466
+	infection of Elaeis guineensis by Ganoderma,hemibiotroph Ganoderma boninense,boninense infection		oxygen,NADPH,iron	fungal,Elaeis guineensis,seedlings	30594134
+			dinucleotides		30594132
+	assembly		carbohydrate,monosaccharide	embryos,embryo,Arabidopsis thaliana	30594130
+Genes	Diseases	Mutations	Chemicals	Species	PMID
+ADSSL1,ADSL,AMPD1	myopathy,muscular disorders,vastus lateralis muscle,glycolysis		purine,purine nucleotide	patients	30853170
+neuronal migration	epilepsy,Epilepsy,unilateral mesial temporal lobe epilepsy,seizure,seizures		doxycycline,metformin,nifedipine,pyrantel tartrate	patients,zebrafish	30847362
+RBPMS2,SIDT2,CDH23,LILRA5,KIR2DS5,HLA-H,RPS23,FHL3,RPL10A,NBPF14,PSTPIP2,FAM117B,CHST7,ABRACL	bipolar,Linear		lithium,Lithium	patients,male,patient,men,women	30828420
+RIG-I,IRF7,IL-6,IL-10	vacuolar degeneration,infection			duck,Tembusu virus,Duck	30827402
+	asthma				30815178
+	breast cancer,breast cancer brain metastasis,BCBM				30810051
+			phenylpropanoid,gibberellic acid,brassinosteroids		30804627
+				Neanderthal,Denisovan	30773169
+			ATP,indoxacarb	cotton bollworm,Helicoverpa armigera,H. armigera	30765056
+TENM4,SCZD2,teneurin transmembrane protein 4	Schizophrenia,psychiatric disorder,schizophrenia,schizophrenic			patients	30745909
+			Crassulacean Acid,Crassulacean acid,carbon,CO2	Erycina pusilla	30745906
+			DEG	cattle	30744377
+	Drosophila melanogaster embryos			Drosophila melanogaster	30739944
+CCl4,Nrf2	Toxicity,toxicity,hepatic cholestasis,LPS		alpha-naphthylisothiocyanate,carbon tetrachloride,methylenedianiline,MDA,acetaminophen,APAP,diclofenac,cholesterol,glutathione	Rat,rats,rat	30723492
+			TRIzol,phenol,zol,acid-guanidinium-phenol		30714828
+ISG20,isocitrate dehydrogenase,IDH,interferon-stimulated exonuclease gene 20,PD-L1,CTLA4	tumor,glioma,gliomagenesis,glioblastoma,GBM,tumors			human	30713788
+	hermaphrodite			Hermaphrodites,gilthead seabream,Sparus aurata,male	30713551
+CCND1,CDKN1A,TP53,BAX,TNFRSF10B,TNFRSF10C,TNFRSF10D,DDB2,PLCB1,PRKCQ,HSH2D,ZMAT3,PLK2,RPS27L,HTT,ZFP57,PIWIL2,HIST1H3C,HIST1H2BB,ZFP30	HD,Huntington disease			Human,patients,human	30713489
+	implantation failure			embryo,mink,embryos	30712661
+	heart failure		Hi-C	mammalian	30697540
+Ghrelin,ghrelin	ovarian,ovaries,premature ovarian		acyl,des-acyl	Mouse,GOAT,mice	30697193
+ZMYND15,KLHL10,TDRD1,TSSK2,DNAJB13	male infertility			Male,embryos,male	30697164
+heat shock protein			ethyl methanesulfonate,Csa6G405290	cucumber,Cucumis sativus L	30697118
+			Di-nucleotide		30697114
+			Anthocyanin,anthocyanins,anthocyanin	Carrot,Daucus carota L,carrots,carrot	30693006
+	Middle Cerebral Artery Occlusion,neurological deficits,MCAO,cocaine addiction,glycerophospholipid metabolism,intracerebral hemorrhage		Si,rno04512,rno04080,rno05030,amphetamine,nicotine,rno05033		30692926
+				Gossypium hirsutum,upland cotton,Gossypium hirsutum L	30687363
+	Sigma Factors SigD		phenol,Ala,Lys	Corynebacterium glutamicum ATCC 13032,C. glutamicum	30687273
+BCL6,TNF-alpha,CXCL9,CXCL10	B-Cell Lymphoma 6,Hepatitis B virus (HBV) infection,liver inflammation,acute infection,B cell lymphoma			HBV,mouse,mice	30687256
+	Haliotis discus hannai,NOD		Abalones,abalone,glutathione		30687115
+CD4,CD28,TH1,interferon (IFN)-gamma,IL-5	necrotic tissue injury				30686136
+	squamous cell carcinoma,neck squamous cell carcinoma,cancer,tumor,anatomic neoplasm subdivision,carcinoma,oral carcinoma,laryngeal carcinoma,hypopharyngeal carcinoma		LOC541471	patients	30675311
+				Wheat,f. sp,wheat,Triticum aestivum L	30673391
+rhl,elastase LasB,LecA,LecB	Virulence Factors,aeruginosa infection		Diallyl Disulfide,Garlic Oil,diallyl disulfide,DADS,pyocyanin,PXD011144	Pseudomonas aeruginosa,Pseudomonas aeruginosa PAO1,P. aeruginosa,P. aeruginosa PAO1,bacterial	30666240
+	hypothetical proteins,LPS		Colistin,colistin,OXA-23,imipenem,meropenem,ampicillin,sulbactam,ciprofloxacin,gentamicin,amikacin,trimethoprim,sulfamethoxazole,tigecycline,diacylglycerol,phosphoethanol	Acinetobacter baumannii,COL,parents	30666237
+	Colorectal cancer,CRC,cancer,death,tumors,Primary tumors,inflammation			Patient,Xenografts,mice,xenografts,donor	30662905
+				bacteria,Streptococcus pneumoniae,S. mutans,S. pneumoniae	30662898
+Vimentin,SIRT5,Sirtuin 5,Snail,E-cadherin,vimentin	hepatocellular carcinoma,HCC,tumor		lysine		30662803
+5'-nucleotidase	Cordyceps cicadae,Cicada flammata larvae		purine,adenosine,purine nucleotide		30662735
+Cox,BIRC5,CDC20,PLK1,CENPH,CDK4,KIF18A	hepatocellular carcinoma,HCC			patients	30662724
+BMP2,BMP3,NTF3				Rats,rats	30643803
+CD47,thrombospondin-1,signal-regulatory protein-alpha,interleukin-15	Armstrong lymphocytic choriomeningitis virus (LCMV) infection,viral infection		Cd47	Murine,mice,LCMV	30643501
+IRF7	respiratory syndrome,infects,pulmonary alveolar,infection			Porcine reproductive and respiratory syndrome virus,pig,virus,PRRSV	30642596
+bZIP transcription factor			methionine,H2O2,sulfur,cysteine	Alternaria alternata,conidia	30642471
+TNM	Chromophobe Renal Cell Carcinoma,Chromophobe renal cell carcinoma,chRCC,tumor			Patients,PATIENTS,patients	30639042
+			ergosterol,Ergosterol,tebuconazole,terbinafine,DEGs	Aspergillus oryzae 3.042,fungal,Aspergillus oryzae,Saccharomyces cerevisiae,S. cerevisiae	30637636
+				murine,mice,mouse	30637296
+				Rice,rice,Oryza sativa L	30631334
+KRAS,TP53,PIK3CB	Colon Cancer,colon cancer,tumor,APC,cancers			Patient,patient	30631260
+			carbohydrate	wheat,Wheat,human,bread wheat	30627606
+	Legume-rhizobial symbiosis,rhizobia		copper,nitrogen,Cu,DEGs,cysteine,ethylene,ET	bacteria	30625663
+CXCL8,IL8,MZB1			carboxyfluorescein succinimidyl ester	human,donors	30622539
+	Vein Disease,infection			Viruses,Mirafiori lettuce big-vein virus,lettuce big-vein associated virus,viruses,virus	30622528
+			hydrogen sulfide,H2S,sulfur,NADPH,S-adenosyl methionine,thiamine	Saccharomyces cerevisiae,S. cerevisiae,yeast	30621870
+STAT3	Multiple Sclerosis,Multiple sclerosis,MS,neurological disorder				30619471
+			GmNAC,NAC,NAM,salicylic acid,GmNACs,GmNAC065,GmNAC085,GmNAC177,chlorophyll,H2O2	Soybean,soybean,Glycine max,Arabidopsis thaliana,yeast	30619426
+			2-Cys,thiol,disulfide,Cys,Cys236,hydrogen peroxide,H2O2,oxygen,malondialdehyde,chlorophyll	Synechococcus elongatus PCC 7942,rice,Oryza sativa L,seedlings,Synechococcus elongatus,S. elongatus PCC 7942 strain,S. elongatus PCC 7942	30619416
+HMGN1,Th1,TLR7,CD80,CD83,CD86,IL-1beta,TNF-alpha,IRF3,IRF7,IFN-alpha2,IFN-alpha4,IL12A,IL12B,IFNB1	tumor			human,mouse,mice	30619338
+	teleost skin mucosal,infection,parasite infection,Ich,skin of infected,parasitic infection			rainbow trout,Oncorhynchus mykiss,Ichthyophthirius multifiliis,bacteria	30619329
+	bacterial infections,infections		Thiol,methicillin,silver,ruthenium,oxygen,thiol,Fe2+,Zn2+,bacillithiol,BSH,disulfide	Staphylococcus aureus,MRSA,bacterial,S. aureus,USA300	30619128
+			GGU nucleotide	Asian corn borers,cotton bollworms,red flour beetle	30618790
+TGF-beta1,KLF7,Gja4	chronic kidney failure,damage to kidney glomerular,diabetic nephropathy,kidney disease				30618784
+solute carrier family 32 (GABA vesicular transporter) member 1,Slc32a1,Penk,Erbb4,solute carrier family 1 (glial high affinity glutamate transporter) member 2,Slc1a2,Snrnp70,Smad1,Pax6,Cebpa,Smpx	Migraine-Associated Hyperalgesia,hyperalgesia,allodynia,neurological disorder of trigeminovascular pain,migraine,pain		nitroglycerin,NTG,preproenkephalin,tyrosine	mice,mouse	30618656
+fibroblast growth factor 3,FGF3,FGF10				Human,human	30618604
+NF-kappaB inducing kinase,NIK,alpha-NIK-OE,LTbetaR	Hypoglycemia,Pancreatitis,Growth Retardation,Postnatal Death,diabetes,inflammation,pancreatitis,pancreatic,hypoglycemia,growth retardation,postnatal death			Mice,adenovirus,mice	30613274
+CCR2,PRDX4,CCL2,peroxiredoxin4	ischemic,stroke,ischemic stroke,ischemic lesions,ischemic brain lesions,middle cerebral artery occlusion,MCAO,Brain edema,inflammation infiltration		oxygen,oxygen-glucose	rats	30613272
+Arg1,arginase 1,Gbp2b,Bst1,Sgk1,Pmepa1,Ms4a7	tumor,tumors			mice	30613266
+Acbd4,Cd300lg,Fam171a2,Arhgap27,Nhlrc1	cardiac arrhythmias,cardiac arrhythmia			Rat,rat,male,rats	30608189
+	cancer,tumor,uveal melanoma			PD-1,patients	30607140
+	neurodegenerative disease			mouse	30606613
+			silver		30228881
+G6PD,APLP1,GCNT3,PLPP2	aggressive clear cell renal cell carcinoma,Clear cell renal cell carcinoma,ccRCC,kidney cancer,tumor,Atlas Kidney Renal Clear Cell Carcinoma,tumors,necrosis			patients	30603059
+	colorectal cancer,carcinogenesis,carcinoma,CRC,tumors			Human	30603058
+	tumour inhibition,CD-HIT v4.6		flavones,4-coumaroyl-CoA,flavonoid,phenylpropanoid,taxifolin,coniferyl alcohol,flavolignan	C. japonicum	30602095
+	phenylketonuria,Cardiac malformations,Phenylketonuria,developmental,congenital heart defects,craniofacial anomalies,central nervous system defects,growth anomalies,cardiovascular malformations		phenylalanine,Retinoic Acid,RA,PHE	infant	30600150
+LINC01268	aggression		LOC285758	human	30600091
+asparagine synthetase	Drought stress		carbon,nitrogen,DEGs,sucrose	maize,Zea mays L	30599307
+			sucrose,glucosinolate		30598864
+	cancer,cancers,melanoma			Human	30598115
+			oxygen	rice,seedlings	30598105
+	Crohn's disease,prostate cancer			human	30598101
+Rad21,SMC3,CTCF,RAD2,ELF1,TAF1	HMs		GM12878	human	30598100
+IGF1,ESR1,BMP5,ZBTB16			Androgen,Oestrogen,steroids,androgen,oestrogen,adiol	male,males	30598023
+	head and neck squamous cell carcinoma,NGS,HNSCC,neck squamous cell carcinoma,HPV carcinogenesis,cancer,tumor,cancers			human papillomavirus,human,viruses,patients,human papillomavirus (HPV,HPV	30597724
+small nucleolar RNA host gene 4,Snhg4	proteinuria,glomerular diseases,nephrotic,glomerular injury		puromycin aminonucleoside,poly(A)	rat,rats	30597036
+			digoxigenin	mouse,Mammalian	30596133
+			nocodazole	Human,human	30595546
+CD8,CD4,TCR	Melanoma,cancer,melanoma,dysfunctional T,tumor			Human,human,patients	30595452
+				human	30594648
+SnRK1,ZmSnRK1	hypersensitivity		sucrose,carbon,Sucrose,sugar,glucose	maize,Arabidopsis thaliana,Zea mays L,Arabidopsis	30594634
+ACSL4,Acsl,ACSL3,cyclin E,Prospero	non-syndromic X-linked intellectual disability,developmental defects of the mushroom body,olfactory learning and memory,Drosophila Acsl		acyl-CoA	human	30594466
+	infection of Elaeis guineensis by Ganoderma,hemibiotroph Ganoderma boninense,boninense infection		oxygen,NADPH,iron	fungal,Elaeis guineensis,seedlings	30594134
+			dinucleotides		30594132
+	assembly		carbohydrate,monosaccharide	embryos,embryo,Arabidopsis thaliana	30594130
+phosphoenolpyruvate carboxylase			carbon,SlPEPC5,SlPEPC3, SlPEPC4,IAA	Solanum lycopersicum L,tomato,Tomato	30593913
+E2-2,AML1,ETO,HEB,E2A,THPO	leukemia,acute myeloid leukemia,AML			patients,mouse,human	30593567
+PXR,CAR,pregnane X receptor,NR1I2,Nr1i3,LRH-1			PCN,TCPOBOP,bile acid,H3K4-di,H3K4me2	Mouse,male,C57BL/6,mice,corn	30593543
+miR-210,foxj1b,slc3a2a,gata4/5/6,gata4/5,gata5/6	myelopoiesis			Zebrafish,embryos,zebrafish	30593510
+	cytotoxicity,tumor,necrosis		epinecidin-1,Epi	orange-spotted grouper,Epinephelus coioides	30592965
+TP53INP1,Caspase-3,PARP1,p53,TP53			Paclitaxel,paclitaxel	HS 737.T	30592172
+BCL2,FCER2,CD52,CEBPA,B2M	lymphoma cancers,Follicular lymphoma,FL,lymphomas,tumors,tumor			patient	30591526
+	tumor,colorectal cancer,CRC,miRanda,cancer				30591054
+	benchmarking			human	30591034
+AtCOBL4	glycosylphosphatidylinositol-anchored			Sorghum,sorghum,Sorghum bicolor,rice,Arabidopsis thaliana	30590744
+	allopolyploidization			Arabidopsis,wheat,Triticum aestivum	30590436
+			isoamyl-acetate	Drosophila suzukii,Drosophila melanogaster,D. suzukii	30590188
+				amphioxus,Amphioxus,Branchiostoma belcheri,B. belcheri	30590167
+			CmWRKY	Cucumis melo L,cucumber	30589839
+transferase-related protein 3-like (EgTAA3) and flavin-containing monooxygenase 1			indole-3-acetic acid (IAA)-amido,tryptophan amino		30588395
+			HEG	Fusarium graminearum,F. graminearum,F. oxysporum	30588394
+OIP5,Opa interacting protein 5,TOP2A,SPAG5,SKA1,EXO1,TK1	Metastasis,Cancer,bladder cancer,BC,tumor,fanconi anemia		Cisplatin,cisplatin	patients	30588253
+AFAP1,AS1,E-cadherin,ZO-1,Vimentin,MMP9,ZEB1,beta-catenin	Colon Cancer,cancers,AFAP1-AS1 in colon cancer			patients	30588252
+MTDH,AEG-1,caspase-3	bladder urothelial cancer,cancers,bladder urothelial carcinoma,BUC		MTS,Hoechst 33342,propidium iodide		30588098
+ADAR	cancer,neurological disorders,eQTLs		Adenosines,Inosines,alcohol,LOC730338	human	30587120
+			rapamycin	Litopenaeus vannamei,virus,bacteria,white shrimp,L. vannamei	30586633
+PDGFR,ERCC1,excision repair cross-complementing 1,hub,PDGFRB	lung cancer,lung adenocarcinoma,metastases,tumor		sodium glycididazole,cisplatin,platinum	patients	30584903
+	malaria,embryonic			Asian malaria mosquito,Anopheles stephensi,Drosophila melanogaster,Aedes aegypti,D. melanogaster,embryo	30583723
+Rad					30583719
+				Bacterial,bacteriophages,Herbaspirillum seropedicae,H. seropedicae) SmR1,bacteria	30583511
+MSMO1,NSDHL					30582412
+myocardial infarction-associated transcript,MIAT,cyclooxygenase 2,COX-2	fibrosis,pancreatitis,pancreatic tissues of chronic pancreatitis,pancreatic fibrosis			patients,human	30582203
+			O157,E-MTAB-3249, E-MTAB-4120, E-MTAB-7441	Escherichia coli,spinach	30581915
+HOXA10,TP53,STAT3,AKT	Testicular Cancer,inherited diseases,testicular cancer,testicular cancers,cancerous testis,cancer,cancers,seminoma and non-seminoma		TCam2	mouse,human,Participants,NCCIT	30581773
+	endometrial carcinoma,EC,carcinogenesis				30581678
+	metabolic diseases,diabetes			mouse,human	30581120
+O6-methylguanine-DNA-methyltransferase,MGMT	colorectal cancer,glioblastoma,tumour		temozolomide,TMZ,methyl	patients	30579113
+Caz,FUS	Drosophila FUS,neuronal disorders,neuronal diseases,amyotrophic lateral sclerosis,ALS			Aubergine	30578769
+peroxidase	dehydration tolerance		sugar,superoxide,sucrose,glucose,oxygen	seedlings	30578709
+	hypoxia		pentose phosphate,carbon,tricarboxylic acid,NADPH	Streptomyces lividans,Streptomyces lividans TK24,Rhodothermus marinus,S. lividans,S. lividans strain	30577858
+	cancer,squamous cell carcinoma,SCC,adenocarcinoma,ADENO		MOCCA		30577846
+				mouse,human,C57BL/6 J	30577840
+	tumor,prostate cancer		androgen	mouse,embryos	30577836
+	IDD,FD		carbohydrate,fatty acid,carbon,indole-3-acetic acid,gibberellin,abscisic acid,salicylic acid,jasmonic acid	apple,apple tree	30577771
+	cancer				30577731
+				embryos,embryo,a 10	30576740
+MYB				Gossypium hirsutum,upland cotton,Arabidopsis	30576529
+Dynlrb2,Cdyl2,neuroserpin,Maob,monoamine oxidase B,Ap2b1	bipolar disorder,mood disorders		lithium,valproic acid,Valproic acid,VPA,Nts,neurotensin	rat	30576260
+	cytomegalovirus infection,lytic infection,leukemia			Human cytomegalovirus (HCMV,newborns,virus,human,children,patients	30576257
+NHL-2,CSR-1,HRDE-1				C. elegans	30575518
+DNAH17,DNMT	hepatocellular carcinoma,Hepatocellular carcinoma,HCC,malignancy,tumor,tumor necrosis,liver cirrhosis,tumor thrombus,tumor thrombosis		decitabine	male,patients	30575322
+				Pareuchiloglanis sinensis,P. sinensis	30574876
+	lesion of disease,kidney diseases				30574498
+POSTN,pyrroline-5-carboxylate reductase 1,PYCR1,ECM,elastin,ELN,decorin	Metabolic Disorder,PYCR1) deficiency,autosomal recessive cutis laxa,ARCL,cutis laxa,cardiovascular disease,neurocutaneous syndrome		Proline,periostin	patients	30574417
+	glycerol backbone		diacylglycerol,glycerol-3-phosphate,fatty acids,triacylglycerol,TAG,fatty acid,sugars,TCA,carbon,monoacylglycerols	Camelina sativa,C. sativa	30574188
+			N2O,nitric,nitrous,oxides,NOB,CO2,ammonia,nitrogen	bacteria	30574136
+				donors,Human	30573817
+PRR14L,CD34	uniparental disomy,hematopoiesis and myeloid neoplasia,cancer,chronic myelomonocytic leukemia,CMML,myeloid neoplasms,hematopoiesis,myeloid neoplasm			patients,human	30573780
+			galactomannan	Glycine max	30572838
+	colorectal cancer				30572829
+CBP,beta-Catenin,FOXM1,cAMP-response element-binding (CREB) binding protein,CREBBP,beta-catenin	Breast Cancer,breast cancers,cancer,tumor initiation,TNBC tumors,breast cancer				30572639
+delta-like protein 3,DLL3	endometrial cancer,cancer,tumor,para-carcinoma,metastases			patients	30572444
+	microalga Dunaliella salina,toxicity		cadmium,Cd,chlorophyll	Dunaliella salina,D. salina	30572175
+			silver,Silver,carbohydrate	Staphylococcus aureus,S. aureus	30572157
+	infection,infected			Clarias gariepinus,Aeromonas veronii,C. gariepinus	30572129
+	coagulation		aspartate,alanine,nitrogen	bighead carp,Aristichthys nobilis	30572126
+	water deficiency				30572099
+	Retinitis pigmentosa,RP,inherited ocular disorder,retinal disruption,Retinal pigment epithelium (RPE) degeneration			human	30569795
+PRMT1,protein arginine methyltransferase 1,mTOR	colon cancer,colon,inflammation,CRC		arginine,sodium propionate,fatty acids,propionate,SP	bacterial,patients	30569144
+CD68,IDH,TIM-3	glioma,tumor,cancer,Glioma Genome Atlas,malignancy in glioma,tumors,glioma progression			Patients,patients	30568502
+SRPK1,BRD4,MLL,MYB,MED24,BCL2,MYC	myeloid leukemia,acute myeloid leukemia,AML,leukemic			mice	30568163
+	Bradynema			nematode,carrot,larvae,pupae,carrots	30567618
+	infection,tritici-repentis (infection)			wheat,Pyrenophora tritici-repentis,Triticum aestivum,P. tritici-repentis	30567596
+				human,people,patients	30567591
+	papillomatosis,hyperproliferative lesions,papillomas,malignant tumors,viral infection			bovine,Bovine,BPV,bovines,virus,cows	30567500
+Hoxa1,E2F1,p53,MYC,miR-504,miR-30a	annotation,analytic functionalities			mouse	30567491
+MafA,Maf,interferon-beta,MAFA,MAFB,IFNAR1,DDX58,IFIH1,Rig1,Mda5	diabetes,pancreatic islets,enterovirus infection,infection			Human,Mouse,human,mouse,humans,virus	30567413
+Paired Related Homeobox Protein 1,paired related homeobox protein 1,PRRX1,rag2,IFN-gamma	hypomyelinated,demyelination			Human,mouse	30566868
+BMAL1,CREB,TFEB	liver				30566858
+				Human	30566602
+FUT11,FAM155A,BRD2,GLUD1					30565714
+	follicular lymphomas,tumour,follicular lymphoma,FL,tumours				30565652
+	Chorioamnionitis,intrauterine infection,chorioamnionitis,sepsis		H3K4me3,O30,O30C	neonates	30565411
+PDCD6IP	cerebral palsy,Cerebral palsy,CP,movement disorder			zebrafish	30564460
+ORF1,ORF1p,CRM1,TAR DNA Binding Protein,TDP-43,C9orf72	amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,ALS,neurodegenerative disease,teratocarcinoma,neurodegenerative disorders			human,patients	30564290
+IMF,FASN,SCD,ELOVL6,DGAT2,PLIN1,CIDEC,ADIPOQ,EGR1,EGR2,EGR3,JUNB,SEMA4D,ARID5B,CREB1,VDR,ATF6,ATF3,KLF11,MYF6				Pigs,pig,pigs	30564273
+Adcyap1r1			Estrogen,Alcohol,alcohol,DEGs,GABA,serotonin,beta-estradiol,estrogen	Rat,Humans,males,rat,rats,male,Chat	30564267
+			leptotene-zygotene	Wheat,wheat,rye	30564262
+Reg	toxicity		phenylalanine ammonia	human	30564200
+RNF20,interleukin 6,IL6	ovarian cancer,serous tubal intraepithelial carcinomas,STIC,serous ovarian carcinomas,serous ovarian carcinoma				30563893
+HMGR	CHS,HMGS,skin pigmentation		Anthocyanin,anthocyanins,anthocyanin,phenylpropanoid,F3'H,IAA,terpenoid,PP2C,flavonoid	apple,Malus domestica Borkh,apples	30563462
+	Carya illinoinensis		Flavonoid,flavonoid,tannin,flavan-3-ols,Catechin,flavan-3-ol,DEGs,2 F3'Hs,2 F3'5'Hs		30563335
+Mkp-1,p38,c-Jun N-terminal kinase,JNK	Sepsis,sepsis,hypertriglyceridemia,coli infection,hepatocyte ballooning		triglyceride,fatty acid,Cd	Mice,mice,Escherichia coli	30563203
+				Red Imported Fire Ant,Solenopsis invicta,Larval,S. invicta,larvae,pupae	30563147
+	Eriobotrya japonica Fruits,chilling injury physiological disorders		terpenoid,steroid,Ca2+,sugars		30563027
+MYB	Confers Drought		abscisic acid,ABA,salicylic acid,SA,proline,Pro,malondialdehyde,MDA	Soybean,soybean,seedlings	30562982
+C/EBPalpha,FGF1	obesity,metabolic disorders			Human,Embryo,human,fetuses,embryo	30562744
+TNF,IL6,TREM1,IL1B,PTGER2,ERBB2,TGFB1,AREG,HGF	Viral Bronchiolitis,acute viral bronchiolitis,inflammation,viral infections		steroid	Children,infants,infant,children	30562046
+	behavioral impairments		CO2,GABA	coho salmon,Oncorhynchus kisutch	30561876
+	premenopausal cancer,ovarian,ovarian toxicity		doxorubicin,estrogen,Doxorubicin,DOX,17beta-estradiol,progesterone	mice,patients,embryo,CD-1 mice,human	30561525
+	labor,assembly pipeline			Formica fusca,larval,larvae	30561435
+TNM	gastric cancer,cancers,gastric cancers		DEGs	human,patients	30560474
+xyloglucan endotransglucosylase/hydrolase,XTH	polyploidization		colchicine	radish,Raphanus sativus L,Radish	30560406
+miR-140,IGF1R,FOS	lung cancer,NSCLC		Biotin,glycine		30559931
+PRKAG2	Chronic Kidney Disease,chronic kidney disease,CKD		creatinine	human,donors	30559760
+bla,KPC-2			Imipenem,imipenem,aph(3')-I,iron,iron sulfur,copper	Escherichia coli,Klebsiella pneumoniae,E. coli,K. pneumoniae	30559731
+Chchd2,ribonuclease P RNA component H1,Rpph1,stature homeobox 2,Shox2,transient receptor potential melastatin 6,Trpm6,tumor necrosis factor receptor superfamily, member 9,Tnfrsf9,cholecystokinin,Cck,vasoactive intestinal polypeptide,Vip,angiotensinogen,Agt,galanin,Gal,prolactin receptor,Prlr,Kcnj6,retinoic acid-related (RAR)-related orphan receptor alpha,Rora,neurogranin,Nrgn,Rims1	narcolepsy,attention-deficit hyperactivity disorder,weight loss,toxicity,memory and neuroplasticity		Amphetamine,amphetamine,arginine vasopressin,Avp,oxytocin,thyrotropin,neurotensin,Nts,Potassium	Mouse,mice,mouse	30559594
+	neuropsychiatric disorders,schizophrenia and autism			human	30559385
+PPP2R1B,YWHAZ,MAD2L1,SPDYC,SKP1,CDC27,SF3B1,MAGOHB,PHF5A,PRPF18,DDX5,THOC1,BAT1,E2F4,DBF4,YWHAB,SKP2,CDC23,SMC3,CDC25A,CCND3,BUB1B,MDM2,CCNA2,CDC7,NBN,XRCC3,SHFM1,RAD54B,RAD51	fusion failure,PN arrest		Poly-PN,Tri-PN,LOC645691	human,patients,patient	30559372
+				Candida auris,fungal,C. albicans,C. glabrata,C. auris	30559369
+ATP7B,IFNG,IL10RA,interferon-gamma,ATP7b	cytotoxicity and primary immunodeficiency		cholesterol,steroid,fatty acid,triglyceride	cattle,cows,bovine	30558534
+ubiquitin-C,UBC	non-small cell lung cancer,NSCLC			human	30558318
+ACCs	Adrenocortical Carcinoma,Pheochromocytoma and Paraganglioma,Adrenocortical carcinoma,ACC,pheochromocytoma and paraganglioma,PPGL,cancers,tumors,gliomas,neuroblastomas,pancreatic neuroendocrine tumors,neural crest tumors				30558313
+beta-actin,beta-actin-/,BAF,Brg1			H3K9Me3	mouse	30557298
+	hypersensitive			maize,Arabidopsis,yeast	30556198
+	Nonalcoholic Steatohepatitis,obesity,fatty liver disease,pediatric liver disease,lactation,hepatic steatosis, injury,inflammation,fibrosis,steatohepatitis,obese		fructose,cholesterol,bisulfite	C57BL/6J,mice,Mice,children	30556038
+estrogen receptor,beta2,beta5,estrogen receptor beta,ABCG2,MDR1,Notch3,HIF-1alpha,HIF-2alpha	prostate cancer,cancer,hypoxia,urothelial carcinoma		androgen,docetaxel		30555629
+Sfp1,Hfi1,Pip2,Mig2,Yhp1,Xbp1			fatty acids,carbohydrate,lysine	Yeast,yeast	30555512
+				Rice,Chilo suppressalis,rice,C. suppressalis	30555350
+				Gossypium raimondii,G. arboreum,G. raimondii,G. hirsutum	30555058
+Huntingtin,NKX2.2,OLIG2,SOX10,MYRF	Huntington's Disease,Huntington's disease,HD,hypomyelination,neuronal loss,myelin loss,hypomyelinated			Human,Mouse,human,embryos,mice	30554964
+	Alzheimer's disease,Parkinson's disease,prion diseases,schizophrenia,multiple sclerosis,nervous system diseases,neurodegenerative disease			people	30554402
+	invasive cervical cancer,tumors			HPV,HPV16,HPV18,human	30552977
+				rice,Oryza sativa L	30552799
+E2f3,E2F3	Drug abuse,multifaceted disorder,cocaine locomotor		cocaine		30552390
+	proteomic			Aedes aegypti,yellow fever mosquito,viruses,male,males	30552291
+HDAC,Friedreich ataxia,frataxin,FXN	Friedreich ataxia neurons,FRDA,neurodegenerative disorder,FRDA neurons,peripheral nervous system		2-aminobenzamide	patients	30552117
+histone H3.3,H3f3a,H3f3b				mouse,mice	30552116
+				mammalian,patients	30552105
+PD-L1	cancer,tumor,tumor epithelia,tumors,tumor cytotoxicity		PDO	patient,human,mouse,murine	30550791
+			sugars,organic acids,carbohydrates,RB867515	Sugarcane,bacteria,sugarcane,bacterial	30550601
+	Muller glia		retinal organoids	Human,human	30548510
+RP11,LINC01123	neck squamous cell carcinoma,head and neck squamous cell carcinoma,HNSCC			patients	30548328
+VEGF	invasive lung cancer,Adenocarcinoma in situ,AIS,lung adenocarcinoma,invasive lung adenocarcinoma,lung cancer,LUAD,tumor,cancer			patients	30547817
+CA1	myeloid leukemia,instrumental			mouse	30547798
+	cancer,view of lung			human,humans	30546835
+miR-760,microRNA (miR)-760	hepatocellular carcinoma,cancer,HCC,tumor			patients,male	30546462
+	schizophrenia,SZ,particular psychosis,toxicity,neurodegeneration		Dopamine,dopamine,DA		30546022
+			anthocyanin,flavonoid,VuF3'H,VuFHT		30545307
+				chickens	30545300
+MYD88,TLR4,IL15,VEGFA,MyD88			corticosterone,CORT	chicken,Gallus Gallus,chickens	30545299
+	filamentous fungus Sordaria macrospora		bisulfite	Fungal,Sordaria macrospora	30545291
+	genetic lesion		ethylene,sugar	tomato,Solanum lycopersicum	30545217
+catalase,CAT,glutathione S-transferase,GST			Grapevine,superoxide,sodium,potassium,chlorine	Vitis vinifera L	30545146
+GGPPS			phytoene,trans-beta-carotene		30545084
+	virus infection,Rhizophagus clarus			R. irregularis,virus,R. irregularis strain,Gigaspora margarita	30545059
+HAS2	venous abnormalities,vascular injury,venous system		carbohydrate	patients,zebrafish	30544995
+	dehydration		Potassium,potassium	Wheat,Triticum aestivum L,wheat,seedlings,yeast	30544665
+	Hypovirulent Sclerotium rolfsii Strain,hypovirulence			fungal,Curvularia thermal tolerance virus,virus,fungal strain	30542362
+			adenine,isoprenoid	Barley,human,barley	30542354
+	infection		valine,leucine,isoleucine	Atlantic Salmon,Piscirickettsia salmonis,Atlantic salmon,Salmo salar,bacteria,P. salmonis,bacterial,S. salar	30542335
+			methanol,methane,MxaFI-MeDH,MeDH,calcium,XoxF-MeDH,lanthanum,pyrroquinoline quinone,alcohol,carbon,formaldehyde,nitrate,tricarboxylic acid,TCA,ribulose-monophosphate,RuMP,formate	Methylomicrobium alcaliphilum	30542328
+	dilated cardiomyopathy,cardiomyopathy,DCM				30541556
+GH3,GhGH3			IAA,indole-3-acetic acid,SA,salicylic acid,GA,gibberellic acid,BL,brassinolide	G. arboreum,G. raimondii,G. hirsutum	30541440
+	type 2 diabetes,ovarian cancer,diabetes and ovarian cancer tumor				30541426
+MS1,AGL,MYB,NAC	abortion		CO,FLC	Brassica campestris L,male	30541424
+			imidacloprid	greenbug,Schizaphis graminum,S. graminum	30525307
+	hepatocellular carcinoma,Hepatocellular carcinoma,HCC,malignant liver disease,tumor		NDC80	KOBAS	30525236
+	Cystic Fibrosis,cystic fibrosis,CF,infection,aeruginosa infection,tissue injury,inflammation		pyoverdine,superoxide,iron,phosphate	Pseudomonas aeruginosa,Zebrafish,patients,P. aeruginosa,Danio rerio,zebrafish,embryos	30524971
+Cox	Colorectal Cancer,colorectal cancer,CRC			patients	30524964
+PD-L2,CD8,PD-L1,CD274,PDCD1LG2	urothelial carcinoma,upper-tract urothelial carcinoma,tumor			patient,patients	30524881
+STAT3,HOXD11,HES7,GLI1	amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,ALS,neuroblastoma,neurodegenerative diseases		GM604,C2H2 zinc		30524706
+YAP,TAZ,LATS1,p53				mouse	30523785
+			Re,ADPglucose,ADPglc,carbon	rice,Oryza sativa L,maize	30523657
+Prohibitin 1,interleukin-8,PHB1,IL-8,c-Jun N-terminal kinase,JNK,c-JUN,p65,AP-1	liver cancers,cancer,liver cancer,tumor,hepatocellular carcinoma,HCC,tumors			human,patients	30523154
+O-GlcNAc,O-GlcNAc transferase,OGT,O-GlcNAcase,OGA,GATA-binding protein 1,GATA-1,estrogen receptor,lysosomal protein transmembrane 5,LAPTM5	hematopoiesis,myeloid leukemia		D-N-acetylglucosamine,sugar,beta-estradiol	NB4,human	30523150
+MAGED2,Melanoma Antigen-encoding Gene D2,MAGED1,MAGED3,MAGEH1,MAGEE1,TWEAK	kidney injury,tubular dysfunction,kidney disease,acute kidney injury,AKI,overdose,tumour necrosis,tubular cell injury during kidney disease		folic acid,cisplatin	murine,mouse,human	30541139
+	inflammatory bowel diseases,IBDs,IBD			patients	30541017
+Ybx1,Nrp1,Dbn1,Nek1	ALS,amyotrophic lateral sclerosis			mouse,human	30540963
+GA2	Litchi chinesis			L. chinensis,tobacco	30540829
+FOXG1,PRKAR2B,MECP2,miR200b,DDX5,p68,DROSHA,cAMP-dependent protein kinase type II-beta regulatory subunit	Rett syndrome,complex neurodevelopmental disorder,FOXG1 syndrome,neuronal dysfunctions		ATP		30539330
+Cyp46a1,Sst,Crh,Pomc,Mc4r	hypothalamus-pituitary axis,depressed		cholesterol,sterol	barbel,Sinocyclocheilus anophthalmus	30538736
+			2',3'-Cyclic Phosphate,phosphate,hydroxyl,2',3'-cyclic phosphate		30538719
+HER2,ERBB2	breast-cancer,breast cancer,breast cancers,tumors		lapatinib	BT-474,patients	30538297
+	Edwardsiella piscicida,iron deficiency stress			bacterial,E. piscicida,bacteria	30537995
+HDAC,IFN-gamma,B7-H1,B7 homolog 1,Interferon gamma,HDAC1,SIRT1,HDAC5,SIRT4,HDAC3,JAK2,JAK1,STAT1	gastric cancer,tumor,GC,cancer		Vorinostat,SAHA,Trichostatin A,sodium butyrate,lysine	mouse	30537988
+	mitochondrial dysfunction,anxiety/depression-like disorder,anxiety,depression,social defeat stress,depressive,hypothalamus,psychoemotional disorders			mice,male	30537945
+DCBLD2,PTPN14,LAMP5,TM4SF1,NPR3,LEMD1,LCA5,CSGALNACT2,SLC2A3,GADD45B	colorectal cancer,cancer,CRC,tumors,colorectal tumor			patients,human	30537927
+	Lophopyrum elongatum			Saccharomyces cerevisiae,wheat,Arabidopsis thaliana,Oryza sativa,Zea mays,Triticum aestivum,T. aestivum,Aegilops tauschii,Hordeum vulgare,Secale cereale,Sorghum bicolor,Brachypodium distachyon	30537926
+miR-21,microRNA 21,Pias3,Hmgb1	Pancreatitis,pancreatitis,pancreatitis-associated lung injury,pancreatic,pancreatic injury,acute pancreatitis-associated lung injury			mice	30537729
+HLA-A			vitamin D,VitDbol,NCT02063334,vitamin D3,25-hydroxyvitamin D3 (25(OH)D3),1alpha,25-dihydroxyvitamin D3 (1,25(OH)2D3),1,25(OH)2D3	human,participants	30537545
+SNHG1,GAS5,SNHG3,SNHG10,SNHG4	hepatocellular carcinoma,HCC			patients	30537372
+MYD88,IGHV,interleukin 1 receptor-associated kinase 4,IRAK4	CLL,chronic lymphocytic leukaemia			patients	30537114
+	zinc deficiency		Zn,nicotianamine,queuosine,ethylene,gibberellin,calcium	soybean	30536844
+Lck interacting transmembrane adaptor 1,S100 calcium binding protein P, small nucleolar RNA host gene 6	hepatocellular carcinoma,HCC		pipeline TCGA,MethylMix,flavin	patients	30536816
+				potato	30535894
+Ant	tumor,cancer,bladder,glioma,tumors			Bee	30535858
+	Phomopsis asparagi infection,Phomopsis asparagi				30533460
+	chronic diseases,cancer,heart disease		vitamin E,Iso	barley,Coix lacryma-jobi,rice,sorghum,maize	30533012
+Xist,Tmed9,Arpc3,Eml2,Nkx2-2,Hnf4a				human,murine,Apple,transgenic mice,mice,male	30532991
+	Aminoglycoside Ototoxicity,ototoxic,ototoxicity,shock,hearing loss		aminoglycoside	mouse,zebrafish,mice	30532693
+RIG-I,MAVS,Retinoic acid-inducible gene I,mitochondrial antiviral-signaling protein	lung inflammation			IAV,mice,influenza A virus,virus	30532653
+	Neuroblastoma			Children,patients,Human	30532223
+	capsicum chlorosis virus infection,infection			capsicum chlorosis virus,virus,tomato spotted wilt virus	30532222
+Scd6,Dhh1,Dcp2,Ccr4				Yeast	30532217
+			N,steroid,DIM,brassinosteroid	tomato,Solanum lycopersicum,Tomato	30532198
+			NaCl	Phaseolus vulgaris	30531857
+FADS1,MAD1L1	bipolar disorder,psychiatric illnesses,BPD				30531795
+ATAC	inflammation				30531792
+vRNA,MX2,CD163,CD14,CD16,CD69,CXCR4	infection,dengue infection,viral infection			Virus,virus,patients,humans	30530648
+p53	fibrosis of systemic sclerosis,Systemic sclerosis,SSc,fibrosis of skin,SM,pulmonary fibrosis,fibrosis,skin fibrosis		Salvianolic acid B,salvianolic acid B,SAB,bleomycin	Salvia miltiorrhiza,mouse	30530290
+	OsBIG deficiency		chlorophyll	Rice,Arabidopsis,rice	30530202
+				patient	30529531
+CXCR2	traumatic brain injury,TBI,neuro-inflammation,traumatic cerebral penumbra cortex			mouse,C57BL/6,mice	30529438
+			carbon,glucose	fungal,Postia placenta	30529285
+SCN1A,Nav1.1	Dravet syndrome,DS,cancer,HTLV-I infection		sodium,calcium,potassium,chloride		30529264
+			NaCl,purine,sucrose,flavone,flavonol,isoflavonoid	seedlings	30529171
+			bisulfite	mouse	30529019
+				human	30528274
+			CO2	Arabidopsis thaliana	30528270
+ABCG1	atherosclerosis		fatty acid	mice,mouse,C57BL/6,male	30528268
+NF-kappaB,PD-L1,programmed death ligand-1,kappaB,p65,CDK4/6	Cancer,tumor,cancer,retinoblastoma		serine,threonine-252	patient	30527665
+	obesity		glucose,MeDIP	mice	30526554
+			Sugarcane,sugar,sucrose	sugarcane,Diatraea saccharalis,parents,sugarcane borer	30526526
+HyPRP1			proline	V. dahliae,Gossypium barbadense,Verticillium dahliae,Arabidopsis	30526498
+			polyphenols,Polyphenols,phenylpropanoid,polyphenol	Yerba mate,Ilex paraguariensis, A. St.-Hil,Ilex paraguariensis A. St.-Hil,Ilex paraguariensis	30526481
+	malaria,Malaria parasites		merozoite,methyl	Plasmodium falciparum,parasites,human,patient	30526479
+IIS/TOR,insulin,TOR	Drosophila,Drosophila heads		rapamycin	male,Males,males	30526477
+	LPS,acute embryonic stress			Atlantic salmon,mammalian,larval,Salmo salar,bacterial	30526303
+NSUN2,GRB2,CD44			5-methylcytosine		30526041
+IL6,PTGS2	gland carcinoma,meibomian gland carcinoma,MGC,tumor				30526034
+CYP19A1	Cytotoxicity,ovarian granulosa,neurological diseases,premature ovarian failure,follicular atresia,toxicity		diazinon,Organophosphorus,DZN		30525588
+Nrf2,glutathione peroxidase-1,Gpx-1,liver kinase B1			phloretin,palmitic acid,Phloretin,dihydrochalcone,flavonoid,oxygen,malondialdehyde,MDA,superoxide,cAMP,Thr	human	30525573
+				TIGER,Sinorhizobium meliloti,Pseudomonas aeruginosa,Rhodobacter sphaeroides	30525460
+TFE3,TFEB,p53,mTORC1,Mdm2			etoposide		30520728
+	autism,Autism spectrum disorder,ASD,genetic disorders				30520558
+miR-622,miR-4539,miR-145,miR-25,miR-96,bone morphogenetic protein 1,BMP1	chondrosarcoma,Chondrosarcoma,CHS,malignant bone sarcoma			human	30520120
+			abscisic acid,carbon,sucrose,indole-3-acetic acid,gibberellin,sugar	apple,Malus domestica Borkh,apple trees,apple tree	30519825
+	ascites,Ascites syndrome,metabolic disorder,ascitic,cardiovascular diseases,hypoxia,heart failure			chickens,bacteria,human	30519813
+	invasive ductal carcinoma,breast cancer			patient	30519573
+	bacterial infection,infection			bacteria,Linepithema humile	30519425
+PLA2	Rhinella schneideri skin glands		TRizol,serine,brevinins,AMP		30519258
+catalase,CAT			malondialdehyde,MDA	Upland Cotton,Gossypium hirsutum L,Gossypium hirsutum,Arabidopsis,virus	30519251
+IGH,IGHD	cancer,tumors,tumor,Crohn's disease,ulceration		CH	Human,donor,humans,human	30519242
+STON2,DNMT1,MUC1,stonin 2,CD44,CD24,mucin 1,DNA methyltransferase 1	ovarian cancer,cancer,stemness in ovarian cancer			SCID mice	30518424
+ZmMRP-1,Meg1				embryo,maize,Zea mays	30506638
+	toxicity		Pentachlorophenol,PCP,benzoquinone,hydroquinones,O2,oxygen,hydroquinone,Phenolic,pentachlorophenol,triclosan,2,4-dichlorophenoxyacetic acid,2,4-D	Sphingobium chlorophenolicum,S. chlorophenolicum	30505947
+	beta-hemolysis,flaD		virC	Vibrio anguillarum,bacteria,V. anguillarum,tongue sole,rabbit,bacterial	30505805
+miR-199a,Sirtuin 1,SIRT1			nicotine,nicotinamide adenine dinucleotide,NAD	male,rats,Sprague-Dawley rats	30504847
+Myc,myc,Neuropeptide Y,NPY,IL6,STAT3	Neuropeptide Y Secretion Promotes Prostate Cancer,depression,tumor,psychologic depression alters,prostate cancer,psychologic depression		norepinephrine	murine,mice,patients	30504424
+FGF3,FGF10,FGFR2	abnormalities of hearing			mouse	30504125
+eloF	Drosophila,Drosophila speciation		hydrocarbon pheromones,hydrocarbons,fatty acid	mates,mate,male,D. simulans,D. sechellia,D. melanogaster,males	30503619
+	rare disorders				30503520
+			hydrocarbon,hydrocarbons	Chlorella vulgaris,C. vulgaris	30503435
+LINC00400,LINC00355	colorectal cancer,Colorectal cancer,CRC,malignancies			patients	30503344
+P-gp2	sheep nematode Haemonchus contortus,infection		ivermectin,IVM,lactones	Haemonchus contortus,nematode,parasites,nematodes,lambs,H. contortus,worms	30503085
+	infection,bacterial infections			murine,mice,Salmonella Typhimurium,Salmonella,bacteria,bacterial	30502956
+				Escherichia coli,bacterial	30502954
+				Bacteria,bacteria,bacterial	30502953
+				Caulobacter crescentus,Bacterial	30502952
+ncRNA			2'-O	bacteria,Sulfolobus acidocaldarius	30502951
+				Vibrio cholerae,human,V. cholerae	30502947
+				Bacterial	30502946
+	NMD,NMD-deficient			Yeast,yeast,Saccharomyces cerevisiae	30502940
+				Escherichia coli,bacterial	30502937
+				Mouse,mammalian	30517858
+	Neuronal Toxicity,neurological diseases,neurotoxicity,neurological disorders			Virus,bacterial,mammalian,virus	30517854
+	infection			Streptococcus pneumoniae TIGR4,bacteria,bacterial,mice	30517198
+T cell receptor,TCR					30517183
+APOA4,APOB,APOH,FABP4,RBP7	cardiac dysfunctions,heart dysfunction,Illinois broilers,reticulum stress,Kinases,cardiac dysfunction				30517173
+HELLS,HELicase, Lymphoid-Specific,SWI2,SNF2,E-Cadherin,FBP1,IGFBP3,XAF1,CREB3L3	tumor,hepatocellular carcinoma,Hepatocellular carcinoma,HCC,cancer,liver carcinogenesis			human,patient,patients,lentiviral	30516846
+Wnt11	ureteric branch tips			mammalian	30516471
+LH3,Lysyl hydroxylase 3	hypertensive intracerebral hemorrhage,Hypertensive intracerebral hemorrhage,cerebrovascular disease,hypertensive ICH,ICHs		angiotensin II,L-NAME	mice,human,patients	30516406
+NDRG1,CACNA1G,TGFBR2,NOTCH1,2,3,UHRF1,DNMT1,3,HDAC1,KDM3A,KDM4B,KDM4C,FOS,SATB1,CDKN2AIPNL,KISS1,DDIT3,TP53I13,PPARG,FOXP1	tumor,tumors,solid tumors,acute lymphoblastic leukemia,cancer		Acylspermidine Analogue-N4-Erucoyl Spermidine,polyamines,putrescine,spermidine,spermine,polyamine,N4-Erucoyl spermidine,N4,acylspermidine,N4-Eru		30515476
+CART,PRKRA,IFI6,CXCL2,CD36,CD80,CASP1,CCL3,tumor necrosis factor-alpha,interferon-gamma				Children	30515427
+			carbohydrate,fatty acid,phosphatidylinositol	Laodelphax striatellus,L. striatellus	30515107
+ABCC10,epidermal growth factor receptor,EGFR,PC9	NSCLC,non-small cell lung cancer,cancer		Gefitinib,tyrosine,ATP,gefitinib	patients	30515095
+m6A,Prrc2a,Proline rich coiled-coil 2 A,Olig2,Fto	hypomyelination,cognitive defects,neurological diseases		N6-methyladenosine	mammalian,mouse	30514900
+	Homeostasis and Virulence,meningitis,AIDS,cryptococcosis,fungal diseases		Monothiol,Iron,iron,monothiol,2Fe-2S	Cryptococcus neoformans,C. neoformans,mice,Fungal,humans,people,fungal,HIV,mouse	30514787
+KDM3B,CDC123,Cyclin D1,CCND1	hepatocarcinoma,Hepatocellular carcinoma,HCC,cancer,proliferation of hepatocarcinoma			patients	30514438
+	Pi deficiency stress,ARF		Iron,phosphorus,Phosphorus,iron,Fe	rice,Arabidopsis	30514218
+			ozone,O3,sugar		30514212
+ADH4,ADH6,MDH2,IDH1,IDH2,GLO2	toxicity		cadmium,Cd,Pentose phosphate,Citrate,TCA,Glutathione,ATP,ATP19,GSH		30513442
+				bacterial,bacteria	30513348
+	serous epithelial ovarian cancer				30513122
+HML-2	autoimmune diseases,malignancies			human,retroviruses,Human,retroviral	30513106
+decoy receptor 3,DcR3,cytotoxic T-lymphocyte-associated protein 4,CTLA4	breast cancer,cancer,tumor			patients,patient	30513096
+NKX2-5,HES3					30512016
+				male,mice,mouse	30512012
+NFIX,intersectin 1,nuclear factor I X,Nfix				Mice,mice	30511336
+	Diverticulitis,diverticulitis,multifocal diverticulitis,MFD,diverticulitis episodes			patients,Patients	30511196
+			nitrate,nitrite,nitrogen,Nitrogen,nitrates,nitrites	mycobacteria,Mycobacterium smegmatis,Streptomyces coelicolor,M. smegmatis,bacteria	30510199
+parathyroid hormone-related peptide,PTHrP,PTH/PTHrP receptor,PPR,Mef2c	tooth eruption,alveolar cryptal bone osteoblasts,primary failure of tooth eruption		tamoxifen	mice,human	30509999
+FASN,AACS,ALAS1,HMGCS1,VSIG4	cardiovascular diseases,Huntington's disease,Parkinson's disease,fatty liver disease,Alzheimer's disease,obesity,diabetes,cardiovascular disease		alcohol,unsaturated fatty acids,phytosterols,fatty acid	Corn,pigs,pig,humans	30509175
+HOXC6,Bcl-2,BCL2	cancer,cancers,tumor			patient	30509141
+urocortin 3,ucn3,hepacam2	impaired glucose homeostasis,obesity,diabetes,prediabetic/glucose-intolerant obese,glucose tolerance,glucose intolerance,prediabetes overlaps		GABA,gamma-Aminobutyric acid,Al,Virtanen	mice	30509117
+	Branchiostoma belcheri gills,XDH		nitrite	Branchiostoma belcheri,Amphioxus,amphioxus	30502699
+ERF,MYB,NAC	Marsdenia tenacissima		proline,sugar,PRJNA498187,C2H2		30500823
+	viral infections		glucose,fatty acids,ketones	cows,bacterial,Cows	30500340
+			glutamate	Corynebacterium glutamicum,C. glutamicum,strain SL4,ATCC 13032	30499272
+	infection,hand-foot-mouth disease,HFMD,neurological complications,virus infection,death		DEGs	virus	30499052
+	hyperphagia,GS			Turkey,Zebra Finch	30498627
+	Posttraumatic Stress Symptoms,posttraumatic stress symptoms,PTSS,neuropsychiatric disorders,trauma,peritraumatic distress			men,women,TEF) variant	30498461
+	IMD,thuringiensis oral infection			Bacillus thuringiensis,Plutella xylostella,P. xylostella,B. thuringiensis	30498450
+	toxicity		benzene,bis(2-ethylhexyl)phthalate,chloroform,p-cresol,p-dichlorobenzene,phenol,pyrocatechol,tri-n-butyl phosphate,trichloroethylene	mouse	30497775
+	infection		iron	rice,maize,wheat,Arabidopsis,F. verticillioides	30497403
+cyclin D1,p62,Akt,GSK3beta,ULK1,AKT	Glioblastoma,Glioblastoma multiforme,GBM,central nervous system tumour,Fritillaria thunbergii,tumour,gliomas,glioblastoma		Peiminine,peiminine,MTT,phospho	patients,human	30497066
+DNA-methyltransferase-1	hypothalamic aging,hypothalamus,insomnia,ovarian failure		glutamate,melatonin,5-aza-2'-deoxycytidine,methionine,S-adenosylmethionine	rat,human	30497015
+	inflammations,cancers		Diterpene,kaurane,eriocalyxin B,ent-kaurane diterpenoids,oridonin,diterpene,ent-copalyl diphosphate,copalyl diphosphate,ent-CPP,ent-kaurene,kaurene,ent-kaurane diterpenoid eriocalyxin B,gibberellin,gibberellins,diterpenoid		30496917
+				rice	30496782
+	melanized microsclerotia,hyphal swelling			Bacillus subtilis,Verticillium dahliae,V. dahliae,Bacillus subtilis strain,B. subtilis	30489195
+major capsid protein,MCP	hemorrhagic fever,TG		645-amino acid	viruses,Vermamoeba vermiformis,African swine fever virus,domestic pigs,donor	30487777
+	isomiRs			human,mouse,bacterial	30487268
+SETD2,SET domain-containing 2,CDK1	Renal Cell Carcinoma,Clear cell renal cell carcinoma,ccRCC,RCC,embryonic kidney epithelial,cancer		lysine	humans,human	30487242
+MEF2D,TCF3,PBX1,ETV6,RUNX1,DUX4,ZNF384,KMT2A,PAX5,CRLF2,IKZF1,IGH,CEBPE,ZEB2,NUTM1	lymphoblastic leukemia,high hyperdiploidy		Ph		30487223
+			glyoxylate,dicarboxylate	rabbit,rabbits,mammalian	30486837
+miR	HIV infection,AIDS			human,patients,virus,HIV-1,HIV	30486834
+K13,k13,Keap1			artemisinin,Artemisinin,artemisinins	Plasmodium falciparum,humans	30486796
+	hermaphrodites			males	30486781
+				banana,bananas	30486778
+fructose bisphosphate aldolase	Pasteuria penetrans,Attachment of Pasteuria,bacterial infection,Pasteuria endospore attachment,Pasteuria endospore,Pasteuria infection,infection by Pasteuria,Pasteuria endospores		glucosyl	Meloidogyne incognita,Southern root-knot nematode,nematode,root-knot nematode,M. incognita	30486772
+				Pekin ducks,Clostridium butyricum,duck,C. butyricum	30486769
+MAN1A2,RMST,HIPK3	pancreatic islets,diabetes			Human,human	30486482
+	infection		glucose	Chicken,chicken	30486457
+	Virulence in Vibrio tapetis,Type VI Secretion System			bacteria,Vibrio tapetis,Ruditapes philippinarum,V. tapetis	30486310
+	necrosis			Wheat,Common wheat,wheat,Aegilops tauschii	30486239
+	deficits		neomycin	Mouse,mouse,newborn	30485845
+MAPK13,PANDAR ncRNA	melanoma,cancers,demethylated melanomas,tumor		5-Aza-2'-deoxycytidine		30485296
+	vitiligo vulgaris,skin pigmentation			patients	30484529
+	Depression,Major depression,complex disorder,depressive disorder				30484417
+				soybean	30483906
+	cryptococcal infection			Cryptococcus neoformans,fungal,Cryptococcus neoformans, a,humans,C. neoformans,mouse,Galleria mellonella	30483479
+			Fatty Acid,fatty acid	Brassica napus,B. napus,Brassica rapa,B. napus strain	30483289
+	Arbuscular mycorrhiza colonization,endosymbiosis establishment,Arbuscular mycorrhizal symbiosis			Medicago truncatula	30483277
+			Terpene,terpenes,terpene,geraniol,sesquiterpene		30483274
+ZEB1,Th1,Zeb1,CD8alpha,TLR9,IL-6,IL-10,Th2	metastasis,cancer,helminth infected		OT-II	worms,mice	30483264
+			hydrocarbon,toluene,phenol,catechol,oxygen		30483229
+Notch1,peroxisome proliferator-activated receptor gamma,PPARgamma,PPAR,mammalian target of rapamycin,mTOR,Notch			Rosiglitazone,rosiglitazone		30483127
+Fezf2	dendritic tuft		calcium	Mouse,mouse	30483051
+	glioblastoma			L1210,patient	30482222
+				Herpes simplex virus type-1,Herpes simplex virus type-1 (HSV-1,human,HSV-1	30480662
+	Toxicity of Melaleuca alternifolia,Melaleuca alternifolia		NAD,NADH,Val	Tribolium confusum,T. confusum	30479882
+IGF2			vitamin E,selenium,polyphenols,n-3 PUFA,Selenium,PUFA	pigs,pig	30479765
+			triterpenoids,ethanol	Saccharomyces cerevisiae,yeast,S. cerevisiae	30478689
+	schizophrenia,Schizophrenia polygenic,schizophrenia polygenic,schizophrenia genetic signals,PRS			human,Human	30478419
+	sheath blight disease		Benzothiadiazole,salicylic acid,SA,benzothiadiazole,BTH,jasmonic acid,JA	Brachypodium distachyon,Rhizoctonia solani,B. distachyon,R. solani	30478396
+	malaria			Plasmodium falciparum,Human,parasites	30478286
+ppt					30478017
+MHC-II,CD68,IL-1beta,colony-stimulating factor 1 receptor,CSF1R,Apoe,Tgfb2,Socs3			PLX5622,lipofuscin	BALB/c,mice	30477578
+HOXA3,HOXA5,IL8,IL1b,IL6,HOXC13,HOTAIR			H3K4me3,NCT01745471	human,apple,women	30477572
+MYOD1,MYOG,PAX7,TMEM8C,CD36,FABP4,ACSBG2,CYP7A1,PLIN2,MHC,PPAR			Oil Red O	chickens	30477424
+miR-381	miRanda			sheep,mice,human,pig	30477295
+	implantation failure,infertile			Women,embryo,women,patients	30477193
+	multiple diseases in tomato,parasitica infection		defensin	Phytophthora parasitica,tomato,P. parasitica	30477181
+Ambra1,Beclin1,VEGF	Breast Cancer,cancers,breast cancer,BC,investigation,chronic myeloid leukemia				30476925
+				soybean	30476702
+	Fungus Exophiala dermatitidis			Human,Fungal	30475913
+aceE			L-valine,aldehyde,citrate,oxaloacetate,pyruvate	Corynebacterium glutamicum,C. glutamicum ATCC 13032	30474553
+	breast muscle,glycerophospholipid metabolism			chickens	30474213
+				Arabidopsis,Arabidopsis thaliana,Col-0	30473943
+			MeJA,terpenoid indole alkaloids,TIAs,phenolic,indole,anthocyanin,OMT,D4H,vindoline,tryptophan,strictosidine,indole alkaloids,phenylpropanoid,flavonoid	C. roseus,Catharanthus roseus	30472986
+				murine,human	30472909
+				mice	30472248
+	ovarian			Human,human	30472193
+	inDrop		Chromium		30472192
+				patients	30472156
+KDM5A/B,KDM5B	breast cancer,breast tumors		lysine,estrogens,estrogen		30472020
+			4'-O,resveratrol,Resveratrol,methyl ethers,polyphenol stilbenes,AcOMT1,4'-O-methylresveratrol,AcOMT,piceatannol,oxyresveratrol,pinostilbene,pterostilbene,pinosylvin,phloroglucinol	Acorus calamus,human,Escherichia coli	30471982
+	brain injury,demyelinating injury,sclerosis lesions			Mouse,mice,human	30471926
+			nitrogen,N,NH4NO3,lovastatin,6-benzylaminopurine,BAP,cis-zeatin	wheat,seedlings	30471731
+	Hypothalamic,hypothalamic neuropeptides,ventricular ependyma,periventricular ependyma by intrahypothalamic neurons,hypothalamic neuronal,neuropsychiatric disease		neuropeptides		30471413
+MCM6			Cs,Cs-MCM2,Cs-H2B	cucumber	30471333
+	tumor,lung adenocarcinoma,adenocarcinoma of lung,cancer,death,LUAD tumor,prognosis of lung cancer			patients	30470588
+RUNX2,Acan,Sox9,Col2a1	osteochondral defect,Osteochondral defects,traumas,physical diseases,osteogenesis,ALP		Silicate,silicon,SiCP,calcium-phosphate,Si	rabbit	30468999
+TGF-beta1,IDO-1,SUMO2,PFN1	Glioblastoma,GBM,glioblastoma,tumor,glioma tumors,glioma,tumors,decreases tumor		OKN-007,temozolomide,TMZ,nitrone	xenografts,human,rat,patients	30468988
+	tetraploid cotton		terpenoids,gossypol	Gossypium hirsutum L,embryos,Virus	30467959
+	inflammation,cancer,viral infection		GnRH	bacterial	30467802
+EgDEF1,EgGLO1	shock			Elaeis guineensis Jacq,male	30467592
+F31,Gck,glucokinase,GCK,Cyp4a12a,cytochrome P450, family 4, subfamily a, polypeptide 12a,CYP4A12A,glucose-6-phosphatase,G6Pase,phosphoenolpyruvate carboxykinase,PEPCK,glucose transporter type 2,GLUT2,Janus-activated kinase 2,JAK2,stearoyl-CoA desaturase 2,SCD2	diabetic,diabetes,glucose metabolism		pyruvate	Ganoderma lucidum,mice	30467564
+	nemaline myopathy,Mendelian diseases,NM,muscle diseases		Ser8228Ser	patients	30467404
+Heat Shock Factor-1,HSF1,Heat shock factor-1,HSP					30467350
+			BGIBMGA003330,BGIBMGA005780,uridine	Silkworm,Bombyx mori,silkworm,silkworms,wild silkworm	30467288
+NiR	GS		nitrate,nitrogen	Pyrus bretschneideri	30466597
+fus3,AtFUS3	recalcitrant citrus callus			Arabidopsis	30466577
+	Chronic hepatitis B datasets and kidney cancer				30466390
+zp3c,bmp15,gdf9,sycp2l	toxicity,ovaries		17beta-estradiol,calcium,testosterone	zebrafish,Danio rerio,male	30465971
+Adcyap1,Id3,Rpl22L1,Bgn,Ppm1H,Ntsr2,Cldn10,PAD2			NMDA	mouse,mice	30465913
+			Adenosine,adenosine,inosine		30465820
+DKK1	neck squamous cell carcinoma,cancers,alcohol abuse,tumor,tumor invasion			human,patients,human papillomavirus	30464608
+INPPL1	papillary thyroid carcinoma,PTC,tumor			Patients	30464521
+Androgen Receptor,AR,TMPRSS2	primary prostate cancer,prostate cancer,prostate carcinomas,tumors		H3K4me3, H3K27me3		30464211
+NR2F2,TBX5,HEY2			calcium	human,Human	30464173
+				Corn,Maize	30464034
+	septic shock,Septic shock,sepsis,inflammation		BH	patients,patient	30463588
+	inflammation			mice,male,mouse	30463508
+	dehydrationrehydration			yeast	30463185
+TBL1X	Diabetes Mellitus,gestational diabetes mellitus,GDM				30463081
+				Portunus trituberculatus,swimming crab	30463042
+				Mice,Men,mouse,human,2018	30462994
+	Yersinia Virulence			human,Yersinia pestis,Y. enterocolitica,Y. pseudotuberculosis,bacterial	30460205
+	Toxicity,fibrosis,toxicity		Thioacetamide,thioacetamide	rats,Sprague-Dawley rats	30459623
+SKA3,Akt,cyclin E2,CDK2,cyclin D1,CDK4,E2F1	cancer,cancers,tumor		GSK690693		30459531
+KIT-,MYC,p53	cancer,mast cell leukemia,tumor,hypoxia		anthraquinone	Canine,Human,human,canine,dogs	30459395
+	tumor				30459309
+IFNK,PCNAP1	breast cancer,cancer		LASSO	human	30458775
+			Copper,copper,beta-carotene		30458726
+insulin				mammalian,human,bovine	30458711
+				human	30458645
+	Brown Muscle Disease,impacts of the disease,BMD,atrophy,viral infection,muscle atrophy			virus	30458308
+	liver damage,amblycephala livers		oxygen	blunt snout bream,Megalobrama amblycephala	30458273
+IRF5	Nile virus infection,virus infection			virus,West Nile virus,WNV,mice,mouse	30457675
+				RAT	30457566
+TWIST	Parkinson's disease			Human	30456912
+				rat	30456375
+			guanine-cytosine	Rhodobacter sphaeroides,Bacteria	30456366
+CD8,PDGFR,SHH,STAM	hepatocellular carcinoma,tumor,Hepatocellular carcinoma,HCC,inflammatory liver disease,tumors and non-tumor cirrhotic,tumors,fibrosis			patient,murine	30456308
+MALAT1,HYMAI,KIAA1656	Hypoxia,atherosclerotic lesions,atherosclerosis,hypoxia,lesion hypoxia		LOC730101,LOC339803	Human,human	30456215
+Notch	Hymenolepis microstoma			Larvae,worms,H. microstoma,larval,parasites	30455861
+mucin			Carbohydrates,carbohydrate,carbon,1H,glucose,acetate,formate,lactate,maltose,tryptophan,Trp,vitamin B12,VitB12,methionine,carbohydrates	Ruminococcus bromii,human,R. bromii,bacterial	30455672
+	deep learning architectures				30455357
+	sequencer			larvae,Anisakis simplex,chum salmon	30455159
+BLACAT1,CTD	pulmonary adenocarcinoma,lung cancer,Non-small cell lung cancer,NSCLC,invasive lung cancer,Adenocarcinoma in situ,AIS,lung adenocarcinoma,tumor,cancer,lung cancers,bladder cancer,colorectal cancer,breast cancer,invasive tumor			patients	30453959
+			3559-5p	rat,Rat,male,Sprague Dawley rats,human	30453895
+	central nervous system damage		TMM	human	30453873
+p53,p21	Cytotoxicity,cytotoxicity		Silver,silver,myricetin,polyphenol,lactate,oxygen,malondialdehyde,glutathione,superoxide,adenosine triphosphate,ATP,8-hydroxy-2'-deoxyguanosine	mouse	30453526
+			steroid,estradiol,testosterone	Epinephelus coioides,E. lanceolatus	30453060
+Atp7b,ATP7B,MAP1LC3A,LC3,mammalian target of rapamycin,mTOR,ATG7,ATG13	Wilson Disease,Wilson disease,WD,inherited disorder of copper metabolism,toxicity,copper toxicity,death		Copper,copper,adenosine	Patients,patients,rats,mice	30452922
+NKG2D,MICA,IRE1,XBP1,E2F1,NK group 2 member D,inositol-requiring enzyme 1,X-box binding protein 1,E2F transcription factor 1	melanoma tumors,cancer,tumor				30452881
+	cancerous,cancer				30452547
+Nkx2-5,Isl1				mouse	30451828
+	pain,neuropathic pain,constrictive injury,nerve injury			rats,male,Rats,patients	30451078
+			glcNAc	Salmonella Typhi,Salmonella enterica serovar Typhi,S. Typhi	30450829
+vimentin	personality disorder,autism,PTSD,depression,anxiety		cAMP	rhesus macaques,macaques	30450801
+CD45,CD61	hemolytic anaemia,hematological diseases			patients,human	30450750
+HHIP,DACT2,WIF1,SPON 1,FBN2,EMILIN3,ACAN,IGF1,CILP2,COL11A1,COL8A1	hip dysplasia,osteoarthritis,developmental dysplasia,CHD,dysplastic hips,dysplastic,hip osteoarthritis,cancer,dysplastic joints,dysplastic hip,synovitis,capsulitis			canine,Canine,human,dogs	30450639
+Brain-derived neurotrophic factor,BDNF,NTRK2				Human,human	30449713
+MUP,uPA	NASH,HCC,Hepatocellular carcinoma,cancers,non-alcoholic steatohepatitis			humans,mouse,human,mice	30449681
+	cancer		adenosine	Human,human,lentiviral	30449619
+			flufenoxuron,thyroxine,triiodothyronine	Eremias argus	30448662
+	Drosophila Nora virus and Nasonia vitripennis			virus,cotton bollworm,Helicoverpa armigera,Nora virus,Spodoptera exigua,larvae	30448511
+SLC4A1-1,CXCL8,SLC4A1,TNF-alpha,IL-1beta			H3K4me1	patients	30448228
+			rhodoquinol,fumarate,oxygen	Chlorella vulgaris	30447617
+hnRNPDL,HnRNP D-Like,HnRNPDL,TNF					30447347
+Dickkopf-1,beta-catenin,DKK1,COL10A1,ALPL,COL2A1	hypertrophic changes,hypertrophic,hypertrophy			human	30447344
+bone morphogenetic protein-4,BMP-4,BMP			LDN-193189,methotrexate	CHO cell lines,Chinese hamster,human	30447330
+GLI,JNK,p53	medulloblastoma and rhabdomyosarcoma,cancers,medulloblastoma,rhabdomyosarcoma,tumor,cancer			human,nude mice	30447254
+AtGSTF12			anthocyanin,anthocyanins,catechins,glutathione,flavonoids,catechin,sucrose,phosphate	Camellia sinensis,tobacco,Nicotiana tabacum,Arabidopsis	30447121
+CD40,CDH1,UCP2,SFRP1,MMP7,ESR1,C6orf97,COBRA1,C9orf167,VAPB,IKZF3,ACACA,STAC2	breast cancer,breast cancers,autoimmune thyroid disease,Luminal B breast cancer		BT-474,BT-20,DEG		30446971
+serpine1,L1CAM	corneal sensory nerve,blindness,debridement injury		Mitomycin C,MMC	mice	30446696
+	influenza infection,isoQTLs,Crohn's disease			virus	30446528
+SLC52a1	Canavan disease,acyl-CoA dehydrogenase deficiency,metabolic disorders		resveratrol,Resveratrol,fatty acid,riboflavin,cAMP,adenylyl,glucose	patient	30446350
+				tomato	30445891
+	waste excretion			amur ide,Leuciscus waleckii,Amur ide	30445216
+ENTPD3-AS1,FGD5,AS1,LIFR-AS1,UBAC2	Clear Cell Kidney Carcinoma,clear cell kidney carcinoma				30444862
+Nuclear Factor Erythroid 2-Related Factor 2,interleukin (IL)-1beta,IL-6,tumor necrosis factor alpha,NLRP3,caspase-1,Toll-like receptor 4,Il1b,Il6,Nlrp3,Tnf,nuclear factor erythroid 2-related factor 2,IL-1beta			Thin Graphene Oxide,Graphene oxide,GO,graphene,(s)-GO,polystyrene		30444603
+	Galleria mellonella and Plutella xylostella,fungal infection,infecting Galleria mellonella and Plutella xylostella		nitrogen	Beauveria bassiana,fungal,B. bassiana,G. mellonella,P. xylostella	30443979
+insulin	Haliotis discus hannai,HD		abalone		30442913
+WBP2,JNK,WW domain-binding protein 2,AXIN2,G protein pathway suppressor 1,GPS1,TRAF2- and NCK-interacting kinase,TNIK,c-Jun N-terminal kinase	breast cancer		estrogen,progesterone		30442712
+	infection,Type VI Secretion System,initiation of infection		Re,phosphate,III,sugar,sulfur,colanic acid	Pseudomonas syringae pv,kiwifruit,Pseudomonas syringae,bacterial,P. syringae pv,Actinidia chinensis var. chinensis	30442113
+	Colorectal Cancer,tumor,tumors,colorectal tumors,cancer		Oxaliplatin	Human,patients,patient,human	30440885
+TCR,T cell receptor				mouse	30439982
+DSCAM-AS1,estrogen receptor alpha,ERalpha	breast cancer,tumor,luminal breast cancer		tamoxifen	patients	30430768
+aldh1l1,tdT,Kir4.1,mobp,Iba1	radial glia		glutamate,Ca2+,potassium	Mice,mouse	30430665
+	hyperthermophilic archaeon Pyrococcus furiosus		di-myo-inositol phosphate,mannosylglycerate,UDP-N-acetylglucosamine,UDPGlcNac,UDP-N-acetylgalactosamine		30430272
+	kidney injury,organ injury,Ischemia/reperfusion injury,IRI,allograft dysfunction,sustained injury,fibrosis,renal dysfunction,kidney disease,chronic injury			human,mouse,patients,humans	30429361
+SRSF1,PTPMT1	lung cancer,cancer treatment failure,cancer,tumor			mice,patients	30429088
+	gondii infection,infection,infected intestines,infected cats		fatty acid	Toxoplasma gondii,cats,T. gondii,Cats	30428922
+CLDN7,Claudin-7,EMT	clear cell renal cell carcinoma,death,renal cell carcinoma,RCC,ccRCC,Cancer,tumor,aggressive tumor,cancer		bisulfite	human,patients,Mouse	30428910
+				patient	30428853
+				Human	30428831
+	Viral diseases,encephalopathy and retinopathy,viral diseases,infection			European sea bass,nervous necrosis virus,Dicentrarchus labrax,RGNNV strain	30428392
+fatty acid synthase			mannitol,Mannitol,sugar alcohols,carbohydrate,carbon,trehalose,sugar,triglyceride,carbohydrates,trehalose-6-phosphate	Tribolium castaneum,red flour beetle,T. castaneum	30427916
+	Complementary iTRAQ Proteomic		Flavonoid,flavonoids,catechins,flavonols,phenylpropanoid,flavonoid,epi-catechin,catechin,carbon	Camellia sinensis L	30427694
+	mitochondrial dysfunction,peripheral neuropathy,breast cancer,toxicity,Mitochondrial dysfunction,Breast cancer,pain sensations,neuropathic pain		paclitaxel,Paclitaxel,alcohol,DEGs,iron	patient,patients	30426838
+			Capsaicinoid		30426173
+	malaria			parasites,Haemoproteus columbae,H. columbae	30426144
+				mice	30425249
+SnoN,N-myc,Pax6	brain diseases,SnoN impairs cerebellar-dependent learning,impaired cerebellar-dependent learning			Mouse,male,mouse,mammalian	30425119
+	nematode infection,infection		Leucine	Arachis duranensis,nematode,Meloidogyne arenaria,nematodes	30424729
+MAPKAPK2,NR1D2,AKR1C4,TRIB3,BRCA1			XLOC_064871	Pig,pig,pigs	30423578
+				marine bacterium,Vibrio harveyi,V. harveyi	30423347
+	azoospermia,Non-obstructive azoospermia,NOA,male infertility			patients	30423284
+	cancer,enhancer hallmark,neuroblastoma,aggressive pediatric cancer,tumor,enhancer hallmarks				30423099
+			DEEP	Human	30423059
+SETD2,SET-domain-containing 2,Setd2,Prx1,Lbp,lipopolysaccharide-binding protein,LBP	osteogenesis,osteoporosis,bone loss and marrow adiposity,metabolic bone diseases		lysine	mouse	30422989
+			crassulacean acid	Dendrobium catenatum	30422119
+premelanosome protein,PMEL,dopachrome tautomerase,DCT,tyrosinase,TYR	eyelid pigmentation		tyrosine	chicken,chickens	30421986
+	allopolyploidy,allopolyploid brown algae,fungal allopolyploids			fungal	30421788
+				Saccharomyces cerevisiae	30421411
+				Arabidopsis	30421402
+				embryo	30421145
+			S1500	Rat,rats,rat	30420870
+			cytosine,adenine,guanine	Corynebacterium glutamicum,Escherichia coli,Brevibacterium lactofermentum,C. glutamicum	30420330
+caspase-3	cancer,esophageal carcinoma,carcinoma of the esophagus,tumor,necrosis		MTT,FITC	Bactrian camel,human,xenografted,nude mice,camel	30420292
+MUC1,KL-6,TNFalpha	myeloma,cancers,interstitial pneumonitis,multiple myeloma,aggressive tumor,tumor,KL-6+ myeloma			patients,patient,Balb/c,mice,mouse	30420285
+	Acrocomia aculeata,Acrocomia intumescens,Acrocomia totai		hexanucleotides	African oil palm,Elaeis guineensis,peach	30419831
+	heart failure,dilated cardiomyopathy,ischemic heart failure,HF,left ventricle dysfunction,ischemic,ICM,mitochondrial dysfunction		DCM DEG	human,patients	30419824
+RRAD,IL4I1,CDKN1A,SERPINE1,NF-kappaB,p53,TP53,RELA,RelA	osteosarcoma			human	30419821
+IGFBP7			progesterone,estradiol	bovine	30419816
+acetylcholinesterase	toxicity		chlorpyrifos-methyl	Atlantic salmon,Salmo salar	30419482
+	metamorphosis and decreased the metamorphosis,atrophy,hepatic fibrosis		nitrate,Nitrate,nitrate-nitrogen,NO3N	Bufo gargarizans,B. gargarizans,embryo	30419385
+	hyperpigmentation		hydrogen peroxide,oxygen,dinF,dioxygen,peroxide	Porphyromonas gingivalis,P. gingivalis	30419070
+				Mouse,mouse	30417879
+CD1d,Lamp1			benzo[a]pyrene,BaP	human	30417862
+	clear cell renal cell carcinoma,Renal cell carcinoma,RCC,renal tumor,ccRCC			patients	30417363
+	embryonic lens,cataract,syndromic congenital cataracts,cataract-linked genes			mouse,human,embryo	30417254
+			DEGs	cattle,cows	30417039
+BRMS1,LSD1,Breast carcinoma metastasis suppressor gene 1,CoREST,VIM,INSIG2,KLK11,MRPL33,COL5A2,OLFML3,SLC1A1	breast cancer,tumor metastasis				30416854
+			oxytocin	Hong Kong Oyster,Crassostrea hongkongensis,C. hongkongensis	30416453
+Poly(A) binding Protein			PAC,PolyA,polyA		30416385
+Gm29418,Six2			phosphorothioate	mouse	30416088
+			Schizothoracine,fatty acid,TCA,valine,leucine,isoleucine,porphyrin,chlorophyll	Schizothorax prenanti,S. prenanti	30416052
+	cancer,cancers				30415723
+TLR9,ovalbumin,TRAF6	asthma symptoms,fever,bronchial asthma,acute bronchial asthma,asthma,eosinophilic airway inflammation,asthma-like syndrome,allergic asthma			mice,patients	30415587
+	photoperiodism		Ethephon,Ethylene,ethephon,ethylene,carbohydrate	Pineapple,pineapple	30415248
+	melanoma,cancer				30414979
+Acyl-CoA synthetase-4,ACSL4,estrogen receptor alpha,ERalpha,ABC,ABCG2,ABCC4,ABCC8,mTOR	breast cancer,prostate cancer,viability,tumors		ATP,MTT,doxycycline,triacsin C,doxorubicin,Hoechst 33342,rapamycin		30414939
+				human	30414612
+			beta-sitosterol,BS,steroid,sterol,methylsterol,stigmasterol	human	30414421
+Hsp70,Heat shock protein 70,StHsp70,HSP70				Solanum tuberosum,potato,Solanum tuberosum L,Phytophthora infestans	30413778
+			dimethyl sulfate	rice,Oryza sativa L,seedlings	30413617
+RBP				mammalian	30413564
+GATA6,SOX17,GATA4,OTX2				human,mouse,embryos,embryo,mammalian,rodent	30413530
+				cattle,bovine	30412616
+	bronchopulmonary dysplasia		tamoxifen,Miglyol,Tamoxifen	Mouse,C57Bl/6J,mouse,pups,pup	30412359
+SPI1,Pten,PTEN,beta-catenin,Spi1,HAVCR2	T-ALL leukemia,Leukemia,leukemia		5-AZ	murine,human	30412053
+	Mansonia and Psorophora,Houston virus			viruses,Aedes albopictus,virus,Culex flavivirus,human,murine	30412047
+WNT7A,CASP7	Inflammation,Androgenetic alopecia,AGA,baldness,inflammation			male,humans,patients	30410894
+				pigs	30410752
+CD4	rheumatoid arthritis,RA			patients	30410636
+CCAT1	colorectal adenocarcinoma		MTT	donor	30410426
+	diarrhoea		MYO1G	Escherichia coli,Sheep,bacterial,sheep,E. coli,lambs,bacteria	30410073
+				Maize,maize	30409858
+			ATP,UDP,pyrimidine	Arabidopsis,Arabidopsis thaliana	30409856
+			hydrocarbons,hydrocarbon	Crassostrea virginica,C. virginica	30409725
+	Aegilops umbellulata			wheat,barley,Hordeum vulgare L	30409135
+			anthocyanin,Anthocyanins,flavonoids	carrot,Daucus carota L,carrots	30409110
+	tilapia,acute renal failure,kidney damage,kidney of tilapia		urea,uric acid,UA	Nile tilapia,Oreochromis niloticus	30408600
+				goat,embryos,retroviruses,mammalian,mice,humans,embryo	30407918
+				ginseng,Ginseng,infant	30407669
+neurod1	pancreatic islet,Pancreatic endocrine islets		glucose	zebrafish	30407522
+				human	30407492
+POMC,NMU,PMCH,ALDH1A1,LPL,GHRH,somatotropin	Broiler Chicken Hypothalamus,hypothalamus,hypothalamic genes,hypothalamic			mammalian,chickens	30406127
+QRFP,S100A16,TDRD1,SMO	breast cancer,cancer		MethylMix	patients	30405777
+	drug toxicity,cardiotoxicity		anthracyclines,doxorubicin,epirubicin,idarubicin,daunorubicin	rat,patients	30405693
+Transthyretin,transthyretin,TTR,peroxisome proliferator activated receptor gamma,PPARgamma,fatty acid binding Protein 4,FABP4				Cattle,cattle,bovine	30405687
+			Copper,Cadmium,copper,Cu,Pb,cadmium,Cd	Z. japonica	30405676
+	Phytophthora sojae Infection,infection,sojae infection		sugars,monosaccharides,organic acids,oxalic acid,cumic acid,mannitol,octanal,hypoxanthine,daidzein	Soybean,Phytophthora sojae,P. sojae,soybean	30405667
+			Aluminum Hydroxide,aluminum hydroxide,aluminum	lambs,Ovis aries,Bos taurus	30405610
+HAC1	parapsilosis HAC1		calcofluor,ketoconazole	Candida parapsilosis,yeast,Saccharomyces cerevisiae,Candida albicans,C. albicans,Candida glabrata,fungal,C. parapsilosis	30404939
+interleukin 4,IL-4,IL4nc,IL4				murine	30404921
+	alfalfa defoliation				30404602
+			Sugars,sugar,sucrose	Bacterial,S. officinarum,seedlings	30404601
+			Tc,JA,jasmonic acid,ABA,abscisic acid,SLs,strigolactones	Dendrobium officinale,D. officinale	30404159
+	Tumor,tumor,melanoma,tumors			patients,mouse,human	30404002
+				Mouse,mouse	30404000
+			Salicylic acid,jasmonic acid,ethylene	wheat,F. graminearum,F graminearum	30403737
+	chordate embryonic,embryonic skeletal		ketones,sulfur	chickens,Chicken,embryo,chicken	30403718
+GAPDH,RPS19,RPL17			phenol-guanidinium		30402716
+	deep learning algorithm				30401954
+	cancer,tumors			patient,patients,PPV	30401894
+DGAT			phosphorus,Phosphorus,NaH2PO4 2H2O,carbohydrate,fatty acid,carbon,pyruvate,TAG		30401886
+hepatocyte growth factor,HGF,H11,Pten	tumor aggressiveness,prostate cancer,prostatic intraepithelial neoplasia,tumor,prostate tumor,prostatic sarcomatoid carcinomas		tyrosine,Met	murine,mouse strain,human,mice,littermate,mouse	30401749
+			flavonoid,Iso,anthocyanidin,catechins,flavonoids	Camellia sinensis	30400863
+			mononucleotide	C. sinica	30400862
+	infection			wheat,Triticum aestivum L	30400808
+C1A,nuclease	paralysis,von Willebrand		calcium,disulfide,cystine,defensins	flies,mammalian,Lucilia cuprina,mouse	30400621
+ovalbumin	Descurainia sophia,Asthma,asthma,edema		ethanol,Methyl	mouse,mice	30400597
+			sugar	moso bamboo,Phyllostachys edulis	30400256
+snoRNA,PKR			pseudouridine,Psi,5-methylcytidine	human	30400232
+interferon,IFN	infection,low viremia			Egyptian Rousette,Egyptian rousette,virus,humans	30400182
+VEGF,mineralocorticoid receptor,MR,vascular endothelial growth factor	hypertrophy,inflammation,fibrosis,heart failure,hypertension,heart disease		Aldosterone,Deoxycorticosterone acetate,DOCA,aldosterone,silicon	mice,mouse	30400069
+ANL2,WRKY44,AtMYB113			catechin,catechins	seedlings,human	30399544
+	hypoxia,anoxia,Hypoxia,hypoxanthine catabolism,coma,hypoxic		oxygen,O2,TCA,dopamine	larvae	30399366
+	seizure,epileptic disorders,epilepsy			Schmidtea mediterranea,humans	30399335
+CD5,FasL	autoimmune diseases,diabetes,rheumatoid arthritis,RA,systemic lupus erythematosus,SLE,autoimmune disease,ongoing autoimmunity			human	30399325
+	Suspected Pneumonia,infection,bacterial pneumonia,alveolar neutrophilia,pneumonia,critically ill,aeruginosa pneumonia			Patients,bacterial,patients,mouse,human	30398927
+				human	30397970
+	ORFs		Sugarcane,Iso	sugarcane	30397543
+MPC1,Mitochondrial pyruvate carrier 1,MPC2	energy deficiency		pyruvate,Pyruvate,carbohydrate,fatty acid	mice	30397542
+YAP,PDGFR,PDGFB,TEAD1	Bladder Cancer,bladder cancer,cancer,tumor		cis-platinum,verteporfin,CP-673451	human,mouse,patients,SCID mice	30397177
+DN4			hMeDIP	mammalian	30396239
+			Mpa polyethylene glycol-8000,PEG	Potato,Solanum tuberosum L,potatoes,potato	30396236
+Poly(ADP-ribose) polymerase 1,LMP1,PARP1,PARP,hypoxia-inducible factor 1-alpha,HIF-1alpha	hypoxia,increases Poly(ADP-ribos)ylation,lymphoma,malignancies			Epstein-Barr virus,Epstein-Barr virus (EBV,EBV	30395643
+	Tomato wilt disease,FOL infection			tomato,Fusarium oxysporum	30395631
+			454-GS-FLX,FLX	wheat	30395610
+	increased endocytosis efficiency,inherited diseases,neurodegenerative diseases		fatty acid,unsaturated fatty acid,monounsaturated fatty acids	common carp	30395585
+	skeletal disorders,bone diseases		calcium	mammalian	30395487
+	Fetal Hypoxia,Heart Disease,hypoxia,heart disease		O2	rats,fetuses,male	30395198
+IGHM,LPL,CD36,SRGN,DGAT2,SNCG,CD48,GPD1			Alcian blue	Rabbit,rabbit	30394350
+estrogen receptor,ER	breast cancer,tumor,tumors			patients	30393759
+CD34,HOXA9,GATA2,AKT			CHIR-99021,Forskolin,cAMP	human,mice	30393564
+	mitochondrial dysfunction		iron,FITC,oxygen,bathophenanthroline disulfonic acid,BPS	Schizosaccharomyces pombe,fission yeast,S. pombe	30393157
+Lgr5	infection		ISC		30392957
+FOXA1,TGF-beta,BAMBI,SMAD2/3	tumor,carcinoma,Nasopharyngeal carcinoma,NPC,neck squamous carcinoma,TGF-beta responsive tumor		H3K4me1		30392786
+DNase1,PLAG1,MYB	salivary gland tumors,atlas			Human,Mouse,human,mouse,Epstein-Barr virus	30392435
+	stroma lamella		calcium,Calcium,proline,sugar,Ca2+,chlorophyll,malondialdehyde,CsCML45,KY652927	Camellia sinensis,C. sinensis,Arabidopsis thaliana	30392143
+PRL,POMC,CGA,LHB,SYTL2,SLC38A4,NCAM2	Simmental pituitary glands			cattle,bovine	30391830
+TRPM4,TRPM4b	death,cardiac arrhythmia,channelopathy,cardiomyopathy		Ca2+	infants,child,human	30391667
+vas	epididymis loss in cystic fibrosis,atresia,cystic fibrosis,CF,obstruction,epididymal,deferens loss,ductular damage,deferens atresia			rats,rat,humans,males	30391480
+CAST,CAPN1,LCORL,LEPROTL1				cattle,bovine	30390624
+HSF1,NFIL3			Norepinephrine,fatty acid,brite	human	30390616
+			DEGs	Oat,oat,seedlings	30389990
+			ammonia,sodium,glutamate,ammonium	fathead minnows,Pimephales promelas,Fathead minnows	30389628
+			leucine,abscisic acid,ABA,gibberellic acid,GA,ethylene	rice	30389557
+Slc5a8	hyperosmotic stress,inflammation		raffinose,NaCl,urea		30389539
+LHX6,NDUFA8,MIF	Cancer,cancer,study of cervical cancer,of the Cancer,cancers			2A11	30389505
+	multisystemic wasting syndrome,infection			porcine circovirus type 2,PCV2	30389043
+PVT1,ANGPTL4,angiopoietin-like 4	Cholangiocarcinoma,CCA,biliary tract malignancy,cancers			human	30388624
+CD8,TCF7	Melanoma,cancer,melanoma,tumor,tumors			patients,patient	30388456
+	Lateolabrax japonicus ovaries,japonicus ovaries,ovaries			L. japonicus	30386972
+	Carex angustisquama,angustisquama				30386711
+	Vriesea carinata				30386710
+			sugars,succinate,glucose,carbohydrate	Fibrobacter succinogenes,Fibrobacter succinogenes strain,bovine,bacteria,F. succinogenes	30386432
+	IIA			Bacterial,bacterial,bacteria	30386377
+	infection		salicylic acid,BTH	Barley,Wheat,Arabidopsis,wheat,Triticum aestivum L,barley,Hordeum vulgare L,Pseudomonas syringae pv. tomato DC3000,P. syringae DC3000,Magnaporthe oryzae	30386355
+ACE,LDLR,LXR	metabolic syndrome,Cardiovascular disease,metabolic cardiomyopathy,MetS,atherosclerosis,cardiac hypertrophy		nitric oxide,oxygen	murine,C57BL/6	30385846
+				Jatropha curcas,Arabidopsis,rice,J. curcas	30385801
+IL-8			carbohydrate,sphingosine-1-phosphate,fatty acid,glucose,calcium	pigs	30384851
+			Nitrogen,nitrogen,N0,N168,linoleate	Wheat,wheat,seedlings	30384458
+	Betula halophila		Fatty acid,Flavonoid,dehydrins		30384437
+ATF4,TCF7	metabolic syndrome			Pig,pigs,pig	30384377
+	Lipid Metabolism,hepatic lipid metabolism		Estrogen,estrogen,triglyceride	Chickens,Gallus Gallus,chickens,chicken	30384372
+	serous epithelial ovarian cancer,ovarian cancer,tumor,tumors,breast cancer,cancer,metastases			patients,patient	30383866
+	Drosophila embryos			D. melanogaster,embryos,D. simulans	30383747
+Cyp12d1-p,Cyp12a4,cyt-c-d,COX5BL,COX7AL,Dif	Drosophilidae,mitochondrial dysfunction,Drosophila		DDT,organochloride,dichlorodiphenyltrichloroethane,oxygen,CG17140	Drosophila melanogaster,Drosophila melanogaster Meigen 1830,Drosophila) strain	30383265
+TRUP	cancers,breast cancer,melanoma and glioma				30382840
+				human	30382566
+DUSP18,RHOBTB1,NCAN,RAET1G	fatigue,locoregional breast cancer,LRBC			patients,patient	30382394
+	Aplysina aerophoba and Dysidea avara,aerophoba phagocytosis		MAMP		30382170
+LPS,IFNgamma	neurological disorders,Parkinson's,Alzheimer's,Huntington's disease,pain			murine	30382133
+			TCA	Bacillus anthracis,anthrax,B. anthracis	30382110
+			pentose phosphate,fatty acid,cysteine,methionine,arginine,proline	Bacillus megaterium,B. megaterium	30382109
+TXNDC9,MYC,thioredoxin,thioredoxin domain containing protein 9,FOXA1,JUND,FOSL2	hepatocellular carcinoma,tumor,HCC				30382079
+Plau,Tgfbr3,YAP,Yes-associated protein	skin disease			transgenic mice,mouse	30382077
+P44,THP-1,p44	granulocytic anaplasmosis			Anaplasma phagocytophilum,NB4,patients	30381676
+			UDP,abscisic acid	Prunus Mume,Prunus mume,P. mume	30380641
+				Human,human	30380423
+DAZL,Dazl			PolyA,polyA	mice,male	30380414
+LpR1,LpR2,low-density lipoprotein receptor,LDLR	Drosophila ventral,Drosophila			mammalian	30380410
+			carbapenem,imipenem,1H,carbon,acetate,pyruvate,succinate,formate,uracil,xanthine,hypoxanthine,glycerophosphocholine,anserine,FAPgamma-adenine,methyladenine	Klebsiella pneumoniae,bacterial	30380366
+TCGA-BRCA			C		30379987
+	cancer		TMM		30379879
+Lgr5,beta-catenin,beta-Catenin	Gastric Cancer,cancer,tumor,gastric cancer,cancer stemness			human,xenografts,2018	30379370
+heat shock protein 90,Hsp90,Hsc70			ecdysone	male	30377954
+	recalcitrant infections			Helicobacter pylori,human,bacteria,H. pylori,mouse	30377283
+uhrf1,s100a10			calcium	humans,human,fallow deer	30376879
+ATF3,CYR61,activating transcription factor 3,Cysteine-rich angiogenic inducer 61	hepatocellular carcinoma,Hepatocellular carcinoma,HCC,malignant cancers,cancer,tumor		cAMP	human	30376856
+CD8	intracerebral hemorrhage			human,patients	30376808
+insulin,CD73,CD90,Pdx1	Type 1 diabetes,T1D,pancreatic,endocrine pancreas,endocrine pancreatic,diabetes			donors,mouse,mice,Human,SCID mice	30376726
+GLIS3,GLI-Similar 3,WNT3A				Human,human,2018	30376208
+			poly-A	mouse	30376061
+				Dendrobium catenatum	30375990
+				mouse	30375971
+FKS1	Agaricomycetes mushrooms		carbohydrate,terpenes,indoles,estrogens	fungal,Postia placenta,yeast	30375506
+				Arabidopsis,Arabidopsis thaliana,Col-0	30375060
+	Rhopilema esculentum,polyps				30374762
+	pain,hypoxia conditions			human,rats	30374463
+			Arabinose,carbohydrates,arabinose,pentose,Carbohydrate,glucose,acetate,butyrate,pentose phosphate,histidine,carbon,acetone,butanol,ethanol,carbohydrate	Clostridium acetobutylicum ATCC 824,Bacterial,Clostridium acetobutylicum,C. acetobutylicum	30374459
+beta-catenin,hub			retinoic acid,RA		30373532
+			lysine,H3K9me3		30373515
+Bcl-2	Metastasis,cancer,metastasis		Rhazyaminine,rhazyaminine,R.A	Rhazya stricta,Rhazya stricta Decne,R stricta	30373413
+			peroxide,NaCl,phosphatidic acid,acetate,carbohydrate	Chlamydomonas reinhardtii,C. reinhardtii	30373210
+DAO,isopentenyl transferase,IPT,cytochrome P450 monooxygenase, family 735	Branching" of Cremastra appendiculata		N-1-naphthylphthalamic acid,NPA,2,3,5-triiodibenzoic acid,TIBA,DEGs,Zeatin		30373177
+			petroleum hydrocarbon,cholesterol,fatty acid,cholesterol ester,diglyceride,triglyceride	zebrafish,embryos	30373040
+Pkd1,PKD1,PKD2	polycystic kidney disease,autosomal dominant polycystic kidney disease,ADPKD		calcium	mice	30372813
+			Dothideomycete	Barley,barley,Zymoseptoria tritici	30371775
+Rasd1,Stxbp1,Sfxn1,Akt,FoxO1,hairy and enhancer of split 1,HES1,SHP	flower tea Coreopsis tinctoria on hepatic insulin,diabetes,metabolic diseases,Coreopsis tinctoria,CT,metabolic disorders,hepatosteatosis, glucose intolerance,glucose homeostasis,hyperinsulinaemia,insulin insufficiency,hepatic insulin		glucose	rats	30370909
+			4-thiouridine,4-Thiouridine,disulfides		30370679
+	infection			Tomato,tomato,Solanum lycopersicum L,Arabidopsis,bacteria,virus	30369853
+			ascorbic acid,AsA,Ascorbic acid		30367706
+	panicle blast infection,bacterial blight disease		salicylic acid,SA	bacteria,rice,Rice,bacterial	30367631
+			Sugarcane	sugarcane,sorghum	30367619
+Bax Inhibitor-1,Bax inhibitor-1,BI-1,BI-1 mutants atbi1-1 and atbi1-2,AtBI-1,HSP17	thermotolerance deficiency			Wheat,Arabidopsis,Arabidopsis thaliana,wheat,Triticum aestivum L,Col-0	30367612
+				mers	30367583
+CDK5,androgen receptor,AR	prostate cancer,cancer				30367578
+	genomic				30367568
+COX7B,CD63	Cancers,cancers,cancer,urinary bladder cancer		platinum,cisplatin [CDDP],CDDP	patients	30367559
+SOSTDC1,ADAMTS8,SMAD2,transforming growth factor (TGF)-beta1,FRAS1,TGF-beta1				patients	30367460
+DAG1,dag1,WRKY18,ERF2,SMALL AUXIN UP RNA 67,SAUR67			ethylene	Arabidopsis,seedlings	30367178
+	Anemonia viridis Venom,sea anemone Anemonia viridis,viridis toxin arsenal		sodium,potassium		30366463
+	hypoxia,small abalone Haliotis,hypoxia plus thermal stress		abalone		30366091
+			praziquantel,propidium iodide,ATP,DMSO	parasites,human,male,worms,S. mansoni	30365505
+SHORT VEGETATIVE PHASE,SVP,AGAMOUS-LIKE22,AGL22,AGL24,SVP1			C,abscisic acid,ethylene,gibberellin	Arabidopsis,apple	30364940
+				male,Mytilus edulis,M. galloprovincialis,Mytilus galloprovincialis	30364736
+			acetate,isocitrate,SRX3824204-SRX3824249	Chlamydomonas reinhardtii,Chlamydomonas	30364580
+VEGF,STAT			phosphatidylinositol	Zebrafish,zebrafish	30364302
+			Dopamine,Serotonin,monoamine,dopamine,DA,serotonin,5-HT,alanine,Ala,proline,Pro,glycine,Gly,glutamate,Glu,arginine,Arg,aspartate,Asp	Chinese Mitten Crab,Eriocheir sinensis,Chinese mitten crab	30364201
+	anxiety,hyperactivity		L-Lactate,Lactate,lactate,NMDA,MK-801,NADH		30364173
+			pentachlorophenol,C6HCl5O,PCP,hexachlorobenzene,C6Cl6,HCB,chlorophenol	bacteria,E. coli	30363388
+Pf1			BSW20308		30362272
+	proteins		abscisic acid,superoxide	rice	30361842
+	bacterial infections		acyl homoserine lactones,AHLs,urea	bacterial,Pseudomonas aeruginosa,P. aeruginosa,murine	30361690
+Farnesyl-diphosphate Farnesyltransferase 1,FDFT-1,Squalene Epoxidase,SQLE,NAD(P)-dependent Steroid Dehydrogenase-like,NSDHL,Methylsterol Monooxygenase (MSMO)-1,Sterol-C5-desaturase,SC5D,Sterol Regulatory Element-binding Transcription Factor 1 and 2,Low-Density Lipoprotein Receptor,LDLR			polyphenols,cholesterol,Malondialdehyde	Cattle,calves	30360570
+Carhsp1,Myh9,Sptbn2				mouse	30359574
+CD45,CD11c,IL (interleukin)-1beta	Atherosclerotic,atherosclerosis,atherosclerotic disease,atherosclerotic,atherosclerotic aorta,atherosclerotic aortas,lesional inflammation			Murine,murine	30359200
+			sucrose,abscisic acid,ethylene	tomato,potato,Tomato,parents	30357855
+	Arabidopsis halleri partitivirus,infection,TuMV			Viruses,viruses,Turnip mosaic virus (TuMV,Cucumber mosaic virus (CMV,Brassica yellows virus,Pelargonium zonate spot virus,Arabidopsis,virus,Virus,CMV	30357428
+hnRNPA1,HNRNPA1	lymphoblastic leukemia,hallmark of leukemias,lymphoblastic leukemias,pediatric leukemia,cancer,leukemia and lymphoma			LSVs	30357359
+IRF7,interferon regulatory factor 7,IRF3,JAK	viral infection		H6N2	Chicken,mammalian,chickens,chicken	30356848
+Gga-miR-205a,CDH11,miR-205a,MiR-205a,myogenin,MyoG				Chicken,embryo,chicken	30356692
+BDNF	premenstrual dysphoric disorder,Premenstrual dysphoric disorder,PMDD,anxiety,depression,ovarian hormones		estradiol,17beta-estradiol,steroids	women,mouse,mice	30356121
+	respiratory diseases,pneumonia		fatty acid,D-alanyl	Streptococcus pneumoniae,bacteria	30356075
+	infection		oxygen,jasmonic acid,JA	Soybean Mosaic Virus,soybean,soybean mosaic virus (SMV	30355968
+HOXA11-AS,LINC00964,MALAT1	Neck Squamous Cell Carcinoma,head and neck squamous cell carcinoma,HNSCC			patients	30355951
+				Bacterial,bacteria,bacterial,Firmicutes	30355764
+			Glucose,carbon,glucose	Bacillus subtilis,bacteria,B. subtilis	30355672
+			ergosterol	Cryptococcus gattii,yeast,humans,mammalian,C. gattii,mouse	30355668
+			Cyclic Diguanylate,cyclic diguanylate,c-di-GMP,diguanylate,di-GMP	Clostridium difficile,bacteria,C. difficile	30355665
+CD49b	inflammation		TCR		30355617
+				human	30355602
+S100,CD1C	skin disease,inflammation,psoriatic epidermis			Human,human	30355494
+	host cell infection			Salmonella Typhimurium,Bacterial,bacterial,S. bongori	30355489
+IRE1a,XBP1,Th2,IL13,IL5	allergy,asthma,helminth infection,tumor			mouse	30355343
+	breast cancer			human	30355338
+TSPAN12,Tetraspanin 12,beta-catenin,norrin,NDP,Norrie disease protein,FZD4,frizzled 4,LRP5,tetraspanin 12,Tspan12,Cdh5,VE-cadherin,CDH5,cadherin5	retinopathies,neurodegenerative diseases,stroke,epilepsy,familial exudative vitreoretinopathy,blindness,intraretinal capillaries,cystoid edema,diabetic retinopathy		tetraspanin,tamoxifen	mice	30354230
+			Nucleoside,6-Thioguanosine,hydrogen,uridine,4-thiouridine,nucleoside,guanosine,6-thioguanosine,adenine,2-aminoadenosines		30353734
+AURKA,BLK,CNTN2,HMGA1,PTTG1,TNS4,DAPK2,MFSD2A,THSD1,WNT7A	lung adenocarcinoma,Lung adenocarcinoma,LUAD,multiple cancers,tumor,cancers,cancer			patients	30353687
+GZMA,PRF1,VEGF-A,CSF-1,CD137,CTLA4,CD40,GITR,IL6,OX40	glioblastoma,tumor,GBM,Glioma,tumors			human	30353265
+				mammalian	30353172
+miR-1343,miR-328	respiratory syndrome,ruinous diseases,infection			Pigs,PRRSV,pig,pigs,virus	30353051
+FUT2	diarrhea,infection			Escherichia coli F18,Escherichia coli,E. coli F18,pigs,pig,E. coli	30352970
+	cattle gastrointestinal tract,cattle rectum		O157,carbohydrates,xylose,ribose,mannitol,galactitol,aspartate,serine,glycerol,carbon,nitrogen,GalNac,fucose,maltose,ethanolamine	Escherichia coli,bovine,cattle,donors	30352567
+TP53,ADORA2B,PgR,EGFR,p53	breast cancer,tumor		adenosine	patients	30349649
+			sulfur,sugar-phosphate,oxygen	Streptomyces lividans	30349518
+	europaea obtains energy		hydroxylamine,ammonia,ribulose 1,5-bisphosphate,carbon,carbon dioxide	Nitrosomonas europaea	30349517
+FUS,Fused in Sarcoma	Amyotrophic Lateral Sclerosis,neurotoxicity,ALS,neurodegenerative disorder,aggressive disease,mitochondria dysfunction				30349096
+PTEN,AKT,miR-10a,Akt	tumor,ovarian cancer,ovarian,cancer			patients,mice	30348959
+HSC,p53,CD34,CD90	glycolysis		valproic acid,VPA,oxygen	human	30348672
+SUV39H2,suppressor of variegation 3-9 homolog 2,TPM4,STOM,OPTN	lung adenocarcinoma,carcinogenesis,cancers,tumor			mouse,patient	30348215
+			C,gibberellic acid,GA,carbohydrate	wheat	30348083
+				D. discoideum	30348074
+PRDM2,PRDM3,MECOM,PRDM9,PRDM16,ZFPM2,FOG2,ZFPM1,FOG1,PRDM12,PRDM13	malignancies,cancer,tumors,adrenocortical carcinoma,cancers		Su(var)3-9	patients	30347759
+	schizophrenia,SCZ			patients,human	30347265
+SCN1A,Scn1a	Dravet syndrome,epileptic encephalopathy,seizures,seizure			mouse,Mice,mice,mice. Strain	30347190
+CAV1,caveolin 1				mice	30346954
+			methylGSA,CpGs		30346483
+				Saccharomyces cerevisiae	30345328
+			carbon,glucose,sophorose	Trichoderma reesei,T. reesei,sugarcane	30345291
+Isopentenyl transferase,IPT	Lagenaria siceraria,bottle gourd leaf		LsADP	cucumber green mottle mosaic virus	30345167
+Slc4a4	ischemia-reperfusion injury,ischemia-reperfusion (IR) injury,IR injury,ischemia		HCO3	mouse,mice	30344957
+FAM138B,NHEG1,TLX1NB	lung adenocarcinoma,tumor,cancer,LUAD,miRecards			human	30344725
+CFTR,ABCC4,synaptotagmin IV,SYT4,ubiquitin specific peptidase 2,USP2,growth factor receptor-bound protein 10,GBR10,anoctamin 1,ANO1,transmembrane BAX inhibitor motif containing 4,TMBIM4,bta-mir-133a-2,bta-mir-22,myoglobin,MB,enolase 3,ENO3,carbonic anhydrase 3,CA3	Beef tenderness,consumer's palatability		glutathione,ATP,calcium	Cattle,cattle	30344530
+	ischemia,cerebral ischemic,metabolic depression,ischemic,cerebral ischemia		Resveratrol,resveratrol,pyruvate,TCA,acetyl-CoA,ATP	mice	30343466
+Iba1,CD11b,CA1,Adora2a,Adenosine A2a receptor	Spatial Memory Deficits		diaminobenzidine	Rats,rats	30343448
+CD14,CD11c	Crohn's Disease,Crohn's disease,CD,inflammation,CDi			Human,Patients,human,patients	30343293
+	familial attention deficit and hyperactivity disorder,familial ADHD,Huntington's disease				30343239
+			suberin,oxygen,anthocyanin	Zea mays,maize	30342485
+miR-34a,P53,miR-34b,miR-34c,cholinesterase,Fabp3,Cyp7a1,Apoa4,p53	liver toxicity,swelling		perfluorooctanoic acid,Perfluorooctanoic acid,PFOA,alanine,aspartate	mice,mouse	30342367
+	Spotting disease			Strongylocentrotus intermedius,S. intermedius,S. purpuratus	30342081
+expansin,Expansin	Petunia x hybrida,hypocotyl elongation,hypocotyl growth retardation			Arabidopsis,tomato,seedlings	30341720
+	brown alga Cladosiphon okamuranus			Nannochloropsis gaditana,Saccharina japonica,Ectocarpus siliculosus	30341489
+	osteoarthritis,Osteoarthritis,OA,joint disorder			patients	30341348
+	hemorrhagic				30341342
+Solute carrier family 3 member 2,solute carrier family 3 member 2,SLC3A2,CD98hc,LAT1,mTORC1	infection,HCV		rapamycin,L-leucine	Hepatitis C Virus,Hepatitis C virus (HCV,HCVcc,mammalian	30341327
+CRP,cAMP receptor protein			cephalothin,cysH	Escherichia coli,bacterial,E. coli	30340824
+	tumor,hepatocellular carcinoma,Liver tumor,non-tumor,cancer			patients,HCV,patient	30340600
+LEC1	Vernicia fordii		fatty acid,tri-acyl glyceride		30340540
+	tumor				30340508
+cyclooxygenase-2,cox-2,interleukin-1beta,il-1beta	infection,IHNV		cecropin B	rainbow trout,Oncorhynchus mykiss,Aeromonas salmonicida	30340506
+p73	ovarian granulosa,ovarian,ovarian folliculogenesis		progesterone	mice,murine	30340069
+	cancer,tumor,tumor imaging				30339943
+			SRP090662	Jatropha curcas L,J. curcas	30338276
+	necrotizing enteritis,NE,intestinal tract disease,perfringens type C infection,inflammation,atrophy,intestinal mucosal necrosis,tumor necrosis		Hematoxylin,eosin	Clostridium perfringens,C. perfringens	30338222
+Aryl hydrocarbon receptor,AhR,cytochrome P450 1A1,CYP1A1			2,3,7,8-tetrachlorodibenzo-p-dioxin,TCDD,dioxin	pigs	30338064
+			Melatonin,melatonin,carbohydrate	Xanthomonas oryzae,Xanthomonas oryzae pv,rice,bacterial,bacteria	30337911
+	vascular disease,dahliae infection		NAC,tyrosine,asparagine,glutamate,glutamine,arginine,alanine,threonine,glucosinolate sinigrin,flavonoid,quercetin glycoside	Verticillium dahliae,Arabidopsis thaliana,V. dahliae	30337674
+	ventricular myocardium			human	30337648
+	Tilletia horrida,infection		carbohydrate	rice,barley	30337609
+			bisulfite	mouse	30337375
+SGK1,AP-1,NDRG1,PR,progesterone receptor,N-Myc downstream regulated gene 1,miR-29a,miR-101-1	breast cancer,cancer,tumor		progesterone	patients	30337371
+H2A.X	Acromegaly,arthritis,kidney diseases,muscular weakness,colon cancer,acromegaly			Zebrafish,patients,zebrafish,larvae	30336646
+			ascorbate	male,rice,Oryza sativa L	30336276
+FOXG1,Foxg1	hearing loss,neurodevelopmental disorders,deformities			mouse,mice,transgenic mice	30336149
+			sorbitol,CTAB,polyphenols,lithium chloride	fungal	30335843
+	zflncRNApedia			zebrafish,Zebrafish,mammalian,Man	30335154
+				Human,Fungal,fungal,human	30333805
+	infected people,HIV-2 infection,HIV-1 disease,HIV-2-infected			HIV-2,HIV,patient,patients,hepatitis C virus (HCV	30333167
+FAD2	tumor		Polyacetylene,Polyacetylenic,polyacetylenic,polyacetylene,polyacetylenes,Falcarindiol,falcarinol,carbon-carbon,fatty acids,oleic acid,linoleic acid,linoleic,crepenynic acid,dehydrocrepenynic acid,falcarin	Carrot,human,carrot,Daucus carota subsp. sativus,yeast,Arabidopsis,Arabidopsis thaliana	30333150
+	hepatocellular carcinoma,hepatic neoplasm			human	30333049
+Nrf1,nuclear respiratory factor 1	Mitochondrial dysfunction,retinal degenerative diseases,neural degeneration,impaired mitochondria,dysfunctional mitochondria,neurodegenerative diseases,glaucoma,Parkinson's diseases,Huntington's disease			mouse	30333037
+VP1	viral gastroenteritis globally			norovirus GII,Human,viruses	30333011
+	DSP,diarrhetic shellfish poisoning		carbohydrate	Mytilus galloprovincialis,mammalian,M. galloprovincialis	30332849
+HIF-1alpha	Hypoxia,hypoxia,Barth syndrome,tafazzin deficiency,hypertrophy,heart failure		Cardiolipin,cardiolipin,cardiolipin acyl,tafazzin,Tafazzin,oxygen	patients,mice	30332638
+	joint infection			human	30332617
+LINC01133,GDF15,growth and differentiation factor 15	squamous cell carcinoma metastasis,carcinoma metastasis,oral squamous cell carcinoma,OSCC			patients	30332510
+Hsf1	proteostasis			yeast	30332327
+			carbohydrate,sialic acid,lactose,galactose	Streptococcus gordonii,Fusobacterium nucleatum,bacteria,S. gordonii,F. nucleatum,human	30329223
+				larvae,larval	30329187
+	stations				30329036
+				Seriola quinqueradiata,larvae	30329019
+Nod2,Cxcl1,Cxcl2,IL-1beta,Ctsg,Snca	preterm labor,inflammation,infection,LPS,infections			mouse,BALB/c,mice	30328754
+			Acyl-CoA,superoxide,SOD,pyrroline-5-carboxylate	Dendranthema grandiflorum	30328705
+ADGRE1,EMR1,F4/80,Adgre1,CSF1	bone marrow		calcium	Mammalian,mice,pigs,mammalian,pig,human,rat,sheep,goat,cow,water buffalo,horse,horses,humans	30327653
+				mammalian,mouse	30327589
+Ezh2,Prrx1,Col2a1	deficiency,osteoarthritis,excessive hypertrophy,premature osteoarthritis		lysine	mice,murine	30327434
+				chicken	30327322
+				Anser anser,embryo	30326614
+catalase			carbohydrate,glutathione,proline		30326607
+			sugar,Sucrose,zeatin-riboside,ZR,abscisic acid,ABA,gibberellins	Malus domestica Borkh,apple trees,apple	30326437
+TGFbeta,CXCL1,S100a9,CSF3,COX-2,CCL2,LCN2,HMOX1	fibrotic cataract,cataract,lens injury,inflammation,fibrotic disease			mouse	30326070
+Mboat1,Nek10,Ccl24,Cyp2c55	intestinal injury			murine,Mice,mice	30324649
+WUSCHEL-RELATED HOMEOBOX 11,WUS,PLETHORA1	Populus alba x P		PtWOX11-SRDX,PtPLT2,CUP-SHAPED COTYLEDON2,PtCUC3	Arabidopsis	30324253
+	Brain Tumor,Glioma,brain tumor,glioma,astrocytoma		suramin,dasatinib	patients,patient	30324181
+PACRG,RTTN	asthma,inflammatory disease of the lung			equine,horses,humans	30324028
+MYB Transcription Factor	Drought Stress,Drought		TaMYB31-B,polyethylene glycol,PEG,abscisic acid,ABA	Wheat,Arabidopsis,wheat	30323824
+SHQ1,NOTCH1,MYC	T-lymphoblastic leukemia,T-acute lymphoblastic leukemia (T-ALL),hematologic malignancy		ACA	murine	30323192
+LEFTY1,OLFM4,SPINK4,ITLN1	Barrett's oesophagus,oesophageal submucosal glands,oesophageal adenocarcinoma,oesophageal submucosal,gastric			patients	30323168
+	aeruginosa Acute Infection,nosocomial pneumonia,infects,cystic fibrosis,aeruginosa lung infections,aeruginosa lung infection,infection,aeruginosa acute lung infections,inflammation			Pseudomonas aeruginosa,patients,bacterial,P. aeruginosa,mice	30323028
+Sox2,SOX2,OCT4,NANOG	Glioma,tumor,glioblastoma,GBM,cancer,glioma,stemness,tumors,situ tumor			patients,mouse,human,patient	30322863
+P3H4	bladder cancer,cancer,tumors,tumor		Prolyl	patients,human	30322400
+CD36,Hmgn5,Nr5a2,Dll4,Entpd1,Fam50a,Brms1	Polycystic ovary syndrome,PCOS,endocrine disorder			rat,women,human	30322386
+	blastula			Eriocheir sinensis,embryos,E. sinensis	30321661
+			ceftriaxone,DEG,cephalosporins,cefixime	Neisseria gonorrhoeae,N. gonorrhoeae	30321622
+CDT2,DTL,P21	Alzheimer's disease,AD,tau hyperphosphorylation,Abeta toxicity,cognitive defects		roscovitine		30321504
+	vascular deficits,cognitive deficits,deficits in hippocampal learning and memory,demyelination,hypobaric-hypoxia			mice	30321497
+TNF-alpha,IL-17A,TNF,p38,NF-kappaBp65	psoriasis,Psoriasis,skin disease,epidermal hyperproliferation,psoriatic disease,inflammation,skin inflammation,skin hyperplasia,inflammatory skin disease		rhodomyrtone,Rhodomyrtone,imiquimod	human,mice	30321197
+	colorectal cancer,CRC				30320923
+				mouse	30320766
+				human,rodent,mouse,donor	30320555
+Oncostatin M,Lhcgr,Star,Cyp11a1,Hsd3b1,Cyp17a1,Hsd11b1,STAT3,JAK1			ethane dimethane sulfonate,EDS,testosterone,S3I,filgotinib	rat	30320465
+	infection,death,gonorrhea		Hydrogen Peroxide,hydrogen peroxide,HP,oxygen,peroxide,HOCl,O2	Neisseria gonorrhoeae,N. gonorrhoeae,human	30320218
+MRL-lpr/lpr,lpr	Neuropsychiatric Systemic Lupus Erythematosus,systemic lupus erythematosus,impaired cognition,depression,neuropsychiatric SLE,NPSLE,neurobehavioral deficits,neuropsychiatric lupus,memory deficits,splenomegaly,lymphadenopathy,lupus		Sphingosine-1-Phosphate,Fingolimod,sphingosine-1-phosphate,S1P,fingolimod	patients,mice	30319641
+	sporangia and infection,infection			Phytophthora sojae,soybean,P. sojae	30319576
+	hypoxia,hypertrophy,heart failure,death		oxygen	mice,P. maniculatus	30318588
+Col-3	inflammation,cancer		Tetracyclines,tetracyclines,doxycycline,tetracycline	Human,human	30318461
+Tbr1,TBR1,Wnt7b	autism spectrum disorder,ASD,anxiety			mouse	30318412
+AT2,IL-33,granulocyte-macrophage colony-stimulating factor,GM-CSF				mice	30318149
+			triterpene,triterpenoids,cucurbitacins,triterpenes,carbon,2,3-oxidosqualene,oxidosqualene,cucurbitadienol,isomultiflorenol,beta-amyrin,cycloartenol,McCAS		30317922
+leukemia inhibitory factor,LIF,miR-15b			estrogen	goat,goats	30317576
+miR-221,Timp3	nonalcoholic steatohepatitis,chronic liver disease nonalcoholic steatohepatitis,NASH,hepatic diseases,steatohepatitis,inflammation,reduction of liver fibrosis,hepatic steatosis,fibrosis		methionine,choline,carbon tetrachloride,CCl4	mice,mouse,C57BL/6 J,Adenovirus	30316865
+			GsbZIP67,bicarbonate,leucine,NaHCO3	Glycine soja,Arabidopsis,yeast,wild soybean	30316294
+p53,FEN1,MMP2,SIAH1	mesothelioma,Malignant pleural mesothelioma,MPM,cancer,tumor		Epinephrine,myricetin,batimastat	patients	30316293
+				Bacillus thuringiensis,Bombyx mori,larvae,larval,B. mori,silkworm	30316186
+mgst1,pck2	inflammation,toxicity,toxicities		benzotriazole,Benzotriazole	zebrafish,Danio rerio	30315675
+			glucose,carbon,pyruvate,sugar,sulfur,phosphoadenosine phosphosulfate,sulfite	Sulfolobus acidocaldarius DSM 639,S. acidocaldarius,DSM 639 strain	30315522
+	SRS,ZF-HD		LT2,LT24,flavonoid,phenylpropanoid,Pentose,glucuronate,phenylalanine,sucrose,C2H,CO,HD-ZIP,NAC,TCP	Hevea brasiliensis,H. brasiliensis	30315521
+PPAR,PGC-1alpha,PPARA,PPARG,PPARGC1A,GFAP,S100B,MAP2,SDHA,COX-1,NRF1			Bezafibrate,BZ	Human	30315479
+			oxylipin,proline,thiamine,calcium	Agrostis stolonifera	30315246
+ARID1A,Arid1a,Kras,Myc,MYC	pancreatic neoplasia,pancreatic ductal adenocarcinoma,PDAC,pancreas,inflammation,pancreatic intraepithelial neoplasia,PanIN,mucinous cysts,intraductal papillary mucinous neoplasm,tumour-suppressive			mice,human	30315093
+Hnrnpab,Eps8				mouse	30314980
+GLUD2	glioblastoma,Glioblastoma,GBM,malignant primary brain tumor,gliomas,cancer		Glutamate,alpha-KG	patients,human,zebrafish,embryos	30314897
+oleosin1			poly(A)	Brassica napus,B. napus	30314449
+	Rhabdomyosarcoma Cells,hand-foot-mouth disease,HFMD,viral infection,infection			Mouse,human,mice	30314355
+	Drought Stress,Drought stress			Dactylis glomerata L	30314311
+	acute myocardial infarction,myocardial infarction,coronary atherosclerotic diseases,cardiovascular disease,systemic lupus erythematosus,Parkinson's disease,viral carcinogenesis			patients	30313048
+				human	30312373
+UCP1			fatty-acid,cholesterol	sheep,lambs	30311245
+			Lovastatin	apple,apple trees,seedlings	30311175
+			bioethanol,sugar,pyruvate,ethanol	Candida tropicalis,Yeasts,yeast,Saccharomyces cerevisiae,C. tropicalis,S. cerevisiae	30311091
+NRG4,IP6K3,AMPD1,DYSF				goats,goat	30310084
+RPA1,NRF2,NRF2-replication protein A1,MYLK	proteostasis,small musculoaponeurotic fibrosarcoma proteins,sMAFs,lung injury				30309964
+Gfi1aa,Gfi1b,Gfi1,Gfi1/1b,gfi1aa,gfi1aa qmc551,gfi1b	hematopoiesis			zebrafish,embryo,embryos	30309860
+			Galpha-cAMP,cAMP,carbon,sucrose,8-Br-cAMP	Chaetomium globosum,C. globosum	30309363
+P5CS1,P5CS2,AtLEA3,COR413-PM1,COR15B			sugar,glucose,fructose,hexose,sucrose	Arabidopsis,Camellia sinensis L	30309330
+				Embryo,Mice,Rats,embryo,mice,rats,mouse,rat	30308503
+	Breast Cancer,breast cancer,cancers,non-cancerous			patients	30308479
+CD8	cancers,cancer,colon and lung cancer,bladder cancer,muscle invasive bladder cancer,MIBC,tumour,tumor,T cell cytotoxicity			patients	30308033
+mammalian target of Rapamycin,mTOR	oral cavity squamous cell carcinoma,Oral cavity Squamous Cell Carcinoma,OCSCC,head and neck cancer,Papillomavirus (HPV) infection,tumours,tumor,tumors		Brisbane,alcohol	HPV,tobacco,Patient,participants	30308005
+Polycomb,EED,polycomb,Shh,Gdnf,Bdnf,Neuregulin 1,Sema4f,Cntf,Cdkn2a,CDKN2A	nerve injury,EED loss,neurofibromas to malignant peripheral nerve sheath tumors,malignancy in neurofibromatosis			mice,mouse	30306639
+Pdx1,FOXA1,FOXO6	pancreatic cancer,cancer,pancreatic tumors,tumor,tumors,KPC tumors		PO	KPC,mice,C57BL/6	30306263
+			glyphosate,NaCl,HCl	bacteria	30305993
+				viruses	30305358
+			hydrogen,anthocyanin,Hydrogen,H2,glucosinolates,sucrose,nitrogen,NAC,TCP,Ca2+	radish,Radish	30305047
+androgen receptor,RAD50,CHEK2,MRE11	prostate cancer,multiple prostate cancer		androgen,Androgen	xenografts,patient	30305041
+ABCC10			tribenuron-methyl,acetolactate,TM,malathion,ATP		30305027
+Genes	Diseases	Mutations	Chemicals	Species	PMID
+ADSSL1,ADSL,AMPD1	myopathy,muscular disorders,vastus lateralis muscle,glycolysis		purine,purine nucleotide	patients	30853170
+neuronal migration	epilepsy,Epilepsy,unilateral mesial temporal lobe epilepsy,seizure,seizures		doxycycline,metformin,nifedipine,pyrantel tartrate	patients,zebrafish	30847362
+RBPMS2,SIDT2,CDH23,LILRA5,KIR2DS5,HLA-H,RPS23,FHL3,RPL10A,NBPF14,PSTPIP2,FAM117B,CHST7,ABRACL	bipolar,Linear		lithium,Lithium	patients,male,patient,men,women	30828420
+RIG-I,IRF7,IL-6,IL-10	vacuolar degeneration,infection			duck,Tembusu virus,Duck	30827402
+	asthma				30815178
+	breast cancer,breast cancer brain metastasis,BCBM				30810051
+			phenylpropanoid,gibberellic acid,brassinosteroids		30804627
+				Neanderthal,Denisovan	30773169
+			ATP,indoxacarb	cotton bollworm,Helicoverpa armigera,H. armigera	30765056
+TENM4,SCZD2,teneurin transmembrane protein 4	Schizophrenia,psychiatric disorder,schizophrenia,schizophrenic			patients	30745909
+			Crassulacean Acid,Crassulacean acid,carbon,CO2	Erycina pusilla	30745906
+			DEG	cattle	30744377
+	Drosophila melanogaster embryos			Drosophila melanogaster	30739944
+CCl4,Nrf2	Toxicity,toxicity,hepatic cholestasis,LPS		alpha-naphthylisothiocyanate,carbon tetrachloride,methylenedianiline,MDA,acetaminophen,APAP,diclofenac,cholesterol,glutathione	Rat,rats,rat	30723492
+			TRIzol,phenol,zol,acid-guanidinium-phenol		30714828
+ISG20,isocitrate dehydrogenase,IDH,interferon-stimulated exonuclease gene 20,PD-L1,CTLA4	tumor,glioma,gliomagenesis,glioblastoma,GBM,tumors			human	30713788
+	hermaphrodite			Hermaphrodites,gilthead seabream,Sparus aurata,male	30713551
+CCND1,CDKN1A,TP53,BAX,TNFRSF10B,TNFRSF10C,TNFRSF10D,DDB2,PLCB1,PRKCQ,HSH2D,ZMAT3,PLK2,RPS27L,HTT,ZFP57,PIWIL2,HIST1H3C,HIST1H2BB,ZFP30	HD,Huntington disease			Human,patients,human	30713489
+	implantation failure			embryo,mink,embryos	30712661
+	heart failure		Hi-C	mammalian	30697540
+Ghrelin,ghrelin	ovarian,ovaries,premature ovarian		acyl,des-acyl	Mouse,GOAT,mice	30697193
+ZMYND15,KLHL10,TDRD1,TSSK2,DNAJB13	male infertility			Male,embryos,male	30697164
+heat shock protein			ethyl methanesulfonate,Csa6G405290	cucumber,Cucumis sativus L	30697118
+			Di-nucleotide		30697114
+			Anthocyanin,anthocyanins,anthocyanin	Carrot,Daucus carota L,carrots,carrot	30693006
+	Middle Cerebral Artery Occlusion,neurological deficits,MCAO,cocaine addiction,glycerophospholipid metabolism,intracerebral hemorrhage		Si,rno04512,rno04080,rno05030,amphetamine,nicotine,rno05033		30692926
+				Gossypium hirsutum,upland cotton,Gossypium hirsutum L	30687363
+	Sigma Factors SigD		phenol,Ala,Lys	Corynebacterium glutamicum ATCC 13032,C. glutamicum	30687273
+BCL6,TNF-alpha,CXCL9,CXCL10	B-Cell Lymphoma 6,Hepatitis B virus (HBV) infection,liver inflammation,acute infection,B cell lymphoma			HBV,mouse,mice	30687256
+	Haliotis discus hannai,NOD		Abalones,abalone,glutathione		30687115
+CD4,CD28,TH1,interferon (IFN)-gamma,IL-5	necrotic tissue injury				30686136
+	squamous cell carcinoma,neck squamous cell carcinoma,cancer,tumor,anatomic neoplasm subdivision,carcinoma,oral carcinoma,laryngeal carcinoma,hypopharyngeal carcinoma		LOC541471	patients	30675311
+				Wheat,f. sp,wheat,Triticum aestivum L	30673391
+rhl,elastase LasB,LecA,LecB	Virulence Factors,aeruginosa infection		Diallyl Disulfide,Garlic Oil,diallyl disulfide,DADS,pyocyanin,PXD011144	Pseudomonas aeruginosa,Pseudomonas aeruginosa PAO1,P. aeruginosa,P. aeruginosa PAO1,bacterial	30666240
+	hypothetical proteins,LPS		Colistin,colistin,OXA-23,imipenem,meropenem,ampicillin,sulbactam,ciprofloxacin,gentamicin,amikacin,trimethoprim,sulfamethoxazole,tigecycline,diacylglycerol,phosphoethanol	Acinetobacter baumannii,COL,parents	30666237
+	Colorectal cancer,CRC,cancer,death,tumors,Primary tumors,inflammation			Patient,Xenografts,mice,xenografts,donor	30662905
+				bacteria,Streptococcus pneumoniae,S. mutans,S. pneumoniae	30662898
+Vimentin,SIRT5,Sirtuin 5,Snail,E-cadherin,vimentin	hepatocellular carcinoma,HCC,tumor		lysine		30662803
+5'-nucleotidase	Cordyceps cicadae,Cicada flammata larvae		purine,adenosine,purine nucleotide		30662735
+Cox,BIRC5,CDC20,PLK1,CENPH,CDK4,KIF18A	hepatocellular carcinoma,HCC			patients	30662724
+BMP2,BMP3,NTF3				Rats,rats	30643803
+CD47,thrombospondin-1,signal-regulatory protein-alpha,interleukin-15	Armstrong lymphocytic choriomeningitis virus (LCMV) infection,viral infection		Cd47	Murine,mice,LCMV	30643501
+IRF7	respiratory syndrome,infects,pulmonary alveolar,infection			Porcine reproductive and respiratory syndrome virus,pig,virus,PRRSV	30642596
+bZIP transcription factor			methionine,H2O2,sulfur,cysteine	Alternaria alternata,conidia	30642471
+TNM	Chromophobe Renal Cell Carcinoma,Chromophobe renal cell carcinoma,chRCC,tumor			Patients,PATIENTS,patients	30639042
+			ergosterol,Ergosterol,tebuconazole,terbinafine,DEGs	Aspergillus oryzae 3.042,fungal,Aspergillus oryzae,Saccharomyces cerevisiae,S. cerevisiae	30637636
+				murine,mice,mouse	30637296
+				Rice,rice,Oryza sativa L	30631334
+KRAS,TP53,PIK3CB	Colon Cancer,colon cancer,tumor,APC,cancers			Patient,patient	30631260
+			carbohydrate	wheat,Wheat,human,bread wheat	30627606
+	Legume-rhizobial symbiosis,rhizobia		copper,nitrogen,Cu,DEGs,cysteine,ethylene,ET	bacteria	30625663
+CXCL8,IL8,MZB1			carboxyfluorescein succinimidyl ester	human,donors	30622539
+	Vein Disease,infection			Viruses,Mirafiori lettuce big-vein virus,lettuce big-vein associated virus,viruses,virus	30622528
+			hydrogen sulfide,H2S,sulfur,NADPH,S-adenosyl methionine,thiamine	Saccharomyces cerevisiae,S. cerevisiae,yeast	30621870
+STAT3	Multiple Sclerosis,Multiple sclerosis,MS,neurological disorder				30619471
+			GmNAC,NAC,NAM,salicylic acid,GmNACs,GmNAC065,GmNAC085,GmNAC177,chlorophyll,H2O2	Soybean,soybean,Glycine max,Arabidopsis thaliana,yeast	30619426
+			2-Cys,thiol,disulfide,Cys,Cys236,hydrogen peroxide,H2O2,oxygen,malondialdehyde,chlorophyll	Synechococcus elongatus PCC 7942,rice,Oryza sativa L,seedlings,Synechococcus elongatus,S. elongatus PCC 7942 strain,S. elongatus PCC 7942	30619416
+HMGN1,Th1,TLR7,CD80,CD83,CD86,IL-1beta,TNF-alpha,IRF3,IRF7,IFN-alpha2,IFN-alpha4,IL12A,IL12B,IFNB1	tumor			human,mouse,mice	30619338
+	teleost skin mucosal,infection,parasite infection,Ich,skin of infected,parasitic infection			rainbow trout,Oncorhynchus mykiss,Ichthyophthirius multifiliis,bacteria	30619329
+	bacterial infections,infections		Thiol,methicillin,silver,ruthenium,oxygen,thiol,Fe2+,Zn2+,bacillithiol,BSH,disulfide	Staphylococcus aureus,MRSA,bacterial,S. aureus,USA300	30619128
+			GGU nucleotide	Asian corn borers,cotton bollworms,red flour beetle	30618790
+TGF-beta1,KLF7,Gja4	chronic kidney failure,damage to kidney glomerular,diabetic nephropathy,kidney disease				30618784
+solute carrier family 32 (GABA vesicular transporter) member 1,Slc32a1,Penk,Erbb4,solute carrier family 1 (glial high affinity glutamate transporter) member 2,Slc1a2,Snrnp70,Smad1,Pax6,Cebpa,Smpx	Migraine-Associated Hyperalgesia,hyperalgesia,allodynia,neurological disorder of trigeminovascular pain,migraine,pain		nitroglycerin,NTG,preproenkephalin,tyrosine	mice,mouse	30618656
+fibroblast growth factor 3,FGF3,FGF10				Human,human	30618604
+NF-kappaB inducing kinase,NIK,alpha-NIK-OE,LTbetaR	Hypoglycemia,Pancreatitis,Growth Retardation,Postnatal Death,diabetes,inflammation,pancreatitis,pancreatic,hypoglycemia,growth retardation,postnatal death			Mice,adenovirus,mice	30613274
+CCR2,PRDX4,CCL2,peroxiredoxin4	ischemic,stroke,ischemic stroke,ischemic lesions,ischemic brain lesions,middle cerebral artery occlusion,MCAO,Brain edema,inflammation infiltration		oxygen,oxygen-glucose	rats	30613272
+Arg1,arginase 1,Gbp2b,Bst1,Sgk1,Pmepa1,Ms4a7	tumor,tumors			mice	30613266
+Acbd4,Cd300lg,Fam171a2,Arhgap27,Nhlrc1	cardiac arrhythmias,cardiac arrhythmia			Rat,rat,male,rats	30608189
+	cancer,tumor,uveal melanoma			PD-1,patients	30607140
+	neurodegenerative disease			mouse	30606613
+			silver		30228881
+G6PD,APLP1,GCNT3,PLPP2	aggressive clear cell renal cell carcinoma,Clear cell renal cell carcinoma,ccRCC,kidney cancer,tumor,Atlas Kidney Renal Clear Cell Carcinoma,tumors,necrosis			patients	30603059
+	colorectal cancer,carcinogenesis,carcinoma,CRC,tumors			Human	30603058
+	tumour inhibition,CD-HIT v4.6		flavones,4-coumaroyl-CoA,flavonoid,phenylpropanoid,taxifolin,coniferyl alcohol,flavolignan	C. japonicum	30602095
+	phenylketonuria,Cardiac malformations,Phenylketonuria,developmental,congenital heart defects,craniofacial anomalies,central nervous system defects,growth anomalies,cardiovascular malformations		phenylalanine,Retinoic Acid,RA,PHE	infant	30600150
+LINC01268	aggression		LOC285758	human	30600091
+asparagine synthetase	Drought stress		carbon,nitrogen,DEGs,sucrose	maize,Zea mays L	30599307
+			sucrose,glucosinolate		30598864
+	cancer,cancers,melanoma			Human	30598115
+			oxygen	rice,seedlings	30598105
+	Crohn's disease,prostate cancer			human	30598101
+Rad21,SMC3,CTCF,RAD2,ELF1,TAF1	HMs		GM12878	human	30598100
+IGF1,ESR1,BMP5,ZBTB16			Androgen,Oestrogen,steroids,androgen,oestrogen,adiol	male,males	30598023
+	head and neck squamous cell carcinoma,NGS,HNSCC,neck squamous cell carcinoma,HPV carcinogenesis,cancer,tumor,cancers			human papillomavirus,human,viruses,patients,human papillomavirus (HPV,HPV	30597724
+small nucleolar RNA host gene 4,Snhg4	proteinuria,glomerular diseases,nephrotic,glomerular injury		puromycin aminonucleoside,poly(A)	rat,rats	30597036
+			digoxigenin	mouse,Mammalian	30596133
+			nocodazole	Human,human	30595546
+CD8,CD4,TCR	Melanoma,cancer,melanoma,dysfunctional T,tumor			Human,human,patients	30595452
+				human	30594648
+SnRK1,ZmSnRK1	hypersensitivity		sucrose,carbon,Sucrose,sugar,glucose	maize,Arabidopsis thaliana,Zea mays L,Arabidopsis	30594634
+ACSL4,Acsl,ACSL3,cyclin E,Prospero	non-syndromic X-linked intellectual disability,developmental defects of the mushroom body,olfactory learning and memory,Drosophila Acsl		acyl-CoA	human	30594466
+	infection of Elaeis guineensis by Ganoderma,hemibiotroph Ganoderma boninense,boninense infection		oxygen,NADPH,iron	fungal,Elaeis guineensis,seedlings	30594134
+			dinucleotides		30594132
+	assembly		carbohydrate,monosaccharide	embryos,embryo,Arabidopsis thaliana	30594130
+Genes	Diseases	Mutations	Chemicals	Species	PMID
+ADSSL1,ADSL,AMPD1	myopathy,muscular disorders,vastus lateralis muscle,glycolysis		purine,purine nucleotide	patients	30853170
+neuronal migration	epilepsy,Epilepsy,unilateral mesial temporal lobe epilepsy,seizure,seizures		doxycycline,metformin,nifedipine,pyrantel tartrate	patients,zebrafish	30847362
+RBPMS2,SIDT2,CDH23,LILRA5,KIR2DS5,HLA-H,RPS23,FHL3,RPL10A,NBPF14,PSTPIP2,FAM117B,CHST7,ABRACL	bipolar,Linear		lithium,Lithium	patients,male,patient,men,women	30828420
+RIG-I,IRF7,IL-6,IL-10	vacuolar degeneration,infection			duck,Tembusu virus,Duck	30827402
+	asthma				30815178
+	breast cancer,breast cancer brain metastasis,BCBM				30810051
+			phenylpropanoid,gibberellic acid,brassinosteroids		30804627
+				Neanderthal,Denisovan	30773169
+			ATP,indoxacarb	cotton bollworm,Helicoverpa armigera,H. armigera	30765056
+TENM4,SCZD2,teneurin transmembrane protein 4	Schizophrenia,psychiatric disorder,schizophrenia,schizophrenic			patients	30745909
+			Crassulacean Acid,Crassulacean acid,carbon,CO2	Erycina pusilla	30745906
+			DEG	cattle	30744377
+	Drosophila melanogaster embryos			Drosophila melanogaster	30739944
+CCl4,Nrf2	Toxicity,toxicity,hepatic cholestasis,LPS		alpha-naphthylisothiocyanate,carbon tetrachloride,methylenedianiline,MDA,acetaminophen,APAP,diclofenac,cholesterol,glutathione	Rat,rats,rat	30723492
+			TRIzol,phenol,zol,acid-guanidinium-phenol		30714828
+ISG20,isocitrate dehydrogenase,IDH,interferon-stimulated exonuclease gene 20,PD-L1,CTLA4	tumor,glioma,gliomagenesis,glioblastoma,GBM,tumors			human	30713788
+	hermaphrodite			Hermaphrodites,gilthead seabream,Sparus aurata,male	30713551
+CCND1,CDKN1A,TP53,BAX,TNFRSF10B,TNFRSF10C,TNFRSF10D,DDB2,PLCB1,PRKCQ,HSH2D,ZMAT3,PLK2,RPS27L,HTT,ZFP57,PIWIL2,HIST1H3C,HIST1H2BB,ZFP30	HD,Huntington disease			Human,patients,human	30713489
+	implantation failure			embryo,mink,embryos	30712661
+	heart failure		Hi-C	mammalian	30697540
+Ghrelin,ghrelin	ovarian,ovaries,premature ovarian		acyl,des-acyl	Mouse,GOAT,mice	30697193
+ZMYND15,KLHL10,TDRD1,TSSK2,DNAJB13	male infertility			Male,embryos,male	30697164
+heat shock protein			ethyl methanesulfonate,Csa6G405290	cucumber,Cucumis sativus L	30697118
+			Di-nucleotide		30697114
+			Anthocyanin,anthocyanins,anthocyanin	Carrot,Daucus carota L,carrots,carrot	30693006
+	Middle Cerebral Artery Occlusion,neurological deficits,MCAO,cocaine addiction,glycerophospholipid metabolism,intracerebral hemorrhage		Si,rno04512,rno04080,rno05030,amphetamine,nicotine,rno05033		30692926
+				Gossypium hirsutum,upland cotton,Gossypium hirsutum L	30687363
+	Sigma Factors SigD		phenol,Ala,Lys	Corynebacterium glutamicum ATCC 13032,C. glutamicum	30687273
+BCL6,TNF-alpha,CXCL9,CXCL10	B-Cell Lymphoma 6,Hepatitis B virus (HBV) infection,liver inflammation,acute infection,B cell lymphoma			HBV,mouse,mice	30687256
+	Haliotis discus hannai,NOD		Abalones,abalone,glutathione		30687115
+CD4,CD28,TH1,interferon (IFN)-gamma,IL-5	necrotic tissue injury				30686136
+	squamous cell carcinoma,neck squamous cell carcinoma,cancer,tumor,anatomic neoplasm subdivision,carcinoma,oral carcinoma,laryngeal carcinoma,hypopharyngeal carcinoma		LOC541471	patients	30675311
+				Wheat,f. sp,wheat,Triticum aestivum L	30673391
+rhl,elastase LasB,LecA,LecB	Virulence Factors,aeruginosa infection		Diallyl Disulfide,Garlic Oil,diallyl disulfide,DADS,pyocyanin,PXD011144	Pseudomonas aeruginosa,Pseudomonas aeruginosa PAO1,P. aeruginosa,P. aeruginosa PAO1,bacterial	30666240
+	hypothetical proteins,LPS		Colistin,colistin,OXA-23,imipenem,meropenem,ampicillin,sulbactam,ciprofloxacin,gentamicin,amikacin,trimethoprim,sulfamethoxazole,tigecycline,diacylglycerol,phosphoethanol	Acinetobacter baumannii,COL,parents	30666237
+	Colorectal cancer,CRC,cancer,death,tumors,Primary tumors,inflammation			Patient,Xenografts,mice,xenografts,donor	30662905
+				bacteria,Streptococcus pneumoniae,S. mutans,S. pneumoniae	30662898
+Vimentin,SIRT5,Sirtuin 5,Snail,E-cadherin,vimentin	hepatocellular carcinoma,HCC,tumor		lysine		30662803
+5'-nucleotidase	Cordyceps cicadae,Cicada flammata larvae		purine,adenosine,purine nucleotide		30662735
+Cox,BIRC5,CDC20,PLK1,CENPH,CDK4,KIF18A	hepatocellular carcinoma,HCC			patients	30662724
+BMP2,BMP3,NTF3				Rats,rats	30643803
+CD47,thrombospondin-1,signal-regulatory protein-alpha,interleukin-15	Armstrong lymphocytic choriomeningitis virus (LCMV) infection,viral infection		Cd47	Murine,mice,LCMV	30643501
+IRF7	respiratory syndrome,infects,pulmonary alveolar,infection			Porcine reproductive and respiratory syndrome virus,pig,virus,PRRSV	30642596
+bZIP transcription factor			methionine,H2O2,sulfur,cysteine	Alternaria alternata,conidia	30642471
+TNM	Chromophobe Renal Cell Carcinoma,Chromophobe renal cell carcinoma,chRCC,tumor			Patients,PATIENTS,patients	30639042
+			ergosterol,Ergosterol,tebuconazole,terbinafine,DEGs	Aspergillus oryzae 3.042,fungal,Aspergillus oryzae,Saccharomyces cerevisiae,S. cerevisiae	30637636
+				murine,mice,mouse	30637296
+				Rice,rice,Oryza sativa L	30631334
+KRAS,TP53,PIK3CB	Colon Cancer,colon cancer,tumor,APC,cancers			Patient,patient	30631260
+			carbohydrate	wheat,Wheat,human,bread wheat	30627606
+	Legume-rhizobial symbiosis,rhizobia		copper,nitrogen,Cu,DEGs,cysteine,ethylene,ET	bacteria	30625663
+CXCL8,IL8,MZB1			carboxyfluorescein succinimidyl ester	human,donors	30622539
+	Vein Disease,infection			Viruses,Mirafiori lettuce big-vein virus,lettuce big-vein associated virus,viruses,virus	30622528
+			hydrogen sulfide,H2S,sulfur,NADPH,S-adenosyl methionine,thiamine	Saccharomyces cerevisiae,S. cerevisiae,yeast	30621870
+STAT3	Multiple Sclerosis,Multiple sclerosis,MS,neurological disorder				30619471
+			GmNAC,NAC,NAM,salicylic acid,GmNACs,GmNAC065,GmNAC085,GmNAC177,chlorophyll,H2O2	Soybean,soybean,Glycine max,Arabidopsis thaliana,yeast	30619426
+			2-Cys,thiol,disulfide,Cys,Cys236,hydrogen peroxide,H2O2,oxygen,malondialdehyde,chlorophyll	Synechococcus elongatus PCC 7942,rice,Oryza sativa L,seedlings,Synechococcus elongatus,S. elongatus PCC 7942 strain,S. elongatus PCC 7942	30619416
+HMGN1,Th1,TLR7,CD80,CD83,CD86,IL-1beta,TNF-alpha,IRF3,IRF7,IFN-alpha2,IFN-alpha4,IL12A,IL12B,IFNB1	tumor			human,mouse,mice	30619338
+	teleost skin mucosal,infection,parasite infection,Ich,skin of infected,parasitic infection			rainbow trout,Oncorhynchus mykiss,Ichthyophthirius multifiliis,bacteria	30619329
+	bacterial infections,infections		Thiol,methicillin,silver,ruthenium,oxygen,thiol,Fe2+,Zn2+,bacillithiol,BSH,disulfide	Staphylococcus aureus,MRSA,bacterial,S. aureus,USA300	30619128
+			GGU nucleotide	Asian corn borers,cotton bollworms,red flour beetle	30618790
+TGF-beta1,KLF7,Gja4	chronic kidney failure,damage to kidney glomerular,diabetic nephropathy,kidney disease				30618784
+solute carrier family 32 (GABA vesicular transporter) member 1,Slc32a1,Penk,Erbb4,solute carrier family 1 (glial high affinity glutamate transporter) member 2,Slc1a2,Snrnp70,Smad1,Pax6,Cebpa,Smpx	Migraine-Associated Hyperalgesia,hyperalgesia,allodynia,neurological disorder of trigeminovascular pain,migraine,pain		nitroglycerin,NTG,preproenkephalin,tyrosine	mice,mouse	30618656
+fibroblast growth factor 3,FGF3,FGF10				Human,human	30618604
+NF-kappaB inducing kinase,NIK,alpha-NIK-OE,LTbetaR	Hypoglycemia,Pancreatitis,Growth Retardation,Postnatal Death,diabetes,inflammation,pancreatitis,pancreatic,hypoglycemia,growth retardation,postnatal death			Mice,adenovirus,mice	30613274
+CCR2,PRDX4,CCL2,peroxiredoxin4	ischemic,stroke,ischemic stroke,ischemic lesions,ischemic brain lesions,middle cerebral artery occlusion,MCAO,Brain edema,inflammation infiltration		oxygen,oxygen-glucose	rats	30613272
+Arg1,arginase 1,Gbp2b,Bst1,Sgk1,Pmepa1,Ms4a7	tumor,tumors			mice	30613266
+Acbd4,Cd300lg,Fam171a2,Arhgap27,Nhlrc1	cardiac arrhythmias,cardiac arrhythmia			Rat,rat,male,rats	30608189
+	cancer,tumor,uveal melanoma			PD-1,patients	30607140
+	neurodegenerative disease			mouse	30606613
+			silver		30228881
+G6PD,APLP1,GCNT3,PLPP2	aggressive clear cell renal cell carcinoma,Clear cell renal cell carcinoma,ccRCC,kidney cancer,tumor,Atlas Kidney Renal Clear Cell Carcinoma,tumors,necrosis			patients	30603059
+	colorectal cancer,carcinogenesis,carcinoma,CRC,tumors			Human	30603058
+	tumour inhibition,CD-HIT v4.6		flavones,4-coumaroyl-CoA,flavonoid,phenylpropanoid,taxifolin,coniferyl alcohol,flavolignan	C. japonicum	30602095
+	phenylketonuria,Cardiac malformations,Phenylketonuria,developmental,congenital heart defects,craniofacial anomalies,central nervous system defects,growth anomalies,cardiovascular malformations		phenylalanine,Retinoic Acid,RA,PHE	infant	30600150
+LINC01268	aggression		LOC285758	human	30600091
+asparagine synthetase	Drought stress		carbon,nitrogen,DEGs,sucrose	maize,Zea mays L	30599307
+			sucrose,glucosinolate		30598864
+	cancer,cancers,melanoma			Human	30598115
+			oxygen	rice,seedlings	30598105
+	Crohn's disease,prostate cancer			human	30598101
+Rad21,SMC3,CTCF,RAD2,ELF1,TAF1	HMs		GM12878	human	30598100
+IGF1,ESR1,BMP5,ZBTB16			Androgen,Oestrogen,steroids,androgen,oestrogen,adiol	male,males	30598023
+	head and neck squamous cell carcinoma,NGS,HNSCC,neck squamous cell carcinoma,HPV carcinogenesis,cancer,tumor,cancers			human papillomavirus,human,viruses,patients,human papillomavirus (HPV,HPV	30597724
+small nucleolar RNA host gene 4,Snhg4	proteinuria,glomerular diseases,nephrotic,glomerular injury		puromycin aminonucleoside,poly(A)	rat,rats	30597036
+			digoxigenin	mouse,Mammalian	30596133
+			nocodazole	Human,human	30595546
+CD8,CD4,TCR	Melanoma,cancer,melanoma,dysfunctional T,tumor			Human,human,patients	30595452
+				human	30594648
+SnRK1,ZmSnRK1	hypersensitivity		sucrose,carbon,Sucrose,sugar,glucose	maize,Arabidopsis thaliana,Zea mays L,Arabidopsis	30594634
+ACSL4,Acsl,ACSL3,cyclin E,Prospero	non-syndromic X-linked intellectual disability,developmental defects of the mushroom body,olfactory learning and memory,Drosophila Acsl		acyl-CoA	human	30594466
+	infection of Elaeis guineensis by Ganoderma,hemibiotroph Ganoderma boninense,boninense infection		oxygen,NADPH,iron	fungal,Elaeis guineensis,seedlings	30594134
+			dinucleotides		30594132
+	assembly		carbohydrate,monosaccharide	embryos,embryo,Arabidopsis thaliana	30594130
