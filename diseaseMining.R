@@ -2,7 +2,7 @@ library(rentrez)
 library("pubmed.mineR")
 library(stringdist)
 
-start <- Sys.time()
+start <- Sys.time()#starting time
 print(start)
 
 #get abstracts ids from pubmed by term and year
