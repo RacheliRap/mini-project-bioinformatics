@@ -21,6 +21,23 @@ res1 <- EUtilsSummary("RNASeq, RNA + seq, rnaseq",
                       maxdate = 2018)
 fetch <- EUtilsGet(res1, type = "efetch", db = "pubmed")
 
+table = read.csv("MINI-PROJ_methods_and_companies_classification-key_words.csv", header = TRUE, sep = ",", quote = "\"",
+                 dec = ".", fill = TRUE, comment.char = "")
+
+companies = table[,1]
+research = table[,2]
+count_companies = 0
+count_research = 0
+
+for (i in 1:length(fetch@Affiliation)) {
+  if (fetch@Affiliation[[i]] %in% companies) {
+    count_companies = count_companies+1
+  }
+  else if (fetch@Affiliation[i] %in% research) {
+    count_research = count_research+1
+  }
+  
+}
 
 query <- "RNA-seq"
 year <- 2019
