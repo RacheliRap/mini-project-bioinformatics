@@ -15,8 +15,8 @@ getAbstracts <- function(myear)
   ids <- r_search$ids
 }
 
-#get diseases from each abstract
-getDiseases <- function(ids)
+#get Species from each abstract
+getSpecies <- function(ids)
 {
   #send each id to pubtator_function to get information 
   d = lapply(ids, pubtator_function)
@@ -27,17 +27,18 @@ getDiseases <- function(ids)
   for (i in 1:length(d))
   {
     #if the function return information about the abstract
-    if(d[[i]] != " No Data ")
+    if(d[[i]] != " No Data " )
     {
+      
       #add the abstracts diseases to vector c
-      v <- c(v,getElement(d[[i]], "Diseases"))
+      v <- c(v,getElement(d[[i]], "Species"))
     }
   }
   return(v)
 } 
 
-#group simiiler diseases togther
-groupDiseases <- function(v) {
+#group simiiler Species togther
+groupSpecies <- function(v) {
   
   # Group selection by class numbers or height 
   num.class <- 5;
@@ -76,13 +77,13 @@ countGroups <- function(mdf)
     {
       if(mdf[j,3] == i)
       {
-        disease_name = as.character(mdf[j,1])
+        Species_name = as.character(mdf[j,1])
         count = count + 1
       }
       
     }
     #initalize the data frame withthe count
-    mat[i,1] = disease_name
+    mat[i,1] = Species_name
     mat[i,2] = count
   }
   #order the data frame by the size of the clusters
@@ -91,37 +92,33 @@ countGroups <- function(mdf)
 }
 
 
-allDiseases = c()
+allSpecies = c()
 
-pdf("topDiseases1_perYear.pdf", height = 10, width = 12)
+pdf("topSpecies_perYear.pdf", height = 9, width = 12)
 
 for (i in 2010:2018)
 {
   ids = getAbstracts(i)
-  v <- getDiseases(ids)
-  mdf <- groupDiseases(v)
+  v <- getSpecies(ids)
+  mdf <- groupSpecies(v)
   mat <- countGroups(mdf)
-  newDiseases <- rev(mat[,1])
-  allDiseases <- cbind(allDiseases,newDiseases)
-  print(allDiseases)
+  newSpecies <- rev(mat[,1])
+  allSpecies <- cbind(allSpecies,newSpecies)
+  print(allSpecies)
   
   mid <- Sys.time() - start # calculate running time
   print(mid)
   
   #extract 10 most popular diseases
-  topDiseases <- mat[(nrow(mat)-7):nrow(mat),]
-  freq <- topDiseases$nrow
-  names(freq) = topDiseases$ncol
+  topSpecies <- mat[(nrow(mat)-7):nrow(mat),]
+  freq <- topSpecies$nrow
+  names(freq) = topSpecies$ncol
   
   barplot(freq,main=i,ylab="Amount",las=2)
 }
 dev.off()
 
-#end <- Sys.time() - start # calculate running time
 
-#print(paste("general running time:" , end))
-allDiseases = data.frame(allDiseases)
-names(allDiseases) <- 2010:2018
-write.csv(allDiseases, file = "allDiseasesTable_perYear.csv", col.names = TRUE)
-
-
+allSpecies = data.frame(allSpecies)
+names(allSpecies) <- 2010:2018
+write.csv(allSpecies, file = "allSpeciesTable_perYear.csv", col.names = TRUE,row.names = F)
