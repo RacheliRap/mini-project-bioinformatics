@@ -64,13 +64,21 @@ tmp = genesByYear[-c(3),]
 
 
 require(reshape2)
-df <- data.frame(x=1:nrow(t(tmp[,1:9])), (data.frame(t(tmp[,1:9]))))
+df <- data.frame(x=1:nrow(t(tmp)), (data.frame(t(tmp))))
 df.melted <- melt(df, id="x")
-df.melted$x = rep(2010:2018, times = 7)
+df.melted$x = rep(2010:2019, times = 7)
 require(ggplot2)
-#qplot(x=x, y=value, color=variable, data=df.melted, geom="line", xlim = c(2010, 2019))ggplot(df.melted, aes(x=x, y = value, group = variable, colour = variable)) + geom_line() +
-  scale_x_discrete(name ="year", 
-                     limits=2010:2018)
+#qplot(x=x, y=value, color=variable, data=df.melted, geom="line", xlim = c(2010, 2019))
+pdf("genes-perYear.pdf", width = 12, height = 10)
+ggplot(df.melted, aes(x=x, y = value, group = variable, colour = variable)) + geom_line() +
+  scale_x_discrete(name ="year",limits=2010:2019)
+dev.off()
+
+
+
+
+
+
 
 
 

@@ -88,6 +88,9 @@ dev.off()
 
 #--------------------------create cumulative bar graph for cancer types----------------------
 
+
+library(ggplot2)
+
 cancersCount = c()
 for(y in 2010:2019)
 {
@@ -122,11 +125,16 @@ cancerTypes = c("carcinoma|breast|prostate|lung|pancreas|colon",
                 "sarcoma", "lymphoma", "leukemia", "germ cell tumor|ovary|ovarien|testicle", 
                 "blastoma", "hepatocarcinoma", 
                 "leiomyoma", "seminoma")
+types = c("carcinoma", 
+          "sarcoma", "lymphoma", "leukemia", "germ cell tumor", 
+          "blastoma", "hepatocarcinoma", 
+          "leiomyoma", "seminoma")
+
 for(i in 1:length(cancerTypes))
 {
   g <- cancerAbs[grepl(cancerTypes[i],  abstracts$abstract),]
   
-  tmp = c(y,cancerTypes[i],dim(g)[1])
+  tmp = c(y,types[i],dim(g)[1])
   cancersCount = rbind(cancersCount, tmp)
   
 }
@@ -140,25 +148,20 @@ df <- as.data.frame(cancersCount)
 #colnames(df) <- c("cancer type", "value")
 
 
-types = c("carcinoma", 
-          "sarcoma", "lymphoma", "leukemia", "germ cell tumor", 
-          "blastoma", "hepatocarcinoma", 
-          "leiomyoma", "seminoma")
 
 
 
-library(ggplot2)
-
-
-ggplot(data = df, aes(x = year, y = value, fill = types)) + 
-  geom_bar()
-
+pdf("stackedBarChart_cancerTypes.pdf")
 
 theme_set(theme_classic())
+
 # From on a categorical column variable
-g <- ggplot(df, aes(year))
-g + geom_bar(aes(fill=cancerType), width = 0.5) + 
+g <- ggplot(df, aes(x = year, y = value))
+g + geom_bar(aes(fill=cancerType), width = 0.5, stat="identity") + 
   theme(axis.text.x = element_text(angle=65, vjust=0.6)) +
-  labs(title="Categorywise Bar Chart", 
-       subtitle="Manufacturer of vehicles", 
-       caption="Source: Manufacturers from 'mpg' dataset")
+  labs(title="Cancer Types", 
+       subtitle="RNA-seq cancer related abstracts")
+
+dev.off()
+
+
