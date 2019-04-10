@@ -7,6 +7,7 @@ library(knitr)
 library(tm)
 library(topicmodels)
 library(MASS)
+library(ggplot2)
 
 
 #------------------------------create pie chart for all diseases---------------------------
@@ -31,6 +32,7 @@ abstracts <- data.frame(title = fetch@ArticleTitle,
 abstracts <- abstracts %>% mutate(abstract = as.character(abstract))
 abstracts %>%
   head()
+diseasesCount = c()
 
 #------------------------------all diseases---------------------------
 getAbstracts <- function(myear) 
@@ -63,13 +65,12 @@ getDiseases <- function(ids)
 } 
 #------------------------------end all diseases---------------------------
 
-diseasesCount = d()
+###
+#diseasesAbs <- abstracts[grepl(v,  abstracts$abstract),]
+#diseasesAbs$abstract <- sapply(diseasesAbs$abstract, tolower)
+###
 
-diseasesAbs <- abstracts[grepl(v,  abstracts$abstract),]
-diseasesAbs$abstract <- sapply(diseasesAbs$abstract, tolower)
-
-
-diseasesTypes = d("", "cancer|prostate cancer|breast cancer|lymphoma|leukemic|leukemia|osteosarcoma|breast cancer|prostate cancers|ovarian cancer|colorectal carcinoma|lung cancer|
+diseasesTypes = c("", "cancer|prostate cancer|breast cancer|lymphoma|leukemic|leukemia|osteosarcoma|breast cancer|prostate cancers|ovarian cancer|colorectal carcinoma|lung cancer|
                   B-cell lymphoma|Hodgkin lymphoma|melanoma|sarcoma|lymphoma entities|carcinogenesis|Follicular lymphoma|carcinoma|hepatocarcinogenesis|glioblastoma|glioblastoma tumors|
                   esophageal cancer|sarcomas|liver cancer|carcinomas|clear cell renal cell carcinomas|squamous cell carcinomas|gastric cancer|Chronic myeloid leukemia|colon cancer|
                   lymphomas|gliomas|Buccal mucosal cancer|neuroblastoma tumour|cutaneous melanoma metastases|myeloid leukemia|glioma|Horn cancer|inflammatory breast cancer|colorectal adenocarcinoma|
@@ -80,7 +81,7 @@ diseasesTypes = d("", "cancer|prostate cancer|breast cancer|lymphoma|leukemic|le
                   Glioblastoma Atlas|gloiblastoma|neuroblastoma|head and neck cancers|neck squamous cell carcinoma|melanomas|oral squamous cell carcinomas|BRCA1 deficient|tumor|tumors|primary tumors|breast tumor|ovarian tumors|tumour|aggressive tumours|Metastasis-competent circulating tumour",
                   "NMD",
                   "neurodegenerative diseases|neurodegenerative brain diseases|neurodegenerative disease", 
-                  "neurological disorders|neuropsychiatric diseases|neuropsychiatric disorders|psychiatric disorders"
+                  "neurological disorders|neuropsychiatric diseases|neuropsychiatric disorders|psychiatric disorders",
                    "Salmonella-infected",
                    "malaria|malaria parasite",
                    "HCV|HCV infection|metabolic impact of HCV infection", 
@@ -170,21 +171,21 @@ diseasesTypes = d("", "cancer|prostate cancer|breast cancer|lymphoma|leukemic|le
                    "GBM")
 for(i in 1:length(diseasesTypes))
 {
-  g <- diseasesAbs[grepl(diseasesTypes[i],  abstracts$abstract),]
+  g <- abstracts[grepl(diseasesTypes[i],  abstracts$abstract),]
   g1 <- g$DOI %>% list
   abstracts <- abstracts %>% 
     mutate(DOI  = as.character(DOI))
   
-  tmp = d(diseasesTypes[i],dim(g)[1])
+  tmp = c(diseasesTypes[i],dim(g)[1])
   diseasesCount = rbind(diseasesCount, tmp)
   
 }
-colnames(diseasesCount) <- d("diseaseTypes", "value")
+colnames(diseasesCount) <- c("diseaseTypes", "value")
 rownames(diseasesCount)<- 1:length(diseasesTypes)
 df <- as.data.frame(diseasesCount)
 
 
-types = d("cancer", 
+types = c("cancer", 
           "NMD", 
           "neurodegenerative diseases", 
           "neurological disorders", 
@@ -276,7 +277,7 @@ types = d("cancer",
           "aureus infection",
           "GBM")
 
-pdf("diseasesTypes_pieChart_2018.pdf")
+pdf("diseasesTypes_pieChart_2019.pdf")
 
 library(ggplot2)
 
@@ -305,7 +306,7 @@ dev.off()
 
 library(ggplot2)
 
-diseasesCount = d()
+diseasesCount = c()
 for(y in 2010:2019)
 {
   
@@ -331,11 +332,11 @@ for(y in 2010:2019)
     head()
   #diseasesCount = d()
   
-  diseasesAbs <- abstracts[grepl(v,  abstracts$abstract),]
-  diseasesAbs$abstract <- sapply(diseasesAbs$abstract, tolower)
+  #diseasesAbs <- abstracts[grepl(v,  abstracts$abstract),]
+  #diseasesAbs$abstract <- sapply(diseasesAbs$abstract, tolower)
   
   
-  diseasesTypes = d("", "cancer|prostate cancer|breast cancer|lymphoma|leukemic|leukemia|osteosarcoma|breast cancer|prostate cancers|ovarian cancer|colorectal carcinoma|lung cancer|
+  diseasesTypes = c("", "cancer|prostate cancer|breast cancer|lymphoma|leukemic|leukemia|osteosarcoma|breast cancer|prostate cancers|ovarian cancer|colorectal carcinoma|lung cancer|
                   B-cell lymphoma|Hodgkin lymphoma|melanoma|sarcoma|lymphoma entities|carcinogenesis|Follicular lymphoma|carcinoma|hepatocarcinogenesis|glioblastoma|glioblastoma tumors|
                     esophageal cancer|sarcomas|liver cancer|carcinomas|clear cell renal cell carcinomas|squamous cell carcinomas|gastric cancer|Chronic myeloid leukemia|colon cancer|
                     lymphomas|gliomas|Buccal mucosal cancer|neuroblastoma tumour|cutaneous melanoma metastases|myeloid leukemia|glioma|Horn cancer|inflammatory breast cancer|colorectal adenocarcinoma|
@@ -346,7 +347,7 @@ for(y in 2010:2019)
                     Glioblastoma Atlas|gloiblastoma|neuroblastoma|head and neck cancers|neck squamous cell carcinoma|melanomas|oral squamous cell carcinomas|BRCA1 deficient|tumor|tumors|primary tumors|breast tumor|ovarian tumors|tumour|aggressive tumours|Metastasis-competent circulating tumour",
                     "NMD",
                     "neurodegenerative diseases|neurodegenerative brain diseases|neurodegenerative disease", 
-                    "neurological disorders|neuropsychiatric diseases|neuropsychiatric disorders|psychiatric disorders"
+                    "neurological disorders|neuropsychiatric diseases|neuropsychiatric disorders|psychiatric disorders",
                     "Salmonella-infected",
                     "malaria|malaria parasite",
                     "HCV|HCV infection|metabolic impact of HCV infection", 
@@ -441,7 +442,7 @@ for(y in 2010:2019)
                     "osteogenesis", 
                     "aureus infection",
                     "GBM")
-  types = d("cancer", 
+  types = c("cancer", 
             "NMD", 
             "neurodegenerative diseases", 
             "neurological disorders", 
@@ -535,16 +536,16 @@ for(y in 2010:2019)
   
   for(i in 1:length(diseasesTypes))
   {
-    g <- diseasesAbs[grepl(diseasesTypes[i],  abstracts$abstract),]
+    g <- abstracts[grepl(diseasesTypes[i],  abstracts$abstract),]
     
-    tmp = d(y,types[i],dim(g)[1])
+    tmp = c(y,types[i],dim(g)[1])
     diseasesCount = rbind(diseasesCount, tmp)
     
   }
-  print(diseasesCount)
+  #print(diseasesCount)
 }
 
-colnames(diseasesCount) <- d("year", "diseasesType", "value")
+colnames(diseasesCount) <- c("year", "diseasesType", "value")
 #rownames(diseasesCount)<- 1:length(diseasesTypes)
 diseasesCount[,3] <- as.numeric(diseasesCount[,3])
 df <- as.data.frame(diseasesCount)
@@ -553,14 +554,14 @@ df <- as.data.frame(diseasesCount)
 
 
 
-pdf("stackedBarChart_diseasesTypes.pdf")
+pdf("Chart_diseasesTypes.pdf")
 
 theme_set(theme_classic())
 
 # From on a categorical column variable
 g <- ggplot(df, aes(x = year, y = value))
-g + geom_bar(aes(fill=diseasesTypes), width = 0.5, stat="identity") + 
-  theme(axis.text.x = element_text(angle=65, vjust=0.6)) +
+g + geom_bar(aes(fill=1:990),width = 0.1, stat="identity") + 
+  theme(axis.text.x = element_text(angle=65, vjust=0.5)) +
   labs(title="Diseases", 
        subtitle="RNA-seq diseases related abstracts")
 
