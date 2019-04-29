@@ -34,36 +34,6 @@ abstracts %>%
   head()
 diseasesCount = c()
 
-#------------------------------all diseases---------------------------
-getAbstracts <- function(myear) 
-{
-  term <- "RNA-seq"
-  y <- myear
-  query <- paste(term, "AND (", y, "[PDAT])")
-  r_search <- entrez_search(db="pubmed", term=query, retmax=50)
-  ids <- r_search$ids
-}
-#get diseases from each abstract
-getDiseases <- function(ids)
-{
-  #send each id to pubtator_function to get information 
-  dInfo = lapply(ids, pubtator_function)
-  
-  #create empty vector
-  v <- c()
-  
-  for (i in 1:length(dInfo))
-  {
-    #if the function return information about the abstract
-    if(dInfo[[i]] != " No Data ")
-    {
-      #add the abstracts diseases to vector c
-      v <- c(v,getElement(dInfo[[i]], "Diseases"))
-    }
-  }
-  return(v)
-} 
-#------------------------------end all diseases---------------------------
 
 ###
 #diseasesAbs <- abstracts[grepl(v,  abstracts$abstract),]
@@ -82,110 +52,85 @@ diseasesTypes = c("", "cancer|prostate cancer|breast cancer|lymphoma|leukemic|le
                   "NMD",
                   "neurodegenerative diseases|neurodegenerative brain diseases|neurodegenerative disease", 
                   "neurological disorders|neuropsychiatric diseases|neuropsychiatric disorders|psychiatric disorders",
-                   "Salmonella-infected",
-                   "malaria|malaria parasite",
-                   "HCV|HCV infection|metabolic impact of HCV infection", 
-                   "liver disease|liver cirrhosis|liver toxicity",
-                   "SREs", 
-                   "Huntington's disease", 
-                   "Parkinson's disease",
+                  "Salmonella-infected",
+                  "malaria|malaria parasite",
+                  "HCV|HCV infection|metabolic impact of HCV infection", 
+                  "liver disease|liver cirrhosis|liver toxicity",
+                  "Huntington's disease", 
+                  "Parkinson's disease",
                   "Alzheimer's disease|Alzheimer's", 
-                   "mucosal infections", 
                   "atherosclerosis",
-                   "pleiotropic developmental defects",
-                   "cardiac hypertrophy|cardiac septation defects|myocardial ischemia|cardiovascular diseases|myocardial infarction|cardiac dysfunction|Congenital heart disease", 
-                   "polyploidy",
-                   "chromosomal aneuploidies", 
-                   "GS", 
-                   "LPS",
-                   "URD",
-                   "gastrointestinal nematode infections|gastrointestinal disease|gastrointestinal",
+                  "pleiotropic developmental defects",
+                  "cardiac hypertrophy|cardiac septation defects|myocardial ischemia|cardiovascular diseases|myocardial infarction|cardiac dysfunction|Congenital heart disease", 
+                  "polyploidy",
+                  "chromosomal aneuploidies", 
+                  "GS", 
+                  "LPS",
+                  "URD",
+                  "gastrointestinal disease|gastrointestinal",
                   "MDS",
-                   "genetic disorders|genetic disease|genetic diseases|genetic interaction|genetic abnormalities|inherited diseases", 
-                   "AD|AD temporal lobe",
-                   "pneumococcal",
-                   "Myelodysplastic|myelodysplastic syndrome", 
-                   "retinal disease|diabetic retinopathy and retinal inflammation|retinal leukostasis", 
+                  "genetic disorders|genetic disease|genetic diseases|genetic interaction|genetic abnormalities|inherited diseases", 
+                  "AD|AD temporal lobe",
+                  "pneumococcal",
+                  "Myelodysplastic|myelodysplastic syndrome", 
+                  "retinal disease|diabetic retinopathy and retinal inflammation|retinal leukostasis", 
                   "EBV",
-                   "Dengue viruses|Dengue Fever Vector", 
-                   "Zn deficiency", 
+                  "Dengue viruses|Dengue Fever Vector", 
+                  "Zn deficiency", 
                   "N deficiency", 
-                   "inorganic nutrient deficiency",
-                   "parasitic diseases", 
-                   "diabetes|diabetes-induced memory deficits", 
-                   "lung disease|lung infection|lung diseases|aeruginosa causes chronic lung infection|respiratory syndrome", 
-                   "nematode infection", 
-                   "epilepsy", 
-                  "chronic obstructive pulmonary disease",
-                   "periodontitis and appendicitis", 
-                   "TSSs", 
+                  "parasitic diseases", 
+                  "diabetes|diabetes-induced memory deficits", 
+                  "lung disease|lung infection|lung diseases|aeruginosa causes chronic lung infection|respiratory syndrome", 
+                  "epilepsy", 
+                  "chronic obstructive pulmonary disease|pulmonary diseases",
+                  "periodontitis and appendicitis", 
+                  "TSSs", 
                   "cotton SE|SE", 
-                   "LB",
-                   "depression|depressive disorder", 
+                  "LB",
+                  "depression|depressive disorder", 
                   "viral infections|viral infection|virus infection",
-                   "columnaris disease", 
-                   "Paleopolyploidy",
-                   "mitochondrial dysfunction|mitochondria dysfunction", 
+                  "columnaris disease", 
+                  "Paleopolyploidy",
+                  "mitochondrial dysfunction|mitochondria dysfunction", 
                   "allopolyploidy", 
-                   "P(i) deficiency-induced cluster root", 
-                   "bacterial infection|bacteremia|bacterial disease infections|bacteria infection|parasitic nematodes and rhizobial bacteria",
-                   "rheumatoid arthritis",
-                   "inflammatory bowel disease", 
-                   "hepatic RDD", 
-                   "SCC", 
-                   "DHAD", 
+                  "bacterial infection|bacteremia|bacterial disease infections|bacteria infection|parasitic nematodes and rhizobial bacteria",
+                  "rheumatoid arthritis",
+                  "inflammatory bowel disease", 
+                  "hepatic RDD|rosai dorfman disease|rd", 
+                  "SCC", 
+                  "DHAD", 
                   "asthma", 
-                   "Tuberculosis Annotation Jamboree", 
-                   "developmental asynchrony", 
-                   "PK", 
-                   "neuro-developmental disorders", 
-                   "neurological diseases", 
-                   "TSS",
-                   "amyotrophic lateral sclerosis|multiple sclerosis", 
-                   "metabolic diseases|metabolic syndrome|hepatic metabolism and liver disease|metabolic disorder|metabolic disease",
+                  "Tuberculosis Annotation Jamboree", 
+                  "PK", 
+                  "neuro-developmental disorders", 
+                  "neurological diseases", 
+                  "TSS",
+                  "amyotrophic lateral sclerosis|multiple sclerosis", 
+                  "metabolic diseases|metabolic syndrome|hepatic metabolism and liver disease|metabolic disorder|metabolic disease",
                   "chronic kidney disease", 
-                   "NSCLC", 
-                   "psoriasis", 
-                  "aeruginosa infections",
-                   "fungal meningitis",
-                   "autism, schizophrenia, bipolar disorder|autism|schizophrenia and bipolar disorder|Autism Spectrum Disorders|schizophrenia",
-                   "CRC",
-                   "HCC",
-                   "NPC", 
-                   "TICs",
-                   "PHD",
-                   "sarcomatoid RCC", 
-                  "Intrinsic valvular degeneration and dysfunction", 
-                   "autoimmune disease",
-                   "RCC",
-                   "hyperdiploid/hypotriploid", 
+                  "NSCLC", 
+                  "psoriasis", 
+                  "fungal meningitis|meningitis",
+                  "autism, schizophrenia, bipolar disorder|autism|schizophrenia and bipolar disorder|Autism Spectrum Disorders|schizophrenia",
+                  "CRC",
+                  "HCC",
+                  "NPC", 
+                  "TICs",
+                  "PHD",
+                  "sarcomatoid RCC|RCC", 
+                  "autoimmune disease",
+                  "hyperdiploid/hypotriploid", 
                   "autoimmune disease systemic lupus erythematosus|systemic lupus erythematosus", 
-                  "necrotic lesions of cerebral infarction", 
-                   "pulmonary diseases",
-                   "fungal infection",  
-                   "colonic polyp lesion",
-                   "neurodegeneration", 
+                  "necrotic lesions of cerebral infarction|cerebral infarction", 
+                  "fungal infection",  
+                  "colonic polyp lesion",
+                  "neurodegeneration", 
                   "autosomal dominant hereditary cataracts",
-                   "osteogenesis", 
+                  "osteogenesis", 
                   "aureus infection",
-                   "GBM")
-for(i in 1:length(diseasesTypes))
-{
-  g <- abstracts[grepl(diseasesTypes[i],  abstracts$abstract),]
-  g1 <- g$DOI %>% list
-  abstracts <- abstracts %>% 
-    mutate(DOI  = as.character(DOI))
-  
-  tmp = c(diseasesTypes[i],dim(g)[1])
-  diseasesCount = rbind(diseasesCount, tmp)
-  
-}
-colnames(diseasesCount) <- c("diseaseTypes", "value")
-rownames(diseasesCount)<- 1:length(diseasesTypes)
-df <- as.data.frame(diseasesCount)
-
-
-types = c("cancer", 
+                  "GBM")
+types = c("",
+          "cancer", 
           "NMD", 
           "neurodegenerative diseases", 
           "neurological disorders", 
@@ -193,11 +138,9 @@ types = c("cancer",
           "malaria", 
           "HCV", 
           "liver diseases",
-          "SRE", 
           "Huntington's disease", 
           "Parkinson's disease",
           "Alzheimer's disease",
-          "mucosal infections", 
           "atherosclerosis",
           "pleiotropic developmental defects",
           "cardiac diseases", 
@@ -217,13 +160,11 @@ types = c("cancer",
           "Dengue", 
           "Zn deficiency", 
           "N deficiency", 
-          "inorganic nutrient deficiency",
           "parasitic diseases", 
           "diabetes", 
           "lung diseases", 
-          "nematode infection", 
           "epilepsy", 
-          "pulmonary disease",
+          "pulmonary disease|pulmonary diseases",
           "periodontitis and appendicitis", 
           "TSSs", 
           "SE", 
@@ -234,7 +175,6 @@ types = c("cancer",
           "Paleopolyploidy",
           "mitochondrial dysfunction", 
           "allopolyploidy", 
-          "P(i) deficiency-induced cluster root", 
           "bacterial infection", 
           "rheumatoid arthritis",
           "inflammatory bowel disease", 
@@ -243,7 +183,6 @@ types = c("cancer",
           "DHAD", 
           "asthma", 
           "tuberculosis", 
-          "developmental asynchrony", 
           "PK", 
           "neuro-developmental disorders", 
           "neurological diseases", 
@@ -253,7 +192,6 @@ types = c("cancer",
           "kidney disease", 
           "NSCLC", 
           "psoriasis", 
-          "aeruginosa infections",
           "fungal meningitis",
           "autism, schizophrenia, bipolar disorders", 
           "CRC",
@@ -262,13 +200,10 @@ types = c("cancer",
           "TICs",
           "PHD",
           "sarcomatoid RCC", 
-          "Intrinsic valvular dysfunction", 
           "autoimmune disease",
-          "RCC",
           "hyperdiploid/hypotriploid", 
           "lupus", 
           "cerebral infarction", 
-          "pulmonary diseases",
           "fungal infection",  
           "colonic polyp lesion",
           "neurodegeneration", 
@@ -277,31 +212,66 @@ types = c("cancer",
           "aureus infection",
           "GBM")
 
-pdf("diseasesTypes_pieChart_2019.pdf")
+for(i in 1:length(diseasesTypes))
+{
+  g <- abstracts[grepl(diseasesTypes[i],  abstracts$abstract),]
+  g1 <- g$DOI %>% list
+  abstracts <- abstracts %>% 
+    mutate(DOI  = as.character(DOI))
+  
+  tmp = c(diseasesTypes[i],dim(g)[1])
+  diseasesCount = rbind(diseasesCount, tmp)
+}
+
+colnames(diseasesCount) <- c("diseaseTypes", "value")
+rownames(diseasesCount)<- 1:length(diseasesTypes)
+df <- as.data.frame(diseasesCount)
+
+
+pdf("diseasesTypes_pieChart.pdf",width = 15)
 
 library(ggplot2)
 
 # Create a basic bar
-pie = ggplot(df, aes(x="", y=value, fill=types)) + geom_bar(stat="identity", width=1)
+pie = ggplot(df, aes(x="", y=value, fill=types)) + geom_bar(stat="identity", width=0.1)
 
 # Convert to pie (polar coordinates) and add labels
-pie = pie + coord_polar("y", start=0) + geom_text(aes(label = ""), position = position_stack(vjust = 0.5))
-
-# Add color scale (hex colors)
-#pie = pie + scale_fill_manual(values=d("#55DDE0", "#33658A", "#2F4858", "#F6AE2D", "#F26419", "#999999")) 
+pie = pie + coord_polar(theta = "y", direction = 1) + geom_text(aes(x=1.05, label = types), size=2, angle = 45, position = position_stack(vjust = 0.5))
 
 # Remove labels and add title
-pie = pie + labs(x = NULL, y = NULL, fill = NULL, title = "Diseases - 2018")
+pie = pie + labs(x = NULL, y = NULL, fill = NULL, title = "All Found Diseases, 2010-2019")
 
 # Tidy up the theme
 pie = pie + theme_classic() + theme(axis.line = element_blank(),
                                     axis.text = element_blank(),
                                     axis.ticks = element_blank(),
-                                    plot.title = element_text(hjust = 0.5, color = "#666666"))
+                                    plot.title = element_text(hjust = 0.1, color = "#666666"))
+
 pie
 dev.off()
 
 #--------------------------create cumulative bar graph for diseases ----------------------
+
+colnames(diseasesCount) <- c("year", "diseasesType", "value")
+#rownames(diseasesCount)<- 1:length(diseasesTypes)
+diseasesCount[,3] <- as.numeric(diseasesCount[,3])
+df <- as.data.frame(diseasesCount)
+
+#create stacked bar plot
+pdf("diseasesTypes_stackedChart.pdf", width = 50)
+
+years = c(2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019)
+theme_set(theme_classic())
+
+g <- ggplot(df, aes(x = year, y = value))
+g + geom_bar(aes(fill=diseasesTypes), width = 0.5, stat="identity") + 
+  theme(axis.text.x = element_text(angle=65, vjust=0.6),
+        axis.text.y = element_blank()) +
+  labs(title="Diseases", 
+       subtitle="RNA-seq diseases related abstracts")
+
+dev.off()
+
 
 
 library(ggplot2)
@@ -352,11 +322,9 @@ for(y in 2010:2019)
                     "malaria|malaria parasite",
                     "HCV|HCV infection|metabolic impact of HCV infection", 
                     "liver disease|liver cirrhosis|liver toxicity",
-                    "SREs", 
                     "Huntington's disease", 
                     "Parkinson's disease",
                     "Alzheimer's disease|Alzheimer's", 
-                    "mucosal infections", 
                     "atherosclerosis",
                     "pleiotropic developmental defects",
                     "cardiac hypertrophy|cardiac septation defects|myocardial ischemia|cardiovascular diseases|myocardial infarction|cardiac dysfunction|Congenital heart disease", 
@@ -365,7 +333,7 @@ for(y in 2010:2019)
                     "GS", 
                     "LPS",
                     "URD",
-                    "gastrointestinal nematode infections|gastrointestinal disease|gastrointestinal",
+                    "gastrointestinal disease|gastrointestinal",
                     "MDS",
                     "genetic disorders|genetic disease|genetic diseases|genetic interaction|genetic abnormalities|inherited diseases", 
                     "AD|AD temporal lobe",
@@ -376,13 +344,11 @@ for(y in 2010:2019)
                     "Dengue viruses|Dengue Fever Vector", 
                     "Zn deficiency", 
                     "N deficiency", 
-                    "inorganic nutrient deficiency",
                     "parasitic diseases", 
                     "diabetes|diabetes-induced memory deficits", 
                     "lung disease|lung infection|lung diseases|aeruginosa causes chronic lung infection|respiratory syndrome", 
-                    "nematode infection", 
                     "epilepsy", 
-                    "chronic obstructive pulmonary disease",
+                    "chronic obstructive pulmonary disease|pulmonary diseases",
                     "periodontitis and appendicitis", 
                     "TSSs", 
                     "cotton SE|SE", 
@@ -393,56 +359,44 @@ for(y in 2010:2019)
                     "Paleopolyploidy",
                     "mitochondrial dysfunction|mitochondria dysfunction", 
                     "allopolyploidy", 
-                    "P(i) deficiency-induced cluster root", 
                     "bacterial infection|bacteremia|bacterial disease infections|bacteria infection|parasitic nematodes and rhizobial bacteria",
                     "rheumatoid arthritis",
                     "inflammatory bowel disease", 
-                    "hepatic RDD", 
+                    "hepatic RDD|rosai dorfman disease|rd", 
                     "SCC", 
                     "DHAD", 
                     "asthma", 
                     "Tuberculosis Annotation Jamboree", 
-                    "developmental asynchrony", 
                     "PK", 
                     "neuro-developmental disorders", 
                     "neurological diseases", 
                     "TSS",
                     "amyotrophic lateral sclerosis|multiple sclerosis", 
                     "metabolic diseases|metabolic syndrome|hepatic metabolism and liver disease|metabolic disorder|metabolic disease",
-                    "Glycyrrhiza uralensis",
                     "chronic kidney disease", 
                     "NSCLC", 
                     "psoriasis", 
-                    "aeruginosa infections",
-                    "fungal meningitis",
+                    "fungal meningitis|meningitis",
                     "autism, schizophrenia, bipolar disorder|autism|schizophrenia and bipolar disorder|Autism Spectrum Disorders|schizophrenia",
                     "CRC",
                     "HCC",
                     "NPC", 
                     "TICs",
-                    "impaired vegetative growth",
-                    "metastatic PCa", 
                     "PHD",
-                    "sarcomatoid RCC", 
-                    "Intrinsic valvular degeneration and dysfunction", 
+                    "sarcomatoid RCC|RCC", 
                     "autoimmune disease",
-                    "RCC",
-                    "prostate impairs",
                     "hyperdiploid/hypotriploid", 
-                    "hepatotoxicity",
                     "autoimmune disease systemic lupus erythematosus|systemic lupus erythematosus", 
-                    "necrotic lesions of cerebral infarction", 
-                    "impaired glucose|glucose intolerance", 
-                    "pulmonary diseases",
+                    "necrotic lesions of cerebral infarction|cerebral infarction", 
                     "fungal infection",  
                     "colonic polyp lesion",
                     "neurodegeneration", 
-                    "virulent infectious bursal disease virus (vvIBDV) infection",
                     "autosomal dominant hereditary cataracts",
                     "osteogenesis", 
                     "aureus infection",
                     "GBM")
-  types = c("cancer", 
+  types = c("",
+            "cancer", 
             "NMD", 
             "neurodegenerative diseases", 
             "neurological disorders", 
@@ -450,11 +404,9 @@ for(y in 2010:2019)
             "malaria", 
             "HCV", 
             "liver diseases",
-            "SRE", 
             "Huntington's disease", 
             "Parkinson's disease",
             "Alzheimer's disease",
-            "mucosal infections", 
             "atherosclerosis",
             "pleiotropic developmental defects",
             "cardiac diseases", 
@@ -474,13 +426,11 @@ for(y in 2010:2019)
             "Dengue", 
             "Zn deficiency", 
             "N deficiency", 
-            "inorganic nutrient deficiency",
             "parasitic diseases", 
             "diabetes", 
             "lung diseases", 
-            "nematode infection", 
             "epilepsy", 
-            "pulmonary disease",
+            "pulmonary disease|pulmonary diseases",
             "periodontitis and appendicitis", 
             "TSSs", 
             "SE", 
@@ -491,7 +441,6 @@ for(y in 2010:2019)
             "Paleopolyploidy",
             "mitochondrial dysfunction", 
             "allopolyploidy", 
-            "P(i) deficiency-induced cluster root", 
             "bacterial infection", 
             "rheumatoid arthritis",
             "inflammatory bowel disease", 
@@ -500,7 +449,6 @@ for(y in 2010:2019)
             "DHAD", 
             "asthma", 
             "tuberculosis", 
-            "developmental asynchrony", 
             "PK", 
             "neuro-developmental disorders", 
             "neurological diseases", 
@@ -510,7 +458,6 @@ for(y in 2010:2019)
             "kidney disease", 
             "NSCLC", 
             "psoriasis", 
-            "aeruginosa infections",
             "fungal meningitis",
             "autism, schizophrenia, bipolar disorders", 
             "CRC",
@@ -519,13 +466,10 @@ for(y in 2010:2019)
             "TICs",
             "PHD",
             "sarcomatoid RCC", 
-            "Intrinsic valvular dysfunction", 
             "autoimmune disease",
-            "RCC",
             "hyperdiploid/hypotriploid", 
             "lupus", 
             "cerebral infarction", 
-            "pulmonary diseases",
             "fungal infection",  
             "colonic polyp lesion",
             "neurodegeneration", 
@@ -534,6 +478,16 @@ for(y in 2010:2019)
             "aureus infection",
             "GBM")
   
+  for(i in 1:length(diseasesTypes))
+  {
+    g <- abstracts[grepl(diseasesTypes[i],  abstracts$abstract),]
+    g1 <- g$DOI %>% list
+    abstracts <- abstracts %>% 
+      mutate(DOI  = as.character(DOI))
+    
+    tmp = c(diseasesTypes[i],dim(g)[1])
+    diseasesCount = rbind(diseasesCount, tmp)
+  }
   for(i in 1:length(diseasesTypes))
   {
     g <- abstracts[grepl(diseasesTypes[i],  abstracts$abstract),]
@@ -552,15 +506,13 @@ df <- as.data.frame(diseasesCount)
 
 
 
-
-
 pdf("Chart_diseasesTypes.pdf")
 
 theme_set(theme_classic())
 
 # From on a categorical column variable
 g <- ggplot(df, aes(x = year, y = value))
-g + geom_bar(aes(fill=1:990),width = 0.1, stat="identity") + 
+g + geom_bar(aes(fill=types),width = 0.1, stat="identity") + 
   theme(axis.text.x = element_text(angle=65, vjust=0.5)) +
   labs(title="Diseases", 
        subtitle="RNA-seq diseases related abstracts")
