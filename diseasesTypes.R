@@ -9,6 +9,7 @@ library(topicmodels)
 library(MASS)
 library(ggplot2)
 
+#y=2010:2019
 
 #------------------------------create pie chart for all diseases---------------------------
 res1 <- EUtilsSummary("RNA-seq", 
@@ -16,8 +17,8 @@ res1 <- EUtilsSummary("RNA-seq",
                       db = "pubmed",
                       datetype = "pdat",
                       retmax = 5000,
-                      mindate = i, 
-                      maxdate = i)
+                      mindate = 2010, 
+                      maxdate = 2019)
 
 fetch <- EUtilsGet(res1, type = "efetch", db = "pubmed")
 
@@ -211,6 +212,7 @@ types = c("",
           "osteogenesis", 
           "aureus infection",
           "GBM")
+  
 
 for(i in 1:length(diseasesTypes))
 {
@@ -477,7 +479,7 @@ for(y in 2010:2019)
             "osteogenesis", 
             "aureus infection",
             "GBM")
-  
+
   for(i in 1:length(diseasesTypes))
   {
     g <- abstracts[grepl(diseasesTypes[i],  abstracts$abstract),]
@@ -485,7 +487,7 @@ for(y in 2010:2019)
     abstracts <- abstracts %>% 
       mutate(DOI  = as.character(DOI))
     
-    tmp = c(diseasesTypes[i],dim(g)[1])
+    tmp = c(diseasesTypes[i],dim(g)[2])
     diseasesCount = rbind(diseasesCount, tmp)
   }
   for(i in 1:length(diseasesTypes))
@@ -501,7 +503,7 @@ for(y in 2010:2019)
 
 colnames(diseasesCount) <- c("year", "diseasesType", "value")
 #rownames(diseasesCount)<- 1:length(diseasesTypes)
-diseasesCount[,3] <- as.numeric(diseasesCount[,3])
+diseasesCount[,3] <- as.numeric(diseasesCount[,2])
 df <- as.data.frame(diseasesCount)
 
 
@@ -518,5 +520,4 @@ g + geom_bar(aes(fill=types),width = 0.1, stat="identity") +
        subtitle="RNA-seq diseases related abstracts")
 
 dev.off()
-
 
