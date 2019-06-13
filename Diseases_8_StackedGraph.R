@@ -88,7 +88,7 @@ m_colors = c("#df4a7a",
              "#db49ba")
 
 
-pdf("Diseases_stackedGraph_dicreased.pdf", width = 13, height = 10)
+pdf("Diseases Stacked Graph (Merged).pdf", width = 13, height = 10)
 
 theme_set(theme_classic())
 

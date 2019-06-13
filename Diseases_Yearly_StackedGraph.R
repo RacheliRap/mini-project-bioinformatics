@@ -119,7 +119,7 @@ m_colors = c("#df4a7a",
              "#db49ba")
 
 
-pdf("Diseases_stackedGraph.pdf", width = 13, height = 10)
+pdf("Diseases Stacked Graph.pdf", width = 13, height = 10)
 
 theme_set(theme_classic())
 g <- ggplot(df, aes(x = Year, y = Value, fill = Diseases))

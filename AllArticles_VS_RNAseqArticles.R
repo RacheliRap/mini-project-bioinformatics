@@ -37,7 +37,7 @@ df[,1] <- as.numeric(as.character(df[,1]))
 df[,3] <- log(df[,3])
 
 
-pdf("All Articles VS. RNA-seq Articles-logarithm_scale.pdf", width = 13, height = 10)
+pdf("All Articles VS. RNA-seq Articles-logarithmic scale.pdf", width = 13, height = 10)
 
 theme_set(theme_classic())
 

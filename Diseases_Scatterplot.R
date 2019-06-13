@@ -69,13 +69,11 @@ df[,1] <- as.numeric(as.character(df[,1]))
 a = c(0.8898, 0.9853, 0.9625, 0.9513, 0.9779, 0.9358)
 
 
-pdf("Diseases_scatterplot.pdf", width = 13, height = 10)
+pdf("Diseases Scatterplot.pdf", width = 13, height = 10)
 
 theme_set(theme_classic())
-
 ggplot(df, aes(x=df[,1], y=df[,3], color=Diseases)) + labs(x = "Years", y = "Number Of Articles", fill = NULL, color = "Diseases", title = "Linear Regression per Diseases")+
-  
-  geom_point(size=6, alpha=0.6)+ geom_smooth(method=lm,  se=FALSE)+theme(axis.text = element_text(family = "Times", size = 20),
+geom_point(size=6, alpha=0.6)+ geom_smooth(method=lm,  se=FALSE)+theme(axis.text = element_text(family = "Times", size = 20),
                                                                          axis.text.x = element_text(family = "Times", vjust=0.6),
                                                                          axis.title = element_text(family = "Times", face = "italic", size = 25),
                                                                          plot.title = element_text(family = "Times", face = "bold", size = 30),
