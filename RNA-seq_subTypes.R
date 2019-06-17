@@ -35,8 +35,15 @@ names(df) <- c("Types", "Year", "Count")
 
 #plot the results
 pdf("RNASEQ sub-methods.pdf", width = 10)
+theme_set(theme_classic())
 ggplot(data=df, aes(x=Year, y=Count, group=Types, colour=Types)) +
   geom_line() +
+  theme(axis.text = element_text(family = "Times", size = 20),
+        axis.text.x = element_text(family = "Times", vjust=0.6),
+        axis.title = element_text(family = "Times", face = "italic", size = 25),
+        plot.title = element_text(family = "Times", face = "bold", size = 30),
+        legend.text = element_text(family = "Times", size = 25))+
+  scale_fill_manual(values=m_colors)+
   geom_point() +
   labs(title = "RNA-Seq Sub-Methods", y = "Number Of Abstracts")
 dev.off()
@@ -71,8 +78,15 @@ names(df) <- c("Types", "Year", "Count")
 
 #plot the results
 pdf("RNASEQ additional uses.pdf", width = 10)
+theme_set(theme_classic())
 ggplot(data=df, aes(x=Year, y=Count, group=Types, colour=Types)) +
   geom_line() +
+  theme(axis.text = element_text(family = "Times", size = 20),
+        axis.text.x = element_text(family = "Times", vjust=0.6),
+        axis.title = element_text(family = "Times", face = "italic", size = 25),
+        plot.title = element_text(family = "Times", face = "bold", size = 30),
+        legend.text = element_text(family = "Times", size = 25))+
+  scale_fill_manual(values=m_colors)+
   geom_point() +
   labs(title = "Additional Uses For RNA-Seq", y = "Number Of Abstracts")
 dev.off()
