@@ -1,69 +1,69 @@
 Cancer Types,Dif,Val
-Lung,Cancer.pop,-12.3
-Breast,Cancer.pop,-12.3
-Thyroid,Cancer.pop,-3.3
-Ovary,Cancer.pop,-1.7
-Multiple myeloma,Cancer.pop,-0.9
-Mesothelioma,Cancer.pop,-0.2
-Colorectal cancer,Cancer.pop,-10.6
-Prostate,Cancer.pop,-7.5
-Stomach Cancer,Cancer.pop,-6.1
-Liver cancer,Cancer.pop,-5
-Oesophagus cancer,Cancer.pop,-3.4
-Cervix uteri cancer,Cancer.pop,-3.3
-Bladder,Cancer.pop,-3.2
-Non-Hodgkin lymphoma,Cancer.pop,-3
-Pancreas,Cancer.pop,-2.7
-Leukemia,Cancer.pop,-2.6
-Kidney Tumors,Cancer.pop,-2.4
-Corpus uteri cancer,Cancer.pop,-2.2
-Lip and Oral Cavity,Cancer.pop,-2.1
-Brain Cancer / central nervous system cancer,Cancer.pop,-1.7
-Melanoma of skin,Cancer.pop,-1.7
-Gallbladder cancer,Cancer.pop,-1.3
-Larynx cancer,Cancer.pop,-1
-Nasopharynx cancer,Cancer.pop,-0.8
-Oropharynx cancer,Cancer.pop,-0.5
-Hypopharynx cancer,Cancer.pop,-0.5
-Hodgkin lymphoma,Cancer.pop,-0.5
-Testis cancer,Cancer.pop,-0.4
-Salivary glands cancer,Cancer.pop,-0.3
-Anus cancer,Cancer.pop,-0.3
-Vulva cancer,Cancer.pop,-0.3
-Kaposi sarcoma,Cancer.pop,-0.2
-Penis cancer,Cancer.pop,-0.2
-vaginal cancer,Cancer.pop,-0.1
-Lung,RNASeq,17.881
-Breast,RNASeq,16.289
-Thyroid,RNASeq,3.307
-Ovary,RNASeq,3.429
-Multiple myeloma,RNASeq,1.164
-Mesothelioma,RNASeq,0.306
-Colorectal cancer,RNASeq,7.777
-Prostate,RNASeq,6.307
-Stomach Cancer,RNASeq,2.633
-Liver cancer,RNASeq,1.96
-Oesophagus cancer,RNASeq,0
-Cervix uteri cancer,RNASeq,0
-Bladder,RNASeq,2.449
-Non-Hodgkin lymphoma,RNASeq,0
-Pancreas,RNASeq,2.082
-Leukemia,RNASeq,0.612
-Kidney Tumors,RNASeq,0.551
-Corpus uteri cancer,RNASeq,0
-Lip and Oral Cavity,RNASeq,0.061
-Brain Cancer / central nervous system cancer,RNASeq,0.245
-Melanoma of skin,RNASeq,0
-Gallbladder cancer,RNASeq,0
-Larynx cancer,RNASeq,0
-Nasopharynx cancer,RNASeq,0
-Oropharynx cancer,RNASeq,0.061
-Hypopharynx cancer,RNASeq,0
-Hodgkin lymphoma,RNASeq,0.061
-Testis cancer,RNASeq,0.122
-Salivary glands cancer,RNASeq,0
-Anus cancer,RNASeq,0
-Vulva cancer,RNASeq,0
-Kaposi sarcoma,RNASeq,0.122
-Penis cancer,RNASeq,0
-vaginal cancer,RNASeq,0
+ALung,Cancer.pop,-12.3
+BBreast,Cancer.pop,-12.3
+FThyroid,Cancer.pop,-3.3
+EOvary,Cancer.pop,-1.7
+KMultiple myeloma,Cancer.pop,-0.9
+NMesothelioma,Cancer.pop,-0.2
+CColorectal cancer,Cancer.pop,-10.6
+DProstate,Cancer.pop,-7.5
+GStomach Cancer,Cancer.pop,-6.1
+JLiver cancer,Cancer.pop,-5
+UOesophagus cancer,Cancer.pop,-3.4
+VCervix uteri cancer,Cancer.pop,-3.3
+HBladder,Cancer.pop,-3.2
+WNon-Hodgkin lymphoma,Cancer.pop,-3
+IPancreas,Cancer.pop,-2.7
+LLeukemia,Cancer.pop,-2.6
+MKidney Tumors,Cancer.pop,-2.4
+XCorpus uteri cancer,Cancer.pop,-2.2
+RLip and Oral Cavity,Cancer.pop,-2.1
+OBrain Cancer / central nervous system cancer,Cancer.pop,-1.7
+YMelanoma of skin,Cancer.pop,-1.7
+ZGallbladder cancer,Cancer.pop,-1.3
+ZZLarynx cancer,Cancer.pop,-1
+ZZZNasopharynx cancer,Cancer.pop,-0.8
+SOropharynx cancer,Cancer.pop,-0.5
+ZZZZHypopharynx cancer,Cancer.pop,-0.5
+THodgkin lymphoma,Cancer.pop,-0.5
+PTestis cancer,Cancer.pop,-0.4
+ZZZZZSalivary glands cancer,Cancer.pop,-0.3
+ZZZZZZAnus cancer,Cancer.pop,-0.3
+ZZZZZZZVulva cancer,Cancer.pop,-0.3
+QKaposi sarcoma,Cancer.pop,-0.2
+ZZZZZZZZPenis cancer,Cancer.pop,-0.2
+ZZZZZZZZZvaginal cancer,Cancer.pop,-0.1
+ALung,RNASeq,17.881
+BBreast,RNASeq,16.289
+FThyroid,RNASeq,3.307
+EOvary,RNASeq,3.429
+KMultiple myeloma,RNASeq,1.164
+NMesothelioma,RNASeq,0.306
+CColorectal cancer,RNASeq,7.777
+DProstate,RNASeq,6.307
+GStomach Cancer,RNASeq,2.633
+JLiver cancer,RNASeq,1.96
+UOesophagus cancer,RNASeq,0
+VCervix uteri cancer,RNASeq,0
+HBladder,RNASeq,2.449
+WNon-Hodgkin lymphoma,RNASeq,0
+IPancreas,RNASeq,2.082
+LLeukemia,RNASeq,0.612
+MKidney Tumors,RNASeq,0.551
+XCorpus uteri cancer,RNASeq,0
+RLip and Oral Cavity,RNASeq,0.061
+OBrain Cancer / central nervous system cancer,RNASeq,0.245
+YMelanoma of skin,RNASeq,0
+ZGallbladder cancer,RNASeq,0
+ZZLarynx cancer,RNASeq,0
+ZZZNasopharynx cancer,RNASeq,0
+SOropharynx cancer,RNASeq,0.061
+ZZZZHypopharynx cancer,RNASeq,0
+THodgkin lymphoma,RNASeq,0.061
+PTestis cancer,RNASeq,0.122
+ZZZZZSalivary glands cancer,RNASeq,0
+ZZZZZZAnus cancer,RNASeq,0
+ZZZZZZZVulva cancer,RNASeq,0
+QKaposi sarcoma,RNASeq,0.122
+ZZZZZZZZPenis cancer,RNASeq,0
+ZZZZZZZZZvaginal cancer,RNASeq,0
