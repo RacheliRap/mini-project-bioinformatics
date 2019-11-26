@@ -1,38 +1,38 @@
 Cancer Types,Dif,Val
-Lung,Cancer.pop,12.3
-Breast,Cancer.pop,12.3
-Thyroid,Cancer.pop,3.3
-Ovary,Cancer.pop,1.7
-Multiple myeloma,Cancer.pop,0.9
-Mesothelioma,Cancer.pop,0.2
-Colorectal cancer,Cancer.pop,10.6
-Prostate,Cancer.pop,7.5
-Stomach Cancer,Cancer.pop,6.1
-Liver cancer,Cancer.pop,5
-Oesophagus cancer,Cancer.pop,3.4
-Cervix uteri cancer,Cancer.pop,3.3
-Bladder,Cancer.pop,3.2
-Non-Hodgkin lymphoma,Cancer.pop,3
-Pancreas,Cancer.pop,2.7
-Leukemia,Cancer.pop,2.6
-Kidney Tumors,Cancer.pop,2.4
-Corpus uteri cancer,Cancer.pop,2.2
-Lip and Oral Cavity,Cancer.pop,2.1
-Brain Cancer / central nervous system cancer,Cancer.pop,1.7
-Melanoma of skin,Cancer.pop,1.7
-Gallbladder cancer,Cancer.pop,1.3
-Larynx cancer,Cancer.pop,1
-Nasopharynx cancer,Cancer.pop,0.8
-Oropharynx cancer,Cancer.pop,0.5
-Hypopharynx cancer,Cancer.pop,0.5
-Hodgkin lymphoma,Cancer.pop,0.5
-Testis cancer,Cancer.pop,0.4
-Salivary glands cancer,Cancer.pop,0.3
-Anus cancer,Cancer.pop,0.3
-Vulva cancer,Cancer.pop,0.3
-Kaposi sarcoma,Cancer.pop,0.2
-Penis cancer,Cancer.pop,0.2
-vaginal cancer,Cancer.pop,0.1
+Lung,Cancer.pop,-12.3
+Breast,Cancer.pop,-12.3
+Thyroid,Cancer.pop,-3.3
+Ovary,Cancer.pop,-1.7
+Multiple myeloma,Cancer.pop,-0.9
+Mesothelioma,Cancer.pop,-0.2
+Colorectal cancer,Cancer.pop,-10.6
+Prostate,Cancer.pop,-7.5
+Stomach Cancer,Cancer.pop,-6.1
+Liver cancer,Cancer.pop,-5
+Oesophagus cancer,Cancer.pop,-3.4
+Cervix uteri cancer,Cancer.pop,-3.3
+Bladder,Cancer.pop,-3.2
+Non-Hodgkin lymphoma,Cancer.pop,-3
+Pancreas,Cancer.pop,-2.7
+Leukemia,Cancer.pop,-2.6
+Kidney Tumors,Cancer.pop,-2.4
+Corpus uteri cancer,Cancer.pop,-2.2
+Lip and Oral Cavity,Cancer.pop,-2.1
+Brain Cancer / central nervous system cancer,Cancer.pop,-1.7
+Melanoma of skin,Cancer.pop,-1.7
+Gallbladder cancer,Cancer.pop,-1.3
+Larynx cancer,Cancer.pop,-1
+Nasopharynx cancer,Cancer.pop,-0.8
+Oropharynx cancer,Cancer.pop,-0.5
+Hypopharynx cancer,Cancer.pop,-0.5
+Hodgkin lymphoma,Cancer.pop,-0.5
+Testis cancer,Cancer.pop,-0.4
+Salivary glands cancer,Cancer.pop,-0.3
+Anus cancer,Cancer.pop,-0.3
+Vulva cancer,Cancer.pop,-0.3
+Kaposi sarcoma,Cancer.pop,-0.2
+Penis cancer,Cancer.pop,-0.2
+vaginal cancer,Cancer.pop,-0.1
 Lung,RNASeq,17.881
 Breast,RNASeq,16.289
 Thyroid,RNASeq,3.307
