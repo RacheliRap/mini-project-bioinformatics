@@ -42,14 +42,16 @@ pdf("All Articles VS. RNA-seq Articles-logarithmic scale.pdf", width = 13, heigh
 theme_set(theme_classic())
 
 ggplot(df, aes(x=df[,1], y=df[,3], col = Kind)) + 
-  theme(axis.text = element_text(family = "Times", size = 20),
-        axis.text.x = element_text(family = "Times", vjust=0.6),
-        axis.title = element_text(family = "Times", face = "italic", size = 25),
-        plot.title = element_text(family = "Times", face = "bold", size = 30),
-        legend.text = element_text(family = "Times", size = 25))+
+  theme(axis.title = element_text(face = "italic", size = 27),
+        plot.title = element_text( face = "bold", size = 30),
+        axis.text.x = element_text( vjust=0.6), 
+        axis.text =   element_text(size = 25),
+        legend.text = element_text(size = 20),
+        legend.title = element_text(size = 25),
+        legend.key.size = unit(0.9, "cm"))+
   scale_fill_manual(values=m_colors) +
-  geom_point(size=6, alpha=0.6)+ geom_path()+
-  labs(title="All Articles VS. RNA-seq Articles (logarithm scale)", 
+  geom_point(size=6, alpha=0.5)+ geom_path()+
+  labs(#title="All Articles VS. RNA-seq Articles (logarithm scale)", 
        subtitle="",
        y = "Number of Articles",
        x = "Years")

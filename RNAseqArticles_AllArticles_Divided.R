@@ -27,16 +27,18 @@ df[,2] <- as.numeric(as.character(df[,2]))
 df[,1] <- as.numeric(as.character(df[,1]))
 
 
-pdf("All Articles VS. RNA-seq Articles- Divided.pdf", width = 13, height = 10)
+pdf("All Articles VS. RNA-seq Articles- Divided.pdf", width = 15, height = 10)
 
 theme_set(theme_classic())
-ggplot(df, aes(x=df[,1], y=df[,2])) + labs(x = "Years", y = "Published RNA-seq Articles divided by All Published Articles", fill = NULL, title = "All Published Articles VS. All RNA-seq Published Articles")+
-  theme(axis.text = element_text(family = "Times", size = 20),
-        axis.text.x = element_text(family = "Times", vjust=0.6),
-        axis.title = element_text(family = "Times", face = "italic", size = 25),
-        plot.title = element_text(family = "Times", face = "bold", size = 30),
-        legend.text = element_text(family = "Times", size = 25))+
-  scale_fill_manual(values=m_colors) +
-  geom_point(size=6, alpha=0.6)+ geom_path()
+ggplot(df, aes(x=df[,1], y=df[,2])) + labs(x = "Years", y = "Published RNA-seq Articles divided by All Published Articles", fill = NULL)+  #, title = "All Published Articles VS. All RNA-seq Published Articles")+
+  theme(axis.title = element_text(face = "italic", size = 20),
+        plot.title = element_text( face = "bold", size = 30),
+        axis.text.x = element_text( vjust=0.6), 
+        axis.text =   element_text(size = 20),
+        legend.text = element_text(size = 20),
+        legend.title = element_text(size = 25),
+        legend.key.size = unit(0.9, "cm"))+
+  #scale_fill_manual(values=m_colors) +
+  geom_point(size=6, alpha=0.5)+ geom_path()
 
 dev.off()
