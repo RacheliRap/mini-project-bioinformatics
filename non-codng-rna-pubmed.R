@@ -6,10 +6,10 @@ library(rentrez)
 
 types = c("rRNA OR ribosomal RNA OR 12S OR 16s OR 25S OR 25S OR 5S OR 5.8S",
           "tRNA OR mt-tRNA", "lincRNA OR lncRNA", 
-          "miRNA OR miR OR microRNA", "piRNA","scRNA","snRNA", "sRNA", "snoRNA","misc_RNA",
+          "miRNA OR miR OR microRNA", "piRNA","scRNA","snRNA", "sRNA", "snoRNA","miscRNA",
           "circRNA OR Circular RNA", "Circulating")
 types_for_plot = c("rRNA","tRNA", "lincRNA", 
-          "microRNA", "piRNA",  "scRNA","snRNA", "sRNA", "snoRNA","misc_RNA",
+          "microRNA", "piRNA",  "scRNA","snRNA", "sRNA", "snoRNA","miscRNA",
           "circRNA", "circulating RNA")
 
 
@@ -34,32 +34,39 @@ for(y in 2010:2018)
 # create data frame
 colnames(typesCount) <- c("Year", "Molecule", "Value")
 df <- as.data.frame(typesCount)
-df[,3] <- as.numeric(as.character(df[,3]))
+df[,3] <- as.numeric(as.character(typesCount[,3]))
 
-m_colors = c("#df4a7a", "#c97b7a","#de5137", "#d08935","#a78d57","#d2d23e","#cfd88d",
-             "#67993f","#76d854", "#529477","#6bb2d5","#6387d7", "#777ba7", "#8371df",
-             "#b159e0", "#d6aad9", "#bd6cac", "#db49ba")
-
+m_colors = c("#f2a8bb",
+             "#ffd1c4",
+             "#fff1c7",
+             "#e6ffe7",
+             "#a7e8c5",
+             "#88b5a1",
+             "#82d7c5",
+             "#77b3d1",
+             "#acdeff",
+             "#f7faff",
+             "#e6dfff",
+             "#b8aae0",
+             "#c3a1bd")
 # plot the results 
-pdf("nonCodingRNA.pdf", width = 13, height = 10)
+pdf("nonCodingRNA.pdf", width = 15, height = 10)
+
 
 theme_set(theme_classic())
 
-g <- ggplot(df, aes(x = Year, y = Value))
+g<-ggplot(df, aes(x=Year, y=Value)) 
 g + geom_bar(aes(fill=fct_reorder(Molecule, Value, sum, desc=TRUE)), width = 0.5, stat="identity") + 
-  theme(axis.title = element_text(family = "Times", face = "italic", size = 25),
-        plot.title = element_text(family = "Times", face = "bold", size = 30),
-        axis.text.x = element_text(angle=0, vjust=0.6), 
-        axis.text =   element_text(family = "Times",size = 20),
-        legend.text = element_text(family = "Times",size = 23),
-        legend.title = element_text(family = "Times",size = 25),
-        legend.key.size = unit(0.95, "cm")) +
-  scale_fill_manual(values=m_colors) +
-  labs(title="Non-Coding RNA Molecules", 
-       subtitle="", fill = "RNA molecules", y = "Number Of Abstracts", x = "Year",
-       family = "Times", face = "italic") 
-
-
+  theme(axis.title = element_text(face = "italic", size = 27),
+        plot.title = element_text( face = "bold", size = 30),
+        axis.text.x = element_text( vjust=0.6, angle=65), 
+        axis.text =   element_text(size = 25),
+        legend.text = element_text(size = 20),
+        legend.title = element_text(size = 25),
+        legend.key.size = unit(0.9, "cm")) +
+  scale_fill_manual("RNA Molecule", values=m_colors) +
+  labs(y="Number Of Entries" )
+ 
 
 dev.off()
 

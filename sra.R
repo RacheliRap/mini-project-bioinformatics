@@ -45,6 +45,7 @@ ggplot(data=df, aes(x=Year, y=Count)) +
         plot.subtitle = element_text(size = 27),
         axis.text =   element_text(size = 20),
         plot.title = element_text(face = "bold", size = 30))+
+        scale_fill_manual(values="e6bb9e") +
   labs(title = "SRA", y = "Number Of Entries", x = "Year", subtitle = "RNA Entries Per Year")
 dev.off()
 
@@ -58,5 +59,6 @@ ggplot(data=df2, aes(x=Year, y=Count)) +
         plot.subtitle = element_text(size = 27),
         axis.text =   element_text(size = 20),
         plot.title = element_text(face = "bold", size = 30))+
+  scale_fill_manual(values="ffe7d0") +
   labs(title = "SRA", y = "Number Of Entries", x = "Year", subtitle = "RNA Entries/All Entries ")
 dev.off()

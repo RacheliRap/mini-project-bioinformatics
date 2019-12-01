@@ -82,32 +82,41 @@ for(j in 1:length(types))
 # create data frame from the results
 colnames(typesCount) <- c("Cancer", "RNA", "Value")
 df <- as.data.frame(typesCount)
-df[,3] <- as.numeric(as.character(df[,3]))
+df[,3] <- as.numeric(as.character(typesCount[,3]))
 
 # list of colors for plot
-m_colors = c("#df4a7a","#c97b7a","#de5137","#d08935","#a78d57","#d2d23e", "#67993f", "#76d854",
-              "#66db9f","#529477","#81dacf","#6387d7", "#777ba7","#8371df","#b159e0",
-              "#d6aad9","#bd6cac","#db49ba")
+m_colors = c("#f2a8bb",
+             "#ffd1c4",
+             "#e7ae8e",
+             "#e1cd96",
+             "#fff1c7",
+             "#9fb28a",
+             "#e6ffe7",
+             "#a7e8c5",
+             "#88b5a1",
+             "#82d7c5",
+             "#77b3d1",
+             "#acdeff",
+             "#e6dfff",
+             "#b8aae0",
+             "#c3a1bd")
 
 # create stacked bar plot, and save it to pdf file
-pdf("nonCoding_vs_Diseases.pdf", width = 13, height = 10)
+pdf("nonCoding_vs_Diseases.pdf", width = 15, height = 10)
 
 theme_set(theme_classic())
 
-g <- ggplot(df, aes(x = RNA, y = Value))
+g<-ggplot(df, aes(x=RNA, y=Value))
 g + geom_bar(aes(fill=fct_reorder(Cancer, Value, sum, desc=TRUE)), width = 0.5, stat="identity") + 
-  theme(axis.title = element_text(family = "Times", face = "italic", size = 25),
-        plot.title = element_text(family = "Times", face = "bold", size = 30),
-        axis.text.x = element_text(angle=65, vjust=0.6), 
-        axis.text =   element_text(family = "Times",size = 20),
-        legend.text = element_text(family = "Times",size = 22),
-        legend.title = element_text(family = "Times",size = 25),
-        legend.key.size = unit(0.95, "cm")) +
-  scale_fill_manual(values=m_colors) +
-  labs(title="Cancer Location By Non-Coding RNA Molecules", 
-       subtitle="", fill = "Location/System", y = "Number Of Abstracts", x = "RNA molecules",
-       family = "Times", face = "italic") 
-
+  theme(axis.title = element_text(face = "italic", size = 27),
+        plot.title = element_text( face = "bold", size = 30),
+        axis.text.x = element_text( vjust=0.6, angle=65), 
+        axis.text =   element_text(size = 25),
+        legend.text = element_text(size = 20),
+        legend.title = element_text(size = 25),
+        legend.key.size = unit(0.9, "cm")) +
+  scale_fill_manual("Body Location/System", values=m_colors) +
+  labs(y="Number Of Entries")
 
 dev.off()
 
